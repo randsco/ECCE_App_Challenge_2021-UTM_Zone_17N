@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>arrow-right-12</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="0-UI-icons" transform="translate(-232.000000, -187.000000)">
+            <g id="arrow-right-12" transform="translate(232.000000, 187.000000)">
+                <path d="M9.52098152,5.4707884 L3.98059079,0.161233096 C3.75626708,-0.0537443653 3.39256649,-0.0537443653 3.16824278,0.161233096 C2.94391907,0.376210557 2.94391907,0.724757889 3.16824278,0.93973535 L8.44850482,6 L3.16824278,11.0602647 C2.94391907,11.2752421 2.94391907,11.6237894 3.16824278,11.8387669 C3.39256649,12.0537444 3.75626708,12.0537444 3.98059079,11.8387669 L9.52098152,6.5292116 C9.82633949,6.23657608 9.82633949,5.76342392 9.52098152,5.4707884 Z" id="Path" fill="#000000"></path>
+                <rect id="Rectangle-2" fill-rule="nonzero" x="0" y="0" width="12" height="12"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

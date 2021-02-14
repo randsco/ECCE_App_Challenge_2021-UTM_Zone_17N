@@ -1,0 +1,22 @@
+define({
+  back: 'Indietro',
+  createFailedWarning: 'Impossibile creare i dati!',
+  noSupportedDataSource: 'Nessun dato supportato disponibile.',
+  noUsedFieldToMap: 'Non vi è nessun campo in uso da mappare.',
+  noChildDssToMap: 'Non vi sono dati figlio da mappare.',
+  inUse: 'In uso',
+  noRelatedWidget: 'Nessun widget relativo',
+  noUsedField: 'Nessun campo usato',
+  noLayer: 'Nessun layer',
+  noDataNotice: 'Nessun dato nell\'esperienza.<br/>Aggiungere i dati.',
+  dataViews: 'Viste dei dati',
+  originalDsLabel: 'Origine',
+  autoRefresh: 'Aggiornamento automatico',
+  updateMinutesAgo: 'Ultimo aggiornamento: {minutes} minuti fa',
+  updateOneMinuteAgo: 'Ultimo aggiornamento: un minuto fa',
+  updateSecondsAgo: 'Ultimo aggiornamento qualche secondo fa',
+  refreshSetting: 'Impostazioni aggiornamento',
+  interval: 'Intervallo',
+  honorLayer: 'Impostazioni del layer onore',
+  minutes: 'minuti'
+});

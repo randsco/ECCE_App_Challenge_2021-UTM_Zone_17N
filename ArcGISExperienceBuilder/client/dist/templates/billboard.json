@@ -1,0 +1,301 @@
+{
+  "pages": {
+    "home": {
+      "type": "NORMAL",
+      "mode": "FIT_WINDOW",
+      "layout": {
+        "LARGE": "layout_0",
+        "SMALL": "layout_5"
+      },
+      "isVisible": true,
+      "id": "home",
+      "isDefault": true
+    }
+  },
+  "layouts": {
+    "layout_0": {
+      "type": "FIXED",
+      "order": [
+        "0"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": 0,
+            "top": 0,
+            "width": "31.2500%",
+            "height": "50.0000%",
+            "right": 0,
+            "bottom": 0
+          },
+          "widgetId": "widget_1",
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": false,
+              "width": "STRETCH",
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH"
+            }
+          }
+        }
+      }
+    },
+    "layout_1": {
+      "type": "FIXED",
+      "order": [
+        "0"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "47px",
+            "top": "0px",
+            "width": "200px",
+            "height": "62px"
+          },
+          "widgetId": "widget_2",
+          "setting": {
+            "lockParent": true,
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      }
+    },
+    "layout_2": {
+      "type": "FIXED",
+      "order": [
+        "0",
+        "1"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {},
+          "widgetId": "widget_8"
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {},
+          "widgetId": "widget_9"
+        }
+      }
+    },
+    "layout_3": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": 0,
+            "top": 0,
+            "bottom": 0,
+            "right": 0
+          }
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_5": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": 0,
+            "top": 0,
+            "width": "31.2500%",
+            "height": "50.0000%",
+            "right": 0,
+            "bottom": 0
+          },
+          "widgetId": "widget_1",
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": false,
+              "width": "STRETCH",
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH"
+            }
+          }
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_6": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "14px",
+            "top": "648px",
+            "width": "303px",
+            "height": "62px"
+          },
+          "widgetId": "widget_2",
+          "setting": {
+            "lockParent": true,
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_7": {
+      "type": "FIXED",
+      "order": [
+        "0",
+        "1"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {},
+          "widgetId": "widget_8"
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {},
+          "widgetId": "widget_9"
+        }
+      }
+    },
+    "layout_9": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": 0,
+            "top": 0,
+            "bottom": 0,
+            "right": 0
+          }
+        }
+      },
+      "order": [
+        "0"
+      ]
+    }
+  },
+  "widgets": {
+    "widget_1": {
+      "id": "widget_1",
+      "uri": "widgets/arcgis/arcgis-map/",
+      "config": {
+        "toolConifg": {
+          "canZoom": true,
+          "canHome": true,
+          "canSearch": true,
+          "canNavigation": true,
+          "canBaseMap": true,
+          "canMeasure": true,
+          "canFullScreen": true,
+          "canScaleBar": false
+        },
+        "initialMapDataSourceID": "dataSource_1"
+      },
+      "layouts": {
+        "MapFixedLayout": {
+          "LARGE": "layout_1",
+          "SMALL": "layout_6"
+        }
+      },
+      "useDataSources": [],
+      "version": "1.3.0"
+    },
+    "widget_2": {
+      "id": "widget_2",
+      "uri": "widgets/common/controller/",
+      "config": {
+        "behavior": {
+          "onlyOpenOne": true,
+          "displayType": "STACK",
+          "vertical": false,
+          "size": {}
+        },
+        "appearance": {
+          "space": 0,
+          "advanced": false,
+          "card": {
+            "showLabel": false,
+            "labelGrowth": 10,
+            "avatar": {
+              "type": "primary",
+              "size": "default",
+              "shape": "rectangle"
+            }
+          }
+        }
+      },
+      "layouts": {
+        "controller": {
+          "LARGE": "layout_2",
+          "SMALL": "layout_7"
+        },
+        "_openwidget": {
+          "LARGE": "layout_3",
+          "SMALL": "layout_9"
+        }
+      },
+      "widgets": [
+        "widget_8",
+        "widget_9"
+      ],
+      "useDataSources": [],
+      "useDataSourcesEnabled": true,
+      "version": "1.3.0"
+    },
+    "widget_8": {
+      "id": "widget_8",
+      "uri": "widgets/arcgis/map-layers/",
+      "config": {
+        "useMapWidget": true
+      },
+      "useMapWidgetIds": [
+        "widget_1"
+      ],
+      "version": "1.3.0"
+    },
+    "widget_9": {
+      "id": "widget_9",
+      "uri": "widgets/arcgis/legend/",
+      "config": {},
+      "useMapWidgetIds": [
+        "widget_1"
+      ],
+      "version": "1.3.0"
+    }
+  },
+  "exbVersion": "1.3.0",
+  "mainSizeMode": "LARGE",
+  "theme": "themes/vivid/",
+  "forBuilderAttributes": {
+    "lockLayout": true
+  },
+  "template": "billboard",
+  "widgetsManifest": {},
+  "views": {},
+  "sections": {},
+  "dataSources": {},
+  "messageConfigs": {},
+  "pageStructure": [
+    {
+      "home": []
+    }
+  ],
+  "timestamp": 1602805117978
+}

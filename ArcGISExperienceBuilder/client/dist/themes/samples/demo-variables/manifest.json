@@ -1,0 +1,16 @@
+{
+  "name": "demo-variables",
+  "label": "Demo Variables",
+  "type": "theme",
+  "thumbnails ": [],
+  "version": "1.3.0",
+  "exbVersion": "1.3.0",
+  "author": "Esri R&D Center Beijing",
+  "description": "This theme demos how to use variables to define theme.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "styleFiles": {
+    "css": false,
+    "js": false
+  }
+}

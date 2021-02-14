@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="460px" height="305px" viewBox="0 0 460 305" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Jimu</title>
+    <desc>Created with Sketch.</desc>
+    <g id="$App-list+Template" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="$A0-1-AppList-Empty" transform="translate(-491.000000, -349.000000)" fill-rule="nonzero">
+            <g id="Jimu" transform="translate(492.000000, 350.000000)">
+                <g id="Group-14" transform="translate(0.000000, 44.000000)" stroke="#444444" stroke-linejoin="round">
+                    <polygon id="Polygon" fill="#6A6A6A" points="229 0 458 127 229 254 0 127"></polygon>
+                    <polygon id="Polygon-Copy-6" fill="#525252" points="1.79412041e-13 132 229 259 229 254 1.80206544e-13 127"></polygon>
+                    <polygon id="Polygon" fill="#444444" points="458 132 458 127 229 254 229 259"></polygon>
+                </g>
+                <g id="Group-12" transform="translate(164.000000, 74.000000)" stroke="#444444">
+                    <g id="Group-11" stroke-linejoin="round">
+                        <polygon id="Polygon" fill="#6A6A6A" points="126 35 126 107 63 142 63 70"></polygon>
+                        <polygon id="Polygon-Copy" fill="#A8A8A8" points="5.32907052e-15 34.9132221 63 69.6172705 63 142 6.20337115e-15 107.295952"></polygon>
+                        <polygon id="Polygon-Copy-2" fill="#C5C5C5" points="63 1.27897692e-13 126 35 63 70 3.19744231e-14 35"></polygon>
+                    </g>
+                    <g id="Group-10" transform="translate(24.000000, 6.000000)">
+                        <g id="Cylinder" transform="translate(28.000000, 30.000000)">
+                            <path d="M21.5,7.44129053 C16.4602446,6.81365829 12.9554687,6.5 11,6.5 C9.17989469,6.5 5.67414728,6.81419179 0.5,7.44267806 C0.5,10.63478 0.5,10.7309859 0.5,13 C0.5,16.5303324 5.16662059,19.5 11,19.5 C16.8333794,19.5 21.5,16.5303324 21.5,13 C21.5,10.8138933 21.5,10.7238196 21.5,7.44129053 Z" id="Oval" fill="#6A6A6A"></path>
+                            <ellipse id="Oval" fill="#C5C5C5" cx="11" cy="7" rx="10.5" ry="6.5"></ellipse>
+                        </g>
+                        <g id="Cylinder-Copy-2" transform="translate(0.000000, 16.000000)">
+                            <path d="M21.5,7.44129053 C16.4602446,6.81365829 12.9554687,6.5 11,6.5 C9.17989469,6.5 5.67414728,6.81419179 0.5,7.44267806 C0.5,10.63478 0.5,10.7309859 0.5,13 C0.5,16.5303324 5.16662059,19.5 11,19.5 C16.8333794,19.5 21.5,16.5303324 21.5,13 C21.5,10.8138933 21.5,10.7238196 21.5,7.44129053 Z" id="Oval" fill="#6A6A6A"></path>
+                            <ellipse id="Oval" fill="#C5C5C5" cx="11" cy="7" rx="10.5" ry="6.5"></ellipse>
+                        </g>
+                        <g id="Cylinder-Copy" transform="translate(58.000000, 16.000000)">
+                            <path d="M21.5,7.44129053 C16.4602446,6.81365829 12.9554687,6.5 11,6.5 C9.17989469,6.5 5.67414728,6.81419179 0.5,7.44267806 C0.5,10.63478 0.5,10.7309859 0.5,13 C0.5,16.5303324 5.16662059,19.5 11,19.5 C16.8333794,19.5 21.5,16.5303324 21.5,13 C21.5,10.8138933 21.5,10.7238196 21.5,7.44129053 Z" id="Oval" fill="#6A6A6A"></path>
+                            <ellipse id="Oval" fill="#C5C5C5" cx="11" cy="7" rx="10.5" ry="6.5"></ellipse>
+                        </g>
+                        <g id="Cylinder-Copy-3" transform="translate(28.000000, 0.000000)">
+                            <path d="M21.5,7.44129053 C16.4602446,6.81365829 12.9554687,6.5 11,6.5 C9.17989469,6.5 5.67414728,6.81419179 0.5,7.44267806 C0.5,10.63478 0.5,10.7309859 0.5,13 C0.5,16.5303324 5.16662059,19.5 11,19.5 C16.8333794,19.5 21.5,16.5303324 21.5,13 C21.5,10.8138933 21.5,10.7238196 21.5,7.44129053 Z" id="Oval" fill="#6A6A6A"></path>
+                            <ellipse id="Oval" fill="#C5C5C5" cx="11" cy="7" rx="10.5" ry="6.5"></ellipse>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-13" transform="translate(270.000000, 150.000000)" stroke="#444444" stroke-linejoin="round">
+                    <polygon id="Polygon" fill="#C5C5C5" points="32 0 64 18 32 36 0 18"></polygon>
+                    <polygon id="Polygon-Copy-3" fill="#6A6A6A" points="64 18 64 49 32 67 32 36"></polygon>
+                    <polygon id="Polygon" fill="#A8A8A8" points="0 18 32 36 32 67 0 49"></polygon>
+                </g>
+                <g id="Group-8" transform="translate(102.000000, 150.000000)" stroke="#87D1E8" stroke-linejoin="round">
+                    <polygon id="Polygon" fill="#EAFDFF" points="46 0 92 27 46 54 0 27"></polygon>
+                    <polygon id="Polygon" fill="#ACE7F1" points="92 64 92 27 46 54 46 91"></polygon>
+                    <polygon id="Polygon" fill="#C2F4F8" points="-1.77635684e-15 64 46 91 46 54 -1.77635684e-15 27"></polygon>
+                </g>
+                <g id="Group-9" transform="translate(102.000000, 150.000000)" stroke="#444444">
+                    <g id="Group-8-Copy" stroke-linejoin="round">
+                        <polygon id="Polygon" fill="#C5C5C5" points="46 0 92 27 46 54 0 27"></polygon>
+                        <polygon id="Polygon" fill="#6A6A6A" points="92 64 92 27 46 54 46 91"></polygon>
+                        <polygon id="Polygon" fill="#A8A8A8" points="-1.77635684e-15 64 46 91 46 54 -1.77635684e-15 27"></polygon>
+                    </g>
+                    <g id="Group-7" transform="translate(16.000000, 6.000000)">
+                        <g id="Cylinder" transform="translate(22.000000, 24.000000)">
+                            <path d="M15.5,5.34346554 C11.9046333,4.91439404 9.4001913,4.7 8,4.7 C6.69680183,4.7 4.19145168,4.91490007 0.5,5.34479299 C0.5,7.44775237 0.5,7.54429953 0.5,9.1 C0.5,11.4650399 3.82238384,13.5 8,13.5 C12.1776162,13.5 15.5,11.4650399 15.5,9.1 C15.5,7.60018031 15.5,7.50976454 15.5,5.34346554 Z" id="Oval" fill="#6A6A6A"></path>
+                            <ellipse id="Oval" fill="#C5C5C5" cx="8" cy="4.9" rx="7.5" ry="4.4"></ellipse>
+                        </g>
+                        <g id="Cylinder-Copy-2" transform="translate(0.000000, 12.000000)">
+                            <path d="M15.5,5.34346554 C11.9046333,4.91439404 9.4001913,4.7 8,4.7 C6.69680183,4.7 4.19145168,4.91490007 0.5,5.34479299 C0.5,7.44775237 0.5,7.54429953 0.5,9.1 C0.5,11.4650399 3.82238384,13.5 8,13.5 C12.1776162,13.5 15.5,11.4650399 15.5,9.1 C15.5,7.60018031 15.5,7.50976454 15.5,5.34346554 Z" id="Oval" fill="#6A6A6A"></path>
+                            <ellipse id="Oval" fill="#C5C5C5" cx="8" cy="4.9" rx="7.5" ry="4.4"></ellipse>
+                        </g>
+                        <g id="Cylinder-Copy" transform="translate(44.000000, 12.000000)">
+                            <path d="M15.5,5.34346554 C11.9046333,4.91439404 9.4001913,4.7 8,4.7 C6.69680183,4.7 4.19145168,4.91490007 0.5,5.34479299 C0.5,7.44775237 0.5,7.54429953 0.5,9.1 C0.5,11.4650399 3.82238384,13.5 8,13.5 C12.1776162,13.5 15.5,11.4650399 15.5,9.1 C15.5,7.60018031 15.5,7.50976454 15.5,5.34346554 Z" id="Oval" fill="#6A6A6A"></path>
+                            <ellipse id="Oval" fill="#C5C5C5" cx="8" cy="4.9" rx="7.5" ry="4.4"></ellipse>
+                        </g>
+                        <g id="Cylinder-Copy-3" transform="translate(22.000000, 0.000000)">
+                            <path d="M15.5,5.34346554 C11.9046333,4.91439404 9.4001913,4.7 8,4.7 C6.69680183,4.7 4.19145168,4.91490007 0.5,5.34479299 C0.5,7.44775237 0.5,7.54429953 0.5,9.1 C0.5,11.4650399 3.82238384,13.5 8,13.5 C12.1776162,13.5 15.5,11.4650399 15.5,9.1 C15.5,7.60018031 15.5,7.50976454 15.5,5.34346554 Z" id="Oval" fill="#6A6A6A"></path>
+                            <ellipse id="Oval" fill="#C5C5C5" cx="8" cy="4.9" rx="7.5" ry="4.4"></ellipse>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-6" transform="translate(33.000000, 42.000000)">
+                    <g id="Group-5" transform="translate(1.000000, 0.000000)" stroke="#444444" stroke-linejoin="round">
+                        <polygon id="Polygon" fill="#C5C5C5" points="31 0 62 18 31 36 0 18"></polygon>
+                        <polygon id="Polygon" fill="#A8A8A8" points="-4.4408921e-15 30 31 48 31 36 3.29875016e-14 18"></polygon>
+                        <polygon id="Polygon" fill="#6A6A6A" points="62 30 62 18 31 36 31 48"></polygon>
+                    </g>
+                    <rect id="Rectangle" fill="#E3E3E3" x="0" y="62" width="2" height="20" rx="1"></rect>
+                    <rect id="Rectangle" fill="#E3E3E3" x="0" y="90" width="2" height="8" rx="1"></rect>
+                    <rect id="Rectangle" fill="#E3E3E3" x="62" y="54" width="2" height="16" rx="1"></rect>
+                    <rect id="Rectangle" fill="#E3E3E3" x="62" y="80" width="2" height="24" rx="1"></rect>
+                    <rect id="Rectangle" fill="#E3E3E3" x="31" y="78" width="2" height="28" rx="1"></rect>
+                    <rect id="Rectangle" fill="#E3E3E3" x="31" y="118" width="2" height="16" rx="1"></rect>
+                </g>
+                <g id="Group-6-Copy" transform="translate(301.000000, 0.000000)">
+                    <g id="Group-5" transform="translate(1.000000, 0.000000)" stroke="#444444" stroke-linejoin="round">
+                        <polygon id="Polygon" fill="#C5C5C5" points="43 0 86 25 43 50 0 25"></polygon>
+                        <polygon id="Polygon-Copy-5" fill="#A8A8A8" points="0 53 43 78 43 50 0 25"></polygon>
+                        <polygon id="Polygon-Copy-4" fill="#6A6A6A" points="86 53 86 25 43 50 43 78"></polygon>
+                    </g>
+                    <g id="Group-7" transform="translate(19.000000, 6.000000)" stroke="#444444">
+                        <g id="Cylinder" transform="translate(18.000000, 20.000000)">
+                            <path d="M15.5,5.34346554 C11.9046333,4.91439404 9.4001913,4.7 8,4.7 C6.69680183,4.7 4.19145168,4.91490007 0.5,5.34479299 C0.5,7.44775237 0.5,7.54429953 0.5,9.1 C0.5,11.4650399 3.82238384,13.5 8,13.5 C12.1776162,13.5 15.5,11.4650399 15.5,9.1 C15.5,7.60018031 15.5,7.50976454 15.5,5.34346554 Z" id="Oval" fill="#6A6A6A"></path>
+                            <ellipse id="Oval" fill="#C5C5C5" cx="8" cy="4.9" rx="7.5" ry="4.4"></ellipse>
+                        </g>
+                        <g id="Cylinder-Copy-2" transform="translate(0.000000, 10.000000)">
+                            <path d="M15.5,5.34346554 C11.9046333,4.91439404 9.4001913,4.7 8,4.7 C6.69680183,4.7 4.19145168,4.91490007 0.5,5.34479299 C0.5,7.44775237 0.5,7.54429953 0.5,9.1 C0.5,11.4650399 3.82238384,13.5 8,13.5 C12.1776162,13.5 15.5,11.4650399 15.5,9.1 C15.5,7.60018031 15.5,7.50976454 15.5,5.34346554 Z" id="Oval" fill="#6A6A6A"></path>
+                            <ellipse id="Oval" fill="#C5C5C5" cx="8" cy="4.9" rx="7.5" ry="4.4"></ellipse>
+                        </g>
+                        <g id="Cylinder-Copy" transform="translate(36.000000, 10.000000)">
+                            <path d="M15.5,5.34346554 C11.9046333,4.91439404 9.4001913,4.7 8,4.7 C6.69680183,4.7 4.19145168,4.91490007 0.5,5.34479299 C0.5,7.44775237 0.5,7.54429953 0.5,9.1 C0.5,11.4650399 3.82238384,13.5 8,13.5 C12.1776162,13.5 15.5,11.4650399 15.5,9.1 C15.5,7.60018031 15.5,7.50976454 15.5,5.34346554 Z" id="Oval" fill="#6A6A6A"></path>
+                            <ellipse id="Oval" fill="#C5C5C5" cx="8" cy="4.9" rx="7.5" ry="4.4"></ellipse>
+                        </g>
+                        <g id="Cylinder-Copy-3" transform="translate(18.000000, 0.000000)">
+                            <path d="M15.5,5.34346554 C11.9046333,4.91439404 9.4001913,4.7 8,4.7 C6.69680183,4.7 4.19145168,4.91490007 0.5,5.34479299 C0.5,7.44775237 0.5,7.54429953 0.5,9.1 C0.5,11.4650399 3.82238384,13.5 8,13.5 C12.1776162,13.5 15.5,11.4650399 15.5,9.1 C15.5,7.60018031 15.5,7.50976454 15.5,5.34346554 Z" id="Oval" fill="#6A6A6A"></path>
+                            <ellipse id="Oval" fill="#C5C5C5" cx="8" cy="4.9" rx="7.5" ry="4.4"></ellipse>
+                        </g>
+                    </g>
+                    <rect id="Rectangle" fill="#E3E3E3" x="0" y="70" width="2" height="24" rx="1"></rect>
+                    <rect id="Rectangle" fill="#E3E3E3" x="0" y="108" width="2" height="8" rx="1"></rect>
+                    <rect id="Rectangle" fill="#E3E3E3" x="86" y="72" width="2" height="36" rx="1"></rect>
+                    <rect id="Rectangle" fill="#E3E3E3" x="86" y="122" width="2" height="16" rx="1"></rect>
+                    <rect id="Rectangle" fill="#E3E3E3" x="43" y="100" width="2" height="12" rx="1"></rect>
+                    <rect id="Rectangle" fill="#E3E3E3" x="43" y="118" width="2" height="32" rx="1"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

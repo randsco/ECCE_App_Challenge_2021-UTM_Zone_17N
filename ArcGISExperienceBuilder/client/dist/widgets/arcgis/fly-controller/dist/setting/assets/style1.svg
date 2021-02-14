@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="108px" height="72px" viewBox="0 0 108 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>thumbnail_fly_palette</title>
+    <g id="Fly" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Fly_Both" transform="translate(-1316.000000, -597.000000)">
+            <g id="thumbnail/fly/palette" transform="translate(1316.000000, 597.000000)">
+                <g id="Group-2">
+                    <circle id="Oval-Copy-10" fill="#6A6A6A" cx="53" cy="43" r="10"></circle>
+                    <circle id="Oval-Copy-11" fill="#525252" cx="31" cy="47" r="6"></circle>
+                    <circle id="Oval-Copy-13" fill="#525252" cx="53" cy="21" r="6"></circle>
+                    <circle id="Oval-Copy-14" fill="#525252" cx="37" cy="31" r="6"></circle>
+                    <circle id="Oval-Copy-15" fill="#525252" cx="69" cy="31" r="6"></circle>
+                    <circle id="Oval-Copy-12" fill="#525252" cx="75" cy="47" r="6"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

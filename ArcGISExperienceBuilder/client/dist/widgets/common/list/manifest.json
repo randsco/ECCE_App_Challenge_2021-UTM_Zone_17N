@@ -1,0 +1,80 @@
+{
+  "name": "list",
+  "label": "List",
+  "type": "widget",
+  "version": "1.3.0",
+  "exbVersion": "1.3.0",
+  "author": "Esri R&D Center Beijing",
+  "description": "A widget to display data in a list view.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "publishMessages": [
+    "DATA_RECORDS_SELECTION_CHANGE"
+  ],
+  "defaultSize": {
+    "width": 620,
+    "height": 275
+  },
+  "properties": {
+    "hasEmbeddedLayout": true,
+    "lockChildren": true,
+    "flipIcon": true,
+    "hasBuilderSupportModule": true,
+    "hasGuide": true
+  },
+  "layouts": [
+    {
+      "name": "REGULAR",
+      "label": "Regular"
+    },
+    {
+      "name": "SELECTED",
+      "label": "Selected"
+    },
+    {
+      "name": "HOVER",
+      "label": "Hover"
+    }
+  ],
+  "translatedLocales": [
+    "en",
+    "ar",
+    "bs",
+    "ca",
+    "cs",
+    "da",
+    "de",
+    "el",
+    "es",
+    "et",
+    "fi",
+    "fr",
+    "he",
+    "hr",
+    "hu",
+    "id",
+    "it",
+    "ja",
+    "ko",
+    "lt",
+    "lv",
+    "nb",
+    "nl",
+    "pl",
+    "pt-br",
+    "pt-pt",
+    "ro",
+    "ru",
+    "sk",
+    "sl",
+    "sr",
+    "sv",
+    "th",
+    "tr",
+    "zh-cn",
+    "uk",
+    "vi",
+    "zh-hk",
+    "zh-tw"
+  ]
+}

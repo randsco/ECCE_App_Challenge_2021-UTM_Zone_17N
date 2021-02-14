@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>icons/Tomorrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="SQL" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DatePicker-2" transform="translate(-192.000000, -616.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="icons/Tomorrow" transform="translate(192.000000, 616.000000)">
+                <rect id="Rectangle" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                <path d="M12.6666667,2 L12,2 L12,0.666666672 L10.6666667,0.666666672 L10.6666667,2 L5.33333333,2 L5.33333333,0.666666672 L4,0.666666672 L4,2 L3.33333333,2 C2.59666666,2 2.00666666,2.59666667 2.00666667,3.33333333 L2,12.6666667 C2,13.4033333 2.59666667,14 3.33333333,14 L12.6666667,14 C13.4033333,14 14,13.4033333 14,12.6666667 L14,3.33333333 C14,2.59666666 13.4033333,2 12.6666667,2 Z M12.6666667,12.6666667 L3.33333333,12.6666667 L3.33333333,5.33333333 L12.6666667,5.33333333 L12.6666667,12.6666667 L12.6666667,12.6666667 Z M4,8.66666667 L9,8.66666667 L9,9.66666667 L4,9.66666667 L4,8.66666667 Z M12,9.16666667 L9,6.66666667 L9,11.6666667 L12,9.16666667 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

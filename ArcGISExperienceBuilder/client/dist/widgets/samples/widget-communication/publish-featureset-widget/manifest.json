@@ -1,0 +1,19 @@
+{
+  "name": "publish-featureset-widget",
+  "dependency": "jimu-arcgis",
+  "type": "widget",
+  "version": "1.3.0",
+  "exbVersion": "1.3.0",
+  "author": "Esri R&D Center Beijing",
+  "description": "This is the widget used in developer guide",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "publishMessages": [
+    "DATA_RECORD_SET_CREATE",
+    "DATA_RECORD_SET_UPDATE"
+  ],
+  "properties": {
+    "hasConfig": false,
+    "hasSettingPage": false
+  }
+}

@@ -1,0 +1,22 @@
+define({
+  back: 'Nazaj',
+  createFailedWarning: 'Podatkov ni mogoče ustvariti!',
+  noSupportedDataSource: 'Podprti podatki niso na voljo.',
+  noUsedFieldToMap: 'Kartirati ni treba nobenih polj, ki niso v uporabi.',
+  noChildDssToMap: 'Kartirati ni treba nobenih podatkov o podrejeni organizaciji.',
+  inUse: 'V uporabi',
+  noRelatedWidget: 'Ni povezanih pripomočkov',
+  noUsedField: 'Ni uporabljenega polja',
+  noLayer: 'Brez sloja',
+  noDataNotice: 'Ni podatkov v spletni aplikaciji.<br/>Prosimo dodajte podatke.',
+  dataViews: 'Pogledi podatkov',
+  originalDsLabel: 'Vir',
+  autoRefresh: 'Samodejno osveževanje',
+  updateMinutesAgo: 'Zadnja posodobitev: pred {minutes} minutami.',
+  updateOneMinuteAgo: 'Zadnja posodobitev: pred eno minuto',
+  updateSecondsAgo: 'Zadnja posodobitev: pred nekaj sekundami',
+  refreshSetting: 'Osveži nastavitve',
+  interval: 'Interval',
+  honorLayer: 'Spoštujte nastavitve sloja',
+  minutes: 'minute'
+});

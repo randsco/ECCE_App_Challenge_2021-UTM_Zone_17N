@@ -1,0 +1,221 @@
+{
+  "widgetId": "widget_x",
+  "config": {
+    "layouts": {
+      "layout_6": {
+        "type": "FIXED",
+        "content": {
+          "0": {
+            "type": "WIDGET",
+            "bbox": {
+              "left": "3.56%",
+              "top": "23.26%",
+              "width": "53px",
+              "height": "53px",
+              "right": "2.79%",
+              "bottom": "23.26%"
+            },
+            "widgetId": "widget_8",
+            "setting": {
+              "lockParent": true,
+              "vCenter": true,
+              "hCenter": false,
+              "autoProps": {
+                "width": false,
+                "height": false
+              },
+              "heightMode":"ratio",
+              "aspectRatio":1
+            },
+            "isPending": false
+          },
+          "1": {
+            "type": "WIDGET",
+            "bbox": {
+              "left": "13.8029%",
+              "width": "36.5%",
+              "height": "35%",
+              "right": "38.8333%",
+              "top": 31,
+              "bottom": 24
+            },
+            "widgetId": "widget_9",
+            "setting": {
+              "lockParent": true,
+              "autoProps": {
+                "width": true,
+                "height": false
+              },
+              "vCenter": false,
+              "hCenter": false
+            },
+            "isPending": false
+          },
+          "2": {
+            "type": "WIDGET",
+            "bbox": {
+              "left": 400,
+              "top": "36.6340%",
+              "width": "27.89%",
+              "height": "34.88%",
+              "right": "7.3574%",
+              "bottom": "28.4944%"
+            },
+            "widgetId": "widget_10",
+            "setting": {
+              "lockParent": true,
+              "autoProps": {
+                "width": false,
+                "height": false,
+                "left": true,
+                "right": false
+              },
+              "vCenter": false,
+              "hCenter": false
+            }
+          }
+        },
+        "order": [
+          "0",
+          "1",
+          "2"
+        ],
+        "label": "Regular"
+      }
+    },
+    "widgets": {
+      "widget_x": {
+        "config": {
+          "maxItems": 100,
+          "space": 10,
+          "itemsPerPage": 10,
+          "isItemStyleConfirm": false,
+          "isInitialed": false,
+          "pageStyle": "SCROLL",
+          "itemStyle": "STYLE5",
+          "hoverType": "HOVER0",
+          "selectedStyle": "STYLE0",
+          "differentOddEven": false,
+          "scrollBarOpen": true,
+          "direction": "VERTICAL",
+          "alignType": "CENTER",
+          "scrollStep": 2,
+          "cardConfigs": {
+            "REGULAR": {
+              "cardSize": {
+                "LARGE": {
+                  "width": 320,
+                  "height": 88
+                }
+              },
+              "enable": true,
+              "backgroundStyle": {
+                "border": {
+                  "type": "solid",
+                  "color": "var(--light-400)",
+                  "width": "1px"
+                }
+              }
+            },
+            "HOVER": {
+              "cardSize": {
+                "LARGE": {
+                  "width": 320,
+                  "height": 88
+                }
+              },
+              "enable": false,
+              "backgroundStyle": {
+                "border": {
+                  "type": "solid",
+                  "color": "var(--light-400)",
+                  "width": "1px"
+                }
+              }
+            },
+            "SELECTED": {
+              "cardSize": {
+                "LARGE": {
+                  "width": 320,
+                  "height": 88
+                }
+              },
+              "backgroundStyle": {
+                "border": {
+                  "type": "solid",
+                  "color": "var(--primary-500)",
+                  "width": "1px"
+                }
+              },
+              "selectionMode": "SINGLE"
+            }
+          },
+          "style": {
+            "id": "default"
+          }
+        },
+        "layouts": {
+          "REGULAR": {
+            "LARGE": "layout_6"
+          }
+        }
+      },
+      "widget_8": {
+        "uri": "widgets/common/image/",
+        "config": {
+          "functionConfig": {
+            "altText": "",
+            "toolTip": "",
+            "linkParam": {},
+            "scale": "Fit",
+            "imageParam": {
+              "cropParam": {
+                "cropShape": "circle",
+                "svgPath": "M28 14c0 7.732-6.268 14-14 14S0 21.732 0 14 6.268 0 14 0s14 6.268 14 14z",
+                "svgViewBox": "0 0 28 28"
+              }
+            }
+          },
+          "styleConfig": {}
+        }
+      },
+      "widget_9": {
+        "uri": "widgets/common/text/",
+        "config": {
+          "text": "",
+          "placeholder": "<p><span style=\"font-size: 16px;color: var(--dark-800);\">${textPlaceholder}</span></p>",
+          "style": {
+            "verticalAlign": "start",
+            "wrap": true,
+            "overflow": "scroll",
+            "padding": "p-1"
+          }
+        }
+      },
+      "widget_10": {
+        "uri": "widgets/common/button/",
+        "config": {
+          "functionConfig": {
+            "text": "${buttonText}",
+            "toolTip": "",
+            "linkParam": {}
+          },
+          "styleConfig": {
+            "name": "Default",
+            "themeStyle": {
+              "className": "jimu-widget d-block",
+              "color": "primary"
+            },
+            "customStyle": {
+              "regular": {},
+              "hover": {},
+              "clicked": {}
+            }
+          }
+        }
+      }
+    },
+    "views": {},
+    "sections": {}
+  }
+}

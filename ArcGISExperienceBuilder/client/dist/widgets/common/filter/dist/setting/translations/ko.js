@@ -1,0 +1,22 @@
+define({
+  start: '출발',
+  selectTemplateTip: '템플릿 선택',
+  selectAnotherTemplateTip: '다른 템플릿 선택',
+  filtersDesc: '새 필터를 추가하여 옵션을 사용자 정의하세요.',
+  newFilter: '새 필터',
+  setFilterItem: '새 필터 생성',
+  sqlExpr: 'SQL 식',
+  sqlExprDesc: '필터에 SQL 식을 추가합니다.',
+  openFilterBuilder: 'SQL 식 작성기',
+  setExprTips: '먼저 SQL 식을 추가하세요.',
+  options: '옵션',
+  autoApplyWhenWidgetOpen: '이 필터 자동 적용',
+  collapseFilterExprs: '필터 세부 정보(있는 경우) 자동 접기',
+  arrangeAndStyle: '정렬 스타일',
+  activationMethods: '활성화 스타일',
+  toggleTooltip: '토글 스위치',
+  buttonTooltip: '버튼',
+  omitInternalStyle: '단일 절에 대한 활성화 스타일 제외',
+  omitInternalStyleTip: '각 필터에 하나의 절만 있으며 값을 요청하거나 레이블을 표시하는 경우 이 옵션을 사용하며 활성화 스타일(레이블 및 아이콘과 함께)을 제외하고 절 콘텐츠를 직접 표시하고 자동으로 적용할 수 있습니다.',
+  wrapFilters: '항목 래핑'
+});

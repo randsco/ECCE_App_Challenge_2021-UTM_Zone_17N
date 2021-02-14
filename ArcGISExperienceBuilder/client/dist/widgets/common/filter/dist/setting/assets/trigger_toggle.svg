@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="50px" viewBox="0 0 70 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>thumbnail_methods_toggle</title>
+    <g id="Filter_v3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="StyleSetting" transform="translate(-1195.000000, -483.000000)">
+            <g id="SettingPanel" transform="translate(1180.000000, 36.000000)">
+                <g id="thumbnail/methods/toggle" transform="translate(15.000000, 447.000000)">
+                    <g>
+                        <g id="Group-9" transform="translate(53.000000, 5.000000)">
+                            <rect id="Title-Copy-34" fill="#6A6A6A" x="0" y="0" width="12" height="6" rx="3"></rect>
+                            <rect id="Title-Copy-34" fill="#181818" x="7" y="1" width="4" height="4" rx="2"></rect>
+                        </g>
+                        <rect id="Title-Copy-32" fill="#6A6A6A" fill-rule="nonzero" x="5" y="6" width="42" height="4"></rect>
+                        <rect id="Title-Copy-48" fill="#6A6A6A" fill-rule="nonzero" x="5" y="14" width="42" height="4"></rect>
+                        <rect id="Title-Copy-49" fill="#6A6A6A" fill-rule="nonzero" x="5" y="22" width="42" height="4"></rect>
+                        <rect id="Title-Copy-50" fill="#6A6A6A" fill-rule="nonzero" x="5" y="30" width="42" height="4"></rect>
+                        <rect id="Title-Copy-51" fill="#6A6A6A" fill-rule="nonzero" x="5" y="38" width="31" height="4"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

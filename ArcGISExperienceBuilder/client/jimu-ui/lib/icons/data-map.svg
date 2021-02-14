@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>data-map</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="0-UI-icons" transform="translate(-208.000000, -933.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M214,944.942566 L218,946.654093 L218,937.057434 L214,935.345907 L214,944.942566 Z M213,945.113002 L213,935.494311 L209,936.974346 L209,946.593036 L213,945.113002 Z M219,946.505689 L223,945.025654 L223,935.406964 L219,936.886998 L219,946.505689 Z M208,948 L208,936.307399 L213.749874,934.179896 L218.277738,936.117286 L224,934 L224,945.692601 L218.250126,947.820104 L213.722262,945.882714 L208,948 Z" id="data-map"></path>
+        </g>
+    </g>
+</svg>

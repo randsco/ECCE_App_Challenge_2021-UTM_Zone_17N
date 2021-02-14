@@ -1,0 +1,70 @@
+{
+  "name": "divider",
+  "label": "Divider",
+  "type": "widget",
+  "version": "1.3.0",
+  "exbVersion": "1.3.0",
+  "author": "Esri R&D Center Beijing",
+  "description": "A widget to display data in a Divider view.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "defaultSize": {
+    "width": 300,
+    "height": 50
+  },
+  "properties": {
+    "hasEmbeddedLayout": true,
+    "lockChildren": true,
+    "canCrossLayoutBoundary": true,
+    "flipIcon": true,
+    "hasBuilderSupportModule": true
+  },
+  "extensions": [
+    {
+      "name": "quick-style",
+      "point": "CONTEXT_TOOL",
+      "uri": "tools/quick-style"
+    }
+  ],
+  "translatedLocales": [
+    "en",
+    "ar",
+    "bs",
+    "ca",
+    "cs",
+    "da",
+    "de",
+    "el",
+    "es",
+    "et",
+    "fi",
+    "fr",
+    "he",
+    "hr",
+    "hu",
+    "id",
+    "it",
+    "ja",
+    "ko",
+    "lt",
+    "lv",
+    "nb",
+    "nl",
+    "pl",
+    "pt-br",
+    "pt-pt",
+    "ro",
+    "ru",
+    "sk",
+    "sl",
+    "sr",
+    "sv",
+    "th",
+    "tr",
+    "zh-cn",
+    "uk",
+    "vi",
+    "zh-hk",
+    "zh-tw"
+  ]
+}

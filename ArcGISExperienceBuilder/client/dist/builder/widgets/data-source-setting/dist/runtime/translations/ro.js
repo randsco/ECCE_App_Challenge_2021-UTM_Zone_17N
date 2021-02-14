@@ -1,0 +1,22 @@
+define({
+  back: 'Înapoi',
+  createFailedWarning: 'Datele nu au putut fi create!',
+  noSupportedDataSource: 'Nu sunt disponibile date compatibile.',
+  noUsedFieldToMap: 'Nu trebuie cartografiate câmpuri în uz.',
+  noChildDssToMap: 'Nu trebuie cartografiate date secundare.',
+  inUse: 'În uz',
+  noRelatedWidget: 'Niciun widget conex',
+  noUsedField: 'Niciun câmp utilizat',
+  noLayer: 'Niciun strat tematic',
+  noDataNotice: 'Nu există date în experiență.<br>> Adăugați-vă datele.',
+  dataViews: 'Vizualizări de date',
+  originalDsLabel: 'Sursă',
+  autoRefresh: 'Reîmprospătare automată',
+  updateMinutesAgo: 'Ultima actualizare: cu {minutes} minute în urmă',
+  updateOneMinuteAgo: 'Ultima actualizare: acum un minut',
+  updateSecondsAgo: 'Ultima actualizare: acum câteva secunde',
+  refreshSetting: 'Reîmprospătare setări',
+  interval: 'Interval',
+  honorLayer: 'Respectați setările stratului tematic',
+  minutes: 'minute'
+});

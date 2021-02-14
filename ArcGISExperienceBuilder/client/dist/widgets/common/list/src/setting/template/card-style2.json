@@ -1,0 +1,237 @@
+{
+  "widgetId": "widget_x",
+  "config": {
+    "layouts": {
+      "layout_6": {
+        "type": "FIXED",
+        "content": {
+          "0": {
+            "type": "WIDGET",
+            "bbox": {
+              "left": "5.05%",
+              "top": "3.66%",
+              "width": "76px",
+              "height": "43.96%",
+              "right": "5.05%"
+            },
+            "widgetId": "widget_8",
+            "setting": {
+              "lockParent": true,
+              "vCenter": false,
+              "hCenter": false,
+              "autoProps": {
+                "width": true
+              }
+            },
+            "isPending": false
+          },
+          "1": {
+            "type": "WIDGET",
+            "bbox": {
+              "left": "3.54%",
+              "top": "62.27%",
+              "width": "174px",
+              "height": "50px",
+              "right": "3.54%",
+              "bottom": "18.32%"
+            },
+            "widgetId": "widget_9",
+            "setting": {
+              "lockParent": true,
+              "autoProps": {
+                "width": true,
+                "height": true
+              },
+              "vCenter": false,
+              "hCenter": false
+            },
+            "isPending": false
+          },
+          "2": {
+            "type": "WIDGET",
+            "bbox": {
+              "left": "5.05%",
+              "top": "210px",
+              "width": "196px",
+              "height": "10.99%",
+              "right": "5.05%",
+              "bottom": "3.66%"
+            },
+            "widgetId": "widget_11",
+            "setting": {
+              "lockParent": true,
+              "autoProps": {
+                "width": true,
+                "top": true
+              }
+            }
+          },
+          "3": {
+            "type": "WIDGET",
+            "bbox": {
+              "left": "3.54%",
+              "top": "52.75%",
+              "width": "180px",
+              "height": "10.99%",
+              "right": "3.54%"
+            },
+            "widgetId": "widget_10",
+            "setting": {
+              "lockParent": true,
+              "autoProps": {
+                "width": true
+              },
+              "vCenter": false
+            }
+          }
+        },
+        "order": [
+          "0",
+          "1",
+          "2",
+          "3"
+        ],
+        "label": "Regular"
+      }
+    },
+    "widgets": {
+      "widget_x": {
+        "config": {
+          "maxItems": 100,
+          "space": 10,
+          "itemsPerPage": 10,
+          "isItemStyleConfirm": false,
+          "isInitialed": false,
+          "pageStyle": "SCROLL",
+          "itemStyle": "STYLE2",
+          "hoverType": "HOVER0",
+          "selectedStyle": "STYLE0",
+          "differentOddEven": false,
+          "scrollBarOpen": true,
+          "direction": "HORIZON",
+          "alignType": "CENTER",
+          "scrollStep": 2,
+          "cardConfigs": {
+            "REGULAR": {
+              "cardSize": {
+                "LARGE": {
+                  "width": 200,
+                  "height": 275
+                }
+              },
+              "enable": true,
+              "backgroundStyle": {
+                "border": {
+                  "type": "solid",
+                  "color": "var(--light-400)",
+                  "width": "1px"
+                }
+              }
+            },
+            "HOVER": {
+              "cardSize": {
+                "LARGE": {
+                  "width": 200,
+                  "height": 275
+                }
+              },
+              "enable": false,
+              "backgroundStyle": {
+                "border": {
+                  "type": "solid",
+                  "color": "var(--light-400)",
+                  "width": "1px"
+                }
+              }
+            },
+            "SELECTED": {
+              "cardSize": {
+                "LARGE": {
+                  "width": 200,
+                  "height": 275
+                }
+              },
+              "backgroundStyle": {
+                "border": {
+                  "type": "solid",
+                  "color": "var(--primary-500)",
+                  "width": "1px"
+                }
+              },
+              "selectionMode": "SINGLE"
+            }
+          },
+          "style": {
+            "id": "default"
+          }
+        },
+        "layouts": {
+          "REGULAR": {
+            "LARGE": "layout_6"
+          }
+        }
+      },
+      "widget_8": {
+        "uri": "widgets/common/image/",
+        "config": {
+          "functionConfig": {
+            "altText": "",
+            "toolTip": "",
+            "linkParam": {},
+            "scale": "Fit",
+            "imageParam": {}
+          },
+          "styleConfig": {}
+        }
+      },
+      "widget_9": {
+        "uri": "widgets/common/text/",
+        "config": {
+          "text": "",
+          "placeholder": "<p><span style=\"font-size: 13px;color: var(--dark-800);\">Lorem ipsum dolor sit amet, consectetur  adipiscing elit</span></p>",
+          "style": {
+            "verticalAlign": "start",
+            "wrap": true,
+            "overflow": "scroll",
+            "padding": "p-1"
+          }
+        }
+      },
+      "widget_10": {
+        "uri": "widgets/common/text/",
+        "config": {
+          "text": "",
+          "placeholder": "<p><span style=\"font-size: 16px;color: var(--dark-800);\">${textPlaceholder}</span></p>",
+          "style": {
+            "verticalAlign": "start",
+            "wrap": true
+          }
+        }
+      },
+      "widget_11": {
+        "uri": "widgets/common/button/",
+        "config": {
+          "functionConfig": {
+            "text": "${buttonText}",
+            "toolTip": "",
+            "linkParam": {}
+          },
+          "styleConfig": {
+            "name": "Default",
+            "themeStyle": {
+              "className": "jimu-widget d-block",
+              "color": "primary"
+            },
+            "customStyle": {
+              "regular": {},
+              "hover": {},
+              "clicked": {}
+            }
+          }
+        }
+      }
+    },
+    "views": {},
+    "sections": {}
+  }
+}

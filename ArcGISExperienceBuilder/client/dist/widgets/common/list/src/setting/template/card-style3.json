@@ -1,0 +1,200 @@
+{
+  "widgetId": "widget_x",
+  "config":{
+    "layouts": {
+      "layout_7": {
+        "type": "FIXED",
+        "content": {
+          "0": {
+            "type": "WIDGET",
+            "bbox": {
+              "left": "0.00%",
+              "top": "0.00%",
+              "width": "76px",
+              "height": "133px",
+              "right": "0.00%",
+              "bottom": "0.00%"
+            },
+            "widgetId": "widget_12",
+            "setting": {
+              "lockParent": true,
+              "vCenter": false,
+              "hCenter": false,
+              "autoProps": {
+                "width": true,
+                "height": true
+              }
+            },
+            "isPending": false
+          },
+          "1": {
+            "type": "WIDGET",
+            "bbox": {
+              "left": "3.54%",
+              "top": "150px",
+              "width": "156px",
+              "height": "12%",
+              "right": "3.54%",
+              "bottom": "20.15%"
+            },
+            "widgetId": "widget_13",
+            "setting": {
+              "lockParent": true,
+              "autoProps": {
+                "width": true,
+                "top": true
+              },
+              "vCenter": false,
+              "hCenter": false
+            },
+            "isPending": false
+          },
+          "2": {
+            "type": "WIDGET",
+            "bbox": {
+              "left": "3.54%",
+              "top": "225px",
+              "width": "176px",
+              "height": "18.32%",
+              "bottom": "1.83%",
+              "right": "3.54%"
+            },
+            "widgetId": "widget_14",
+            "setting": {
+              "lockParent": true,
+              "autoProps": {
+                "top": true,
+                "width": true
+              },
+              "vCenter": false
+            }
+          }
+        },
+        "order": [
+          "0",
+          "1",
+          "2"
+        ],
+        "label": "Regular"
+      }
+    },
+    "widgets": {
+      "widget_x": {
+        "config": {
+          "maxItems": 100,
+          "space": 10,
+          "itemsPerPage": 10,
+          "isItemStyleConfirm": false,
+          "isInitialed": false,
+          "pageStyle": "SCROLL",
+          "itemStyle": "STYLE3",
+          "hoverType": "HOVER0",
+          "selectedStyle": "STYLE0",
+          "differentOddEven": false,
+          "scrollBarOpen": true,
+          "direction": "HORIZON",
+          "alignType": "CENTER",
+          "scrollStep": 2,
+          "cardConfigs": {
+            "REGULAR": {
+              "cardSize": {
+                "LARGE": {
+                  "width": 200,
+                  "height": 275
+                }
+              },
+              "enable": true,
+              "backgroundStyle": {
+                "border": {
+                  "type": "solid",
+                  "color": "var(--light-400)",
+                  "width": "1px"
+                }
+              }
+            },
+            "HOVER": {
+              "cardSize": {
+                "LARGE": {
+                  "width": 200,
+                  "height": 275
+                }
+              },
+              "enable": false,
+              "backgroundStyle": {
+                "border": {
+                  "type": "solid",
+                  "color": "var(--light-400)",
+                  "width": "1px"
+                }
+              }
+            },
+            "SELECTED": {
+              "cardSize": {
+                "LARGE": {
+                  "width": 200,
+                  "height": 275
+                }
+              },
+              "backgroundStyle": {
+                "border": {
+                  "type": "solid",
+                  "color": "var(--primary-500)",
+                  "width": "1px"
+                }
+              },
+              "selectionMode": "SINGLE"
+            }
+          },
+          "style": {
+            "id": "default"
+          }
+        },
+        "layouts": {
+          "REGULAR": {
+            "LARGE": "layout_7"
+          }
+        }
+      },
+      "widget_12": {
+        "uri": "widgets/common/image/",
+        "config": {
+          "functionConfig": {
+            "altText": "",
+            "toolTip": "",
+            "linkParam": {},
+            "scale": "Fit",
+            "imageParam": {}
+          },
+          "styleConfig": {}
+        }
+      },
+      "widget_13": {
+        "uri": "widgets/common/text/",
+        "config": {
+          "text": "",
+          "placeholder": "<h5><span style=\"font-size: 15px;color: var(--dark-800);\">${textPlaceholder}</span></h5>",
+          "style": {
+            "verticalAlign": "start",
+            "wrap": true,
+            "overflow": "scroll",
+            "padding": "p-1"
+          }
+        }
+      },
+      "widget_14": {
+        "uri": "widgets/common/text/",
+        "config": {
+          "text": "",
+          "placeholder": "<p><span style=\"font-size: 13px;color: var(--dark-800);\">Lorem ipsum dolor sit amet, consectetur adipiscing</span></p>",
+          "style": {
+            "verticalAlign": "start",
+            "wrap": true
+          }
+        }
+      }
+    },
+    "views": {},
+    "sections": {}
+  }
+
+}

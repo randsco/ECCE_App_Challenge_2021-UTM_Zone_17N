@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <desc>Created with Sketch.</desc>
+    <g id="SQL-Expression-Builder" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons" transform="translate(-577.000000, -161.000000)">
+            <g id="icon-ask-for-value-checked" transform="translate(577.000000, 161.000000)">
+                <path d="M8,16.5 C3.581722,16.5 0,12.918278 0,8.5 C0,4.081722 3.581722,0.5 8,0.5 C12.418278,0.5 16,4.081722 16,8.5 C16,12.918278 12.418278,16.5 8,16.5 Z M8,15.5588235 C11.8984806,15.5588235 15.0588235,12.3984806 15.0588235,8.5 C15.0588235,4.60151941 11.8984806,1.44117647 8,1.44117647 C4.10151941,1.44117647 0.941176471,4.60151941 0.941176471,8.5 C0.941176471,12.3984806 4.10151941,15.5588235 8,15.5588235 Z M3.5,5 L12.5,5 L12.5,6 L3.5,6 L3.5,5 Z M3.5,8 L9.5,8 L9.5,9 L3.5,9 L3.5,8 Z M3.5,11 L12.5,11 L12.5,12 L3.5,12 L3.5,11 Z" id="icon-ask-for-value" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <g id="Group" transform="translate(10.000000, 0.000000)">
+                    <circle id="Oval-Copy-2" fill="#007F94" cx="3.5" cy="3.5" r="3.5"></circle>
+                    <polygon id="Path-2" fill="#FFFFFF" fill-rule="nonzero" points="1.65153997 3.27395605 1 3.9479635 2.84020846 5.87753017 6 2.69617602 5.36899058 2 2.8608491 4.5"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,10 @@
+[
+  {
+    "name": "dark",
+    "uri": "builder/themes/dark/"
+  },
+  {
+    "name": "light",
+    "uri": "builder/themes/light/"
+  }
+]

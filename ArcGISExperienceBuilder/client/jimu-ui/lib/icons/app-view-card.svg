@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>app-view-card</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="0-UI-icons" transform="translate(-185.000000, -611.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M199,611 C200.104569,611 201,611.895431 201,613 L201,625 C201,626.104569 200.104569,627 199,627 L187,627 C185.895431,627 185,626.104569 185,625 L185,613 C185,611.895431 185.895431,611 187,611 L199,611 Z M192.5,619.5 L186,619.5 L186,625 C186,625.552285 186.447715,626 187,626 L192.5,626 L192.5,619.5 Z M200,619.5 L193.5,619.5 L193.5,626 L199,626 C199.552285,626 200,625.552285 200,625 L200,619.5 Z M187,612 C186.447715,612 186,612.447715 186,613 L186,618.5 L192.5,618.5 L192.5,612 L187,612 Z M193.5,618.5 L200,618.5 L200,613 C200,612.447715 199.552285,612 199,612 L193.5,612 L193.5,618.5 Z" id="app-view-card"></path>
+        </g>
+    </g>
+</svg>

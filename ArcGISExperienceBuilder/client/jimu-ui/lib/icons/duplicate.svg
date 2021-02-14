@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>duplicate</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="0-UI-icons" transform="translate(-1083.000000, -494.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M1083.5,503 C1083.22386,503 1083,502.776142 1083,502.5 L1083,495 C1083,494.447715 1083.44772,494 1084,494 L1090.5,494 C1090.77614,494 1091,494.223858 1091,494.5 C1091,494.776142 1090.77614,495 1090.5,495 L1084,495 L1084,502.5 C1084,502.776142 1083.77614,503 1083.5,503 Z M1086,497 L1086,505 L1094,505 L1094,497 L1086,497 Z M1086,496 L1094,496 C1094.55228,496 1095,496.447715 1095,497 L1095,505 C1095,505.552285 1094.55228,506 1094,506 L1086,506 C1085.44772,506 1085,505.552285 1085,505 L1085,497 C1085,496.447715 1085.44772,496 1086,496 Z" id="duplicate"></path>
+        </g>
+    </g>
+</svg>

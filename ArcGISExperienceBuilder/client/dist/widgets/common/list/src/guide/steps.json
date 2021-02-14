@@ -1,0 +1,73 @@
+{
+  "steps": [{
+    "injectedGuide": "insert-widget",
+    "widgetName": "list"
+  }, {
+    "title": "${guideStep2Title}",
+    "content": {
+      "text": "${guideStep2Content}"
+    },
+    "placement": "left",
+    "target": ".jimu-widget-list-setting .jimu-widget-setting--section",
+    "spotlightClicks": true,
+    "requiredAction": {
+      "type": "click"
+    }
+  }, {
+    "injectedGuide": "ds-selection"
+  }, {
+    "title": "${guideStep6Title}",
+    "content": "${guideStep6Content}",
+    "placement": "left",
+    "target": ".list-list-setting .jimu-widget-setting--section"
+  }, {
+    "title": "${guideStep7Title}",
+    "content": "${guideStep7Content}",
+    "placement": "left-end",
+    "target": ".list-list-setting div:nth-child(2).jimu-widget-setting--section",
+    "spotlightClicks": true
+  }, {
+    "title": "${guideStep8Title}",
+    "content": "${guideStep8Content}",
+    "placement": "left-end",
+    "target": ".list-list-setting div:nth-child(3).jimu-widget-setting--section",
+    "spotlightClicks": true
+  }, {
+    "title": "${guideStep9Title}",
+    "content": "${guideStep9Content}",
+    "placement": "left-end",
+    "target": ".list-list-setting div:nth-child(4).jimu-widget-setting--section",
+    "spotlightClicks": true
+  }, {
+    "title": "${guideStep10Title}",
+    "content": "${guideStep10Content}",
+    "placement": "bottom",
+    "target": ".widget-list .list-group-item:first-child .widget-image",
+    "targetPrefix": "widgetId",
+    "targetInCanvas": true,
+    "spotlightClicks": true
+  }, {
+    "title": "${guideStep10Title2}",
+    "content": "${guideStep10Content2}",
+    "placement": "left",
+    "target": "[data-widgetid='dynamic-setting'] .widget-setting-tab:not([data-is-parent='true'])  .tab-content"
+  }, {
+    "title": "${guideStep11Title}",
+    "content": "${guideStep11Content}",
+    "placement": "right",
+    "target": ".widget-list .list-group-item:first-child .widget-text",
+    "targetPrefix": "widgetId",
+    "targetInCanvas": true,
+    "spotlightClicks": true
+  }, {
+    "title": "${guideStep11Title2}",
+    "content": "${guideStep11Content2}",
+    "placement": "left",
+    "target": "[data-widgetid='dynamic-setting'] .widget-setting-tab:not([data-is-parent='true'])  .tab-content"
+  }, {
+    "title": "${guideStep12Title}",
+    "content": "${guideStep12Content}",
+    "placement": "center",
+    "target": "[data-widgetid='app-loader']"
+  }]
+}

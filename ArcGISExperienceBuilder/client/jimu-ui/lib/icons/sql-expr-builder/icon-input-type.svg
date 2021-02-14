@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <desc>Created with Sketch.</desc>
+    <g id="SQL-Expression-Builder" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons" transform="translate(-406.000000, -163.000000)" fill="#FFFFFF">
+            <g id="icon-input-type" transform="translate(406.000000, 163.000000)">
+                <path d="M16,2 L16,14 L0,14 L0,2 L16,2 Z M15,3.09090909 L1,3.09090909 L1,12.9090909 L15,12.9090909 L15,3.09090909 Z M13,10 L13,11 L3,11 L3,10 L13,10 Z M5,5 L5,8 L2,8 L2,5 L5,5 Z M10,5 L10,8 L6,8 L6,5 L10,5 Z M14,5 L14,8 L11,8 L11,5 L14,5 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

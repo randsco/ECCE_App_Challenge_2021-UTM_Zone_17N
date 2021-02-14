@@ -1,0 +1,22 @@
+define({
+  back: 'Geri',
+  createFailedWarning: 'Veri oluşturulamadı!',
+  noSupportedDataSource: 'Desteklenen veri yok.',
+  noUsedFieldToMap: 'Haritalanması gereken kullanımda alan yok.',
+  noChildDssToMap: 'Haritalanması gereken alt veri yok.',
+  inUse: 'Kullanımda',
+  noRelatedWidget: 'İlgili araç yok',
+  noUsedField: 'Kullanılan alan yok',
+  noLayer: 'Katman yok',
+  noDataNotice: 'Deneyimde veri yok.<br/>Lütfen veri ekleyin.',
+  dataViews: 'Veri görünümleri',
+  originalDsLabel: 'Kaynak',
+  autoRefresh: 'Otomatik yenileme',
+  updateMinutesAgo: 'Son güncelleme: {minutes} dakika önce',
+  updateOneMinuteAgo: 'Son güncelleme: bir dakika önce',
+  updateSecondsAgo: 'Son güncelleme: birkaç saniye önce',
+  refreshSetting: 'Yenileme ayarları',
+  interval: 'Aralık',
+  honorLayer: 'Katman ayarlarına uyun',
+  minutes: 'dakika'
+});

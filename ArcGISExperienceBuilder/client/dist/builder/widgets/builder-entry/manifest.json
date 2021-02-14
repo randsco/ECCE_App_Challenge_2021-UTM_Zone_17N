@@ -1,0 +1,20 @@
+{
+  "name": "builder-entry",
+  "version": "1.3.0",
+  "exbVersion": "1.3.0",
+  "author": "Esri R&D Center Beijing",
+  "description": "This is the widget used in developer guide",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "hasMainClass": false,
+    "hasConfig": false,
+    "hasSettingPage": false
+  },
+  "extensions": [
+    {
+      "point": "APP_CONFIG_PROCESSOR",
+      "uri": "extensions/builder-entry"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+define({
+  start: 'Začiatok',
+  selectTemplateTip: 'Vyberte šablónu',
+  selectAnotherTemplateTip: 'Vybrať inú šablónu',
+  filtersDesc: 'Pridať nové filtre a prispôsobiť možnosti.',
+  newFilter: 'Nový filter',
+  setFilterItem: 'Vytvoriť nový filter',
+  sqlExpr: 'Výrazy SQL',
+  sqlExprDesc: 'Pridať výrazy SQL do filtra.',
+  openFilterBuilder: 'SQL Expression Builder',
+  setExprTips: 'Pridajte najskôr svoje výrazy SQL.',
+  options: 'Možnosti',
+  autoApplyWhenWidgetOpen: 'Automaticky aplikovať filter',
+  collapseFilterExprs: 'Automaticky zbaliť podrobnosti filtra (ak existujú)',
+  arrangeAndStyle: 'Štýl usporiadania',
+  activationMethods: 'Štýl aktivácie',
+  toggleTooltip: 'Prepínač',
+  buttonTooltip: 'Tlačidlo',
+  omitInternalStyle: 'Vynechať štýly aktivácie pre jednu klauzulu',
+  omitInternalStyleTip: 'Ak je v každom z filtrov iba jedna klauzula požadujúca hodnoty (alebo zobrazenie označení), táto možnosť vám umožňuje vylúčiť aktivačné štýly (spolu s označením a ikonou), priamo zobraziť obsah klauzuly a automaticky ju použiť.',
+  wrapFilters: 'Zabaliť položky'
+});

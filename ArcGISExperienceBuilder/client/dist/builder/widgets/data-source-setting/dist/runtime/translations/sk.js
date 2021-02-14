@@ -1,0 +1,22 @@
+define({
+  back: 'Späť',
+  createFailedWarning: 'Vytvorenie údajov zlyhalo!',
+  noSupportedDataSource: 'Nie sú k dispozícii žiadne údaje.',
+  noUsedFieldToMap: 'Žiadne používané stĺpce nemusia byť mapované.',
+  noChildDssToMap: 'Nemusia byť mapované žiadne podradené údaje.',
+  inUse: 'Používané',
+  noRelatedWidget: 'Žiadny súvisiaci widget',
+  noUsedField: 'Žiadny použitý stĺpec',
+  noLayer: 'Žiadna vrstva',
+  noDataNotice: 'Žiadne údaje v zážitku.<br/>Pridajte svoje údaje.',
+  dataViews: 'Zobrazenia údajov',
+  originalDsLabel: 'Zdroj',
+  autoRefresh: 'Automaticky obnoviť',
+  updateMinutesAgo: 'Posledná aktualizácia: pred {minutes} minútami',
+  updateOneMinuteAgo: 'Posledná aktualizácia: pred minútou',
+  updateSecondsAgo: 'Posledná aktualizácia: pred niekoľkými sekundami',
+  refreshSetting: 'Obnoviť nastavenia',
+  interval: 'Interval',
+  honorLayer: 'Dodržiavať nastavenia vrstvy',
+  minutes: 'minúty'
+});

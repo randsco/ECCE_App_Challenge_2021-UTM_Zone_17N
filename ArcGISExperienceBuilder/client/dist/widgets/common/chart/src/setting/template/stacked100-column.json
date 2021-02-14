@@ -1,0 +1,9 @@
+{
+  "name": "stacked100-column",
+  "type": "serial", 
+  "series": [{
+      "type": "barSeries",
+      "rotated": false,
+      "multipleBarType": "stacked100"
+    }]
+  }

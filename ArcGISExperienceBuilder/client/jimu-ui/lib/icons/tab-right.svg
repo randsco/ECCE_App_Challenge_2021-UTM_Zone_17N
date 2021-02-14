@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>tab-right</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="0-UI-icons" transform="translate(-1345.000000, -606.000000)">
+            <g id="tab-right" transform="translate(1345.000000, 606.000000)">
+                <rect id="Rectangle" x="0" y="0" width="12" height="12"></rect>
+                <path d="M11.5,1 C11.7761424,1 12,1.22385763 12,1.5 C12,1.77614237 11.7761424,2 11.5,2 L0.5,2 C0.223857625,2 0,1.77614237 0,1.5 C0,1.22385763 0.223857625,1 0.5,1 L11.5,1 Z M7.5,7 C7.77614237,7 8,7.22385763 8,7.5 C8,7.77614237 7.77614237,8 7.5,8 L0.5,8 C0.223857625,8 0,7.77614237 0,7.5 C0,7.22385763 0.223857625,7 0.5,7 L7.5,7 Z M10,4 L12,6 L10,8 L10,4 Z M7.5,4 C7.77614237,4 8,4.22385763 8,4.5 C8,4.77614237 7.77614237,5 7.5,5 L0.5,5 C0.223857625,5 0,4.77614237 0,4.5 C0,4.22385763 0.223857625,4 0.5,4 L7.5,4 Z M11.5,10 C11.7761424,10 12,10.2238576 12,10.5 C12,10.7761424 11.7761424,11 11.5,11 L0.5,11 C0.223857625,11 0,10.7761424 0,10.5 C0,10.2238576 0.223857625,10 0.5,10 L11.5,10 Z" fill="#000000" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

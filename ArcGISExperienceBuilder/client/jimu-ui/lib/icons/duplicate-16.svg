@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>duplicate-16</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Style" stroke="none" stroke-width="1" fill-rule="evenodd">
+        <g id="0-UI-icons" transform="translate(-178.000000, -356.000000)" fill-rule="nonzero">
+            <g id="Top-navigation" transform="translate(43.000000, 309.000000)">
+                <path d="M139,50 L150,50 C150.552285,50 151,50.4477153 151,51 L151,62 C151,62.5522847 150.552285,63 150,63 L139,63 C138.447715,63 138,62.5522847 138,62 L138,51 C138,50.4477153 138.447715,50 139,50 Z M139,51 L139,62 L150,62 L150,51 L139,51 Z M135,58.5 L135,48 C135,47.4477153 135.447715,47 136,47 L145.5,47 C145.776142,47 146,47.2238576 146,47.5 C146,47.7761424 145.776142,48 145.5,48 L136,48 L136,58.5 C136,58.7761424 135.776142,59 135.5,59 C135.223858,59 135,58.7761424 135,58.5 Z" id="duplicate-16"></path>
+            </g>
+        </g>
+    </g>
+</svg>

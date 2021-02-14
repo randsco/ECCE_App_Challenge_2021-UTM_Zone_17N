@@ -1,0 +1,22 @@
+define({
+  back: 'Voltar',
+  createFailedWarning: 'Falha ao criar dados!',
+  noSupportedDataSource: 'Não existem dados suportados disponíveis.',
+  noUsedFieldToMap: 'Nenhum campo em utilização precisa de ser cartografado.',
+  noChildDssToMap: 'Nenhum dado secundário precisa de ser cartografado.',
+  inUse: 'Em utilização',
+  noRelatedWidget: 'Nenhum widget relacionado',
+  noUsedField: 'Nenhum campo utilizado',
+  noLayer: 'Sem camadas',
+  noDataNotice: 'Nenhuns dados na experiência.<br/>Adicione os seus dados.',
+  dataViews: 'Visualização de dados',
+  originalDsLabel: 'Fonte',
+  autoRefresh: 'Atualização automática',
+  updateMinutesAgo: 'Última atualização: há {minutes} minutos',
+  updateOneMinuteAgo: 'Última atualização: há um minuto',
+  updateSecondsAgo: 'Última atualização: há alguns segundos',
+  refreshSetting: 'Definições de atualização',
+  interval: 'Intervalo',
+  honorLayer: 'Aceitar definições da camada',
+  minutes: 'minutos'
+});

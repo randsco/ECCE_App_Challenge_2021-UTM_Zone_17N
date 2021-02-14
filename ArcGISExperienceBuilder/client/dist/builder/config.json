@@ -1,0 +1,1073 @@
+{
+  "pages": {
+    "default": {
+      "label": "config page",
+      "layout": {
+        "LARGE": "config-page-layout-large"
+      },
+      "header": true,
+      "isDefault": true
+    },
+    "template": {
+      "label": "choose template",
+      "layout": {
+        "LARGE": "choose-template-layout-large"
+      },
+      "header": false
+    }
+  },
+  "widgets": {
+    "header": {
+      "uri": "builder/widgets/header/"
+    },
+    "status-bar": {
+      "uri": "builder/widgets/status-bar/"
+    },
+    "choose-template": {
+      "uri": "builder/widgets/choose-template/"
+    },
+    "setting-navigator": {
+      "uri": "builder/widgets/setting-navigator/",
+      "config": {
+        "sectionId": "opts-section"
+      }
+    },
+    "toc": {
+      "uri": "builder/widgets/toc/"
+    },
+    "app-loader": {
+      "uri": "builder/widgets/app-loader/"
+    },
+    "builder-entry": {
+      "uri": "builder/widgets/builder-entry/"
+    },
+    "data-source-setting": {
+      "uri": "builder/widgets/data-source-setting/"
+    },
+    "element-selector": {
+      "uri": "builder/widgets/element-selector/"
+    },
+    "theme-setting": {
+      "uri": "builder/widgets/theme-setting/"
+    },
+    "dynamic-setting": {
+      "uri": "builder/widgets/dynamic-setting/"
+    },
+    "left-sidebar": {
+      "uri": "widgets/layout/sidebar/",
+      "config": {
+        "direction": "HORIZONTAL",
+        "collapseSide": "FIRST",
+        "resizable": false,
+        "overlay": false,
+        "size": "260px",
+        "toggleBtn": {
+          "icon": "LEFT",
+          "visible": false,
+          "offsetX": 15,
+          "offsetY": 0,
+          "position": "CENTER",
+          "iconSize": 14,
+          "width": 15,
+          "height": 60,
+          "color": {
+            "normal": {
+              "icon": {
+                "useTheme": true,
+                "color": "var(--dark-600)"
+              },
+              "bg": {
+                "useTheme": true,
+                "color": "var(--light-300)"
+              }
+            },
+            "hover": {
+              "icon": {
+                "useTheme": true,
+                "color": "var(--black)"
+              }
+            }
+          },
+          "expandStyle": {
+            "style": {
+              "borderRadius": "0 92px 92px 0",
+              "border": "1px solid var(--light-800)"
+            }
+          },
+          "collapseStyle": {
+            "style": {
+              "borderRadius": "0 92px 92px 0",
+              "border": "1px solid var(--light-800)"
+            }
+          }
+        },
+        "divider": {
+          "visible": true,
+          "lineStyle": {
+            "type": "solid",
+            "color": "#6a6a6a",
+            "width": {
+              "distance": 1,
+              "unit": "px"
+            }
+          }
+        }
+      },
+      "layouts": {
+        "FIRST": {
+          "LARGE": "left-sidebar-left-layout"
+        },
+        "SECOND": {
+          "LARGE": "left-sidebar-right-layout"
+        }
+      }
+    },
+    "right-sidebar": {
+      "uri": "widgets/layout/sidebar/",
+      "config": {
+        "direction": "HORIZONTAL",
+        "collapseSide": "SECOND",
+        "resizable": false,
+        "overlay": false,
+        "size": "260px",
+        "toggleBtn": {
+          "icon": "RIGHT",
+          "visible": false,
+          "offsetX": -15,
+          "offsetY": 0,
+          "position": "CENTER",
+          "iconSize": 14,
+          "width": 15,
+          "height": 60,
+          "color": {
+            "normal": {
+              "icon": {
+                "useTheme": true,
+                "color": "var(--dark-600)"
+              },
+              "bg": {
+                "useTheme": true,
+                "color": "var(--light-300)"
+              }
+            },
+            "hover": {
+              "icon": {
+                "useTheme": true,
+                "color": "var(--black)"
+              }
+            }
+          },
+          "expandStyle": {
+            "style": {
+              "borderRadius": "92px 0 0 92px",
+              "border": "1px solid var(--light-800)"
+            }
+          },
+          "collapseStyle": {
+            "style": {
+              "borderRadius": "92px 0 0 92px",
+              "border": "1px solid var(--light-800)"
+            }
+          }
+        },
+        "divider": {
+          "visible": true,
+          "lineStyle": {
+            "type": "solid",
+            "color": "var(--light-800)",
+            "width": {
+              "distance": 1,
+              "unit": "px"
+            }
+          }
+        }
+      },
+      "layouts": {
+        "FIRST": {
+          "LARGE": "right-sidebar-left-layout"
+        },
+        "SECOND": {
+          "LARGE": "right-sidebar-right-layout"
+        }
+      }
+    },
+    "guide": {
+      "uri": "builder/widgets/guide/"
+    }
+  },
+  "preloadWidgets": [
+    "builder/widgets/header/",
+    "builder/widgets/setting-navigator/",
+    "builder/widgets/toc/",
+    "builder/widgets/builder-entry/",
+    "builder/widgets/data-source-setting/",
+    "builder/widgets/theme-setting/",
+    "builder/widgets/element-selector/",
+    "builder/widgets/dynamic-setting/",
+    "builder/widgets/left-sidebar/",
+    "builder/widgets/right-sidebar/",
+    "builder/widgets/app-loader/",
+    "builder/widgets/choose-template/",
+    "builder/widgets/status-bar/"
+  ],
+  "sections": {
+    "opts-section": {
+      "views": [
+        "insert",
+        "page",
+        "data",
+        "theme"
+      ]
+    }
+  },
+  "views": {
+    "page": {
+      "layout": {
+        "LARGE": "page-layout"
+      },
+      "backgroundColor": "#000"
+    },
+    "data": {
+      "layout": {
+        "LARGE": "data-layout"
+      },
+      "backgroundColor": "#000"
+    },
+    "insert": {
+      "layout": {
+        "LARGE": "insert-layout"
+      },
+      "backgroundColor": "#000"
+    },
+    "theme": {
+      "layout": {
+        "LARGE": "theme-layout"
+      },
+      "backgroundColor": "#000"
+    }
+  },
+  "header": {
+    "layout": {
+      "LARGE": "header-layout"
+    },
+    "height": {
+      "LARGE": 50
+    }
+  },
+  "layouts": {
+    "config-page-layout-large": {
+      "order": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "type": "FIXED",
+      "setting": {
+        "space": 0
+      },
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "left-sidebar",
+          "bbox": {
+            "left": 50,
+            "right": 0,
+            "top": 0,
+            "bottom": 20
+          }
+        },
+        "1": {
+          "bbox": {
+            "left": 0,
+            "top": 0,
+            "bottom": 20,
+            "width": 50
+          },
+          "type": "WIDGET",
+          "widgetId": "setting-navigator"
+        },
+        "2": {
+          "type": "WIDGET",
+          "widgetId": "status-bar",
+          "bbox": {
+            "left": 0,
+            "right": 0,
+            "height": 20,
+            "bottom": 0
+          }
+        },
+        "3": {
+          "type": "WIDGET",
+          "widgetId": "guide",
+          "bbox": {
+            "left": 0,
+            "top": 0,
+            "height": 0
+          }
+        }
+      }
+    },
+    "choose-template-layout-large": {
+      "order": [
+        "0"
+      ],
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "bbox": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "type": "WIDGET",
+          "widgetId": "choose-template"
+        }
+      }
+    },
+    "page-layout": {
+      "order": [
+        "0"
+      ],
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "bbox": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "setting": {
+            "active": false
+          },
+          "type": "WIDGET",
+          "widgetId": "toc"
+        }
+      }
+    },
+    "data-layout": {
+      "order": [
+        "0"
+      ],
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "bbox": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "setting": {
+            "active": false
+          },
+          "type": "WIDGET",
+          "widgetId": "data-source-setting"
+        }
+      }
+    },
+    "insert-layout": {
+      "order": [
+        "0"
+      ],
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "bbox": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "setting": {
+            "active": false
+          },
+          "type": "WIDGET",
+          "widgetId": "element-selector"
+        }
+      }
+    },
+    "theme-layout": {
+      "order": [
+        "0"
+      ],
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "bbox": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "setting": {
+            "active": false
+          },
+          "type": "WIDGET",
+          "widgetId": "theme-setting"
+        }
+      }
+    },
+    "header-layout": {
+      "order": [
+        "0"
+      ],
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "bbox": {
+            "left": 0,
+            "right": 0,
+            "height": 50
+          },
+          "type": "WIDGET",
+          "widgetId": "header"
+        }
+      }
+    },
+    "left-sidebar-left-layout": {
+      "order": [
+        "0"
+      ],
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "bbox": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "type": "SECTION",
+          "sectionId": "opts-section"
+        }
+      }
+    },
+    "left-sidebar-right-layout": {
+      "order": [
+        "0"
+      ],
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "bbox": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "type": "WIDGET",
+          "widgetId": "right-sidebar"
+        }
+      }
+    },
+    "right-sidebar-left-layout": {
+      "order": [
+        "0"
+      ],
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "bbox": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "type": "WIDGET",
+          "widgetId": "app-loader"
+        }
+      },
+      "setting": {
+        "style": {
+          "background": {
+            "color": "var(--light-200)"
+          }
+        }
+      }
+    },
+    "right-sidebar-right-layout": {
+      "order": [
+        "0"
+      ],
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "bbox": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "type": "WIDGET",
+          "widgetId": "dynamic-setting"
+        }
+      }
+    }
+  },
+  "theme": "builder/themes/dark",
+  "attributes": {},
+  "analytics": {
+    "enable": false,
+    "google": {
+      "trackId": "UA-130952546-1",
+      "dimensions": {
+        "user": 1,
+        "orgId": 2,
+        "lastLogin": 3,
+        "userSince": 4,
+        "internalUser": 5,
+        "accountType": 6
+      }
+    }
+  },
+  "mainSizeMode": "LARGE",
+  "exbVersion": "1.3.0",
+  "widgetsManifest": {
+    "builder/widgets/header/": {
+      "name": "header",
+      "version": "1.3.0",
+      "exbVersion": "1.3.0",
+      "properties": {
+        "hasConfig": false
+      },
+      "translatedLocales": [
+        "en",
+        "ar",
+        "bs",
+        "ca",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "he",
+        "hr",
+        "hu",
+        "id",
+        "it",
+        "ja",
+        "ko",
+        "lt",
+        "lv",
+        "nb",
+        "nl",
+        "pl",
+        "pt-br",
+        "pt-pt",
+        "ro",
+        "ru",
+        "sk",
+        "sl",
+        "sr",
+        "sv",
+        "th",
+        "tr",
+        "zh-cn",
+        "uk",
+        "vi",
+        "zh-hk",
+        "zh-tw"
+      ]
+    },
+    "builder/widgets/status-bar/": {
+      "name": "status-bar",
+      "version": "1.3.0",
+      "exbVersion": "1.3.0",
+      "properties": {
+        "hasConfig": false
+      },
+      "supportedLocales": []
+    },
+    "builder/widgets/choose-template/": {
+      "name": "choose-template",
+      "version": "1.3.0",
+      "exbVersion": "1.3.0",
+      "properties": {
+        "hasConfig": false
+      },
+      "translatedLocales": [
+        "en",
+        "ar",
+        "bs",
+        "ca",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "he",
+        "hr",
+        "hu",
+        "id",
+        "it",
+        "ja",
+        "ko",
+        "lt",
+        "lv",
+        "nb",
+        "nl",
+        "pl",
+        "pt-br",
+        "pt-pt",
+        "ro",
+        "ru",
+        "sk",
+        "sl",
+        "sr",
+        "sv",
+        "th",
+        "tr",
+        "zh-cn",
+        "uk",
+        "vi",
+        "zh-hk",
+        "zh-tw"
+      ]
+    },
+    "builder/widgets/setting-navigator/": {
+      "name": "setting-navigator",
+      "version": "1.3.0",
+      "exbVersion": "1.3.0",
+      "properties": {
+        "hasConfig": false
+      },
+      "translatedLocales": [
+        "en",
+        "ar",
+        "bs",
+        "ca",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "he",
+        "hr",
+        "hu",
+        "id",
+        "it",
+        "ja",
+        "ko",
+        "lt",
+        "lv",
+        "nb",
+        "nl",
+        "pl",
+        "pt-br",
+        "pt-pt",
+        "ro",
+        "ru",
+        "sk",
+        "sl",
+        "sr",
+        "sv",
+        "th",
+        "tr",
+        "zh-cn",
+        "uk",
+        "vi",
+        "zh-hk",
+        "zh-tw"
+      ]
+    },
+    "builder/widgets/toc/": {
+      "name": "toc",
+      "version": "1.3.0",
+      "exbVersion": "1.3.0",
+      "properties": {
+        "hasConfig": false
+      },
+      "translatedLocales": [
+        "en",
+        "ar",
+        "bs",
+        "ca",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "he",
+        "hr",
+        "hu",
+        "id",
+        "it",
+        "ja",
+        "ko",
+        "lt",
+        "lv",
+        "nb",
+        "nl",
+        "pl",
+        "pt-br",
+        "pt-pt",
+        "ro",
+        "ru",
+        "sk",
+        "sl",
+        "sr",
+        "sv",
+        "th",
+        "tr",
+        "zh-cn",
+        "uk",
+        "vi",
+        "zh-hk",
+        "zh-tw"
+      ]
+    },
+    "builder/widgets/app-loader/": {
+      "name": "app-loader",
+      "version": "1.3.0",
+      "exbVersion": "1.3.0",
+      "properties": {
+        "hasConfig": false
+      },
+      "translatedLocales": [
+        "en",
+        "ar",
+        "bs",
+        "ca",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "he",
+        "hr",
+        "hu",
+        "id",
+        "it",
+        "ja",
+        "ko",
+        "lt",
+        "lv",
+        "nb",
+        "nl",
+        "pl",
+        "pt-br",
+        "pt-pt",
+        "ro",
+        "ru",
+        "sk",
+        "sl",
+        "sr",
+        "sv",
+        "th",
+        "tr",
+        "zh-cn",
+        "uk",
+        "vi",
+        "zh-hk",
+        "zh-tw"
+      ]
+    },
+    "builder/widgets/builder-entry/": {
+      "name": "builder-entry",
+      "version": "1.3.0",
+      "exbVersion": "1.3.0",
+      "properties": {
+        "hasMainClass": false,
+        "hasConfig": false
+      },
+      "extensions": [
+        {
+          "point": "APP_CONFIG_PROCESSOR",
+          "uri": "extensions/builder-entry"
+        }
+      ]
+    },
+    "builder/widgets/data-source-setting/": {
+      "name": "data-source-setting",
+      "version": "1.3.0",
+      "exbVersion": "1.3.0",
+      "properties": {
+        "hasConfig": false
+      },
+      "translatedLocales": [
+        "en",
+        "ar",
+        "bs",
+        "ca",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "he",
+        "hr",
+        "hu",
+        "id",
+        "it",
+        "ja",
+        "ko",
+        "lt",
+        "lv",
+        "nb",
+        "nl",
+        "pl",
+        "pt-br",
+        "pt-pt",
+        "ro",
+        "ru",
+        "sk",
+        "sl",
+        "sr",
+        "sv",
+        "th",
+        "tr",
+        "zh-cn",
+        "uk",
+        "vi",
+        "zh-hk",
+        "zh-tw"
+      ]
+    },
+    "builder/widgets/element-selector/": {
+      "name": "element-selector",
+      "version": "1.3.0",
+      "exbVersion": "1.3.0",
+      "properties": {
+        "hasConfig": false
+      },
+      "translatedLocales": [
+        "en",
+        "ar",
+        "bs",
+        "ca",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "he",
+        "hr",
+        "hu",
+        "id",
+        "it",
+        "ja",
+        "ko",
+        "lt",
+        "lv",
+        "nb",
+        "nl",
+        "pl",
+        "pt-br",
+        "pt-pt",
+        "ro",
+        "ru",
+        "sk",
+        "sl",
+        "sr",
+        "sv",
+        "th",
+        "tr",
+        "zh-cn",
+        "uk",
+        "vi",
+        "zh-hk",
+        "zh-tw"
+      ]
+    },
+    "builder/widgets/theme-setting/": {
+      "name": "theme-setting",
+      "version": "1.3.0",
+      "exbVersion": "1.3.0",
+      "properties": {
+        "hasConfig": false
+      },
+      "translatedLocales": [
+        "en",
+        "ar",
+        "bs",
+        "ca",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "he",
+        "hr",
+        "hu",
+        "id",
+        "it",
+        "ja",
+        "ko",
+        "lt",
+        "lv",
+        "nb",
+        "nl",
+        "pl",
+        "pt-br",
+        "pt-pt",
+        "ro",
+        "ru",
+        "sk",
+        "sl",
+        "sr",
+        "sv",
+        "th",
+        "tr",
+        "zh-cn",
+        "uk",
+        "vi",
+        "zh-hk",
+        "zh-tw"
+      ]
+    },
+    "builder/widgets/dynamic-setting/": {
+      "name": "dynamic-setting",
+      "version": "1.3.0",
+      "exbVersion": "1.3.0",
+      "properties": {
+        "hasConfig": false
+      },
+      "translatedLocales": [
+        "en",
+        "ar",
+        "bs",
+        "ca",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "he",
+        "hr",
+        "hu",
+        "id",
+        "it",
+        "ja",
+        "ko",
+        "lt",
+        "lv",
+        "nb",
+        "nl",
+        "pl",
+        "pt-br",
+        "pt-pt",
+        "ro",
+        "ru",
+        "sk",
+        "sl",
+        "sr",
+        "sv",
+        "th",
+        "tr",
+        "zh-cn",
+        "uk",
+        "vi",
+        "zh-hk",
+        "zh-tw"
+      ]
+    },
+    "widgets/layout/sidebar/": {
+      "name": "sidebar",
+      "label": "Sidebar",
+      "type": "widget",
+      "widgetType": "LAYOUT",
+      "version": "1.3.0",
+      "exbVersion": "1.3.0",
+      "properties": {
+        "flipIcon": true
+      },
+      "layouts": [
+        {
+          "name": "FIRST",
+          "label": "First",
+          "type": "FIXED"
+        },
+        {
+          "name": "SECOND",
+          "label": "Second",
+          "type": "FIXED"
+        }
+      ],
+      "defaultSize": {
+        "width": 800,
+        "height": 400
+      },
+      "translatedLocales": [
+        "en",
+        "ar",
+        "bs",
+        "ca",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "he",
+        "hr",
+        "hu",
+        "id",
+        "it",
+        "ja",
+        "ko",
+        "lt",
+        "lv",
+        "nb",
+        "nl",
+        "pl",
+        "pt-br",
+        "pt-pt",
+        "ro",
+        "ru",
+        "sk",
+        "sl",
+        "sr",
+        "sv",
+        "th",
+        "tr",
+        "zh-cn",
+        "uk",
+        "vi",
+        "zh-hk",
+        "zh-tw"
+      ]
+    },
+    "builder/widgets/guide/": {
+      "name": "guide",
+      "version": "1.3.0",
+      "exbVersion": "1.3.0",
+      "properties": {
+        "hasConfig": false
+      },
+      "translatedLocales": []
+    }
+  },
+  "useCachedManifest": true
+}

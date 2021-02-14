@@ -1,0 +1,353 @@
+{
+  "widgetId": "widget_x",
+  "config": {
+		"layouts": {
+			"layout_109": {
+        "type": "FIXED",
+        "content": {
+          "6": {
+            "type": "WIDGET",
+            "bbox": {
+              "left": 0,
+              "right": 0,
+              "top": "0.0000%",
+              "bottom": 0,
+              "width": "100.0000%",
+              "height": "100.0000%"
+            },
+            "widgetId": "widget_572",
+            "setting": {
+            }
+          },
+          "9": {
+            "type": "WIDGET",
+            "bbox": {
+              "left": 0,
+              "right": "75.8993%",
+              "top": 0,
+              "bottom": "93.4673%",
+              "width": 67,
+              "height": 26
+            },
+            "widgetId": "widget_573",
+            "setting": {
+
+              "vCenter": false,
+              "hCenter": false
+            },
+            "isPending": false
+          },
+          "10": {
+            "type": "WIDGET",
+            "bbox": {
+              "left": "5.00%",
+              "right": "5.00%",
+              "top": "67.9723%",
+              "bottom": "20.3512%",
+              "width": "90%",
+              "height": "11.6765%"
+            },
+            "widgetId": "widget_574",
+            "setting": {
+
+              "vCenter": false,
+              "hCenter": false
+            },
+            "isPending": false
+          },
+          "11": {
+            "type": "WIDGET",
+            "bbox": {
+              "left": "5.00%",
+              "right": "5.00%",
+              "top": "79.6488%",
+              "bottom": "10.7791%",
+              "width": "90%",
+              "height": "9.5721%"
+            },
+            "widgetId": "widget_575",
+            "setting": {
+
+              "vCenter": false,
+              "hCenter": false
+            },
+            "isPending": false
+          },
+          "12": {
+            "type": "WIDGET",
+            "bbox": {
+              "left": "5.00%",
+              "right": "5.00%",
+              "top": "87.4367%",
+              "bottom": "12px",
+              "width": "90%",
+              "height": "8.4107%"
+            },
+            "widgetId": "widget_576",
+            "setting": {
+
+              "vCenter": false,
+              "hCenter": false
+            },
+            "isPending": false
+          }
+        },
+        "order": [
+          "6",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "label": "Regular"
+      },
+      "layout_110": {
+        "label": "Hover",
+        "type": "FIXED",
+        "content": {
+          "0": {
+            "type": "WIDGET",
+            "bbox": {
+              "left": "0.0000%",
+              "right": "0.0000%",
+              "top": "0.0000%",
+              "bottom": "7.0352%",
+              "width": "100.00%",
+              "height": "100.0000%"
+            },
+            "widgetId": "widget_577",
+            "setting": {
+            }
+          }
+        },
+        "order": [
+          "0"
+        ]
+      },
+      "layout_111": {
+        "type": "FIXED",
+        "label": "Map FixedLayout"
+      }
+		},
+		"widgets": {
+			"widget_x": {
+        "config": {
+          "REGULAR": {
+            "enable": true,
+            "backgroundStyle": {
+              "border": {
+                "type": "solid",
+                "color": "var(--light-400)",
+                "width": "1px"
+              },
+              "background": {
+                "color": "",
+                "fillType": "fit",
+                "image": {
+                  "url": ""
+                }
+              }
+            }
+          },
+          "HOVER": {
+            "enable": true,
+            "backgroundStyle": {
+              "border": {
+                "type": "solid",
+                "color": "var(--light-400)",
+                "width": "1px"
+              },
+              "boxShadow": {
+                "offsetX": "0px",
+                "offsetY": "0px",
+                "blur": "0px",
+                "spread": "0px",
+                "color": ""
+              },
+              "background": {
+                "color": "",
+                "fillType": "fit",
+                "image": {
+                  "url": ""
+                }
+              }
+            }
+          },
+          "itemStyle": "STYLE6",
+          "direction": "Horizontal",
+          "isItemStyleConfirm":  false,
+          "isOpenAdvabceSetting": false,
+          "isInitialed": true,
+          "transitionInfo": {
+            "transition": {
+              "type": "None",
+              "direction": "H"
+            },
+            "oneByOneEffect": null
+          }
+        },
+        "layouts": {
+          "REGULAR": {
+            "LARGE": "layout_109"
+          },
+          "HOVER": {
+            "LARGE": "layout_110"
+          }
+        }
+			},
+			"widget_572": {
+        "uri": "widgets/common/image/",
+        "version": "1.3.0",
+        "label": "Image 84",
+        "config": {
+          "functionConfig": {
+            "altText": "",
+            "toolTip": "",
+            "linkParam": {},
+            "scale": "Fit",
+            "imageParam": {}
+          },
+          "styleConfig": {}
+        },
+        "id": "widget_572"
+      },
+      "widget_573": {
+        "uri": "widgets/common/button/",
+        "version": "1.3.0",
+        "label": "Button 24",
+        "config": {
+          "functionConfig": {
+            "text": "123",
+            "textExpression": null,
+            "icon": {
+              "data": "<svg viewBox= \"0 0 16 16 \" xmlns= \"http://www.w3.org/2000/svg \" ><g fill= \"none \" fill-rule= \"evenodd \"><path d= \"M8 3c2.583 0 5.166 1.45 7.75 4.349a.972.972 0 010 1.302C13.166 11.551 10.583 13 8 13S2.834 11.55.25 8.651a.972.972 0 010-1.302C2.834 4.449 5.417 3 8 3zm0 1C5.763 4 3.442 5.303 1.039 8 3.442 10.697 5.763 12 8 12s4.558-1.303 6.961-4C12.558 5.303 10.237 4 8 4zm0 7a3 3 0 110-6 3 3 0 010 6zm0-1a2 2 0 100-4 2 2 0 000 4z \" fill= \"currentColor \" fill-rule= \"nonzero \"></path><path d= \"M0 0h16v16H0z \"></path></g></svg>",
+              "position": "LEFT"
+            }
+          },
+          "styleConfig": {
+            "customStyle": {
+              "regular": {
+                "background": {
+                  "color": "rgba(0,0,0,0)",
+                  "fillType": "fill"
+                },
+                "border": {
+                  "type": "solid",
+                  "color": "var(--light-400)",
+                  "width": "0px"
+                },
+                "text": {
+                  "size": "13px",
+                  "color": "var(--dark-800)"
+                },
+                "borderRadius": {
+                  "unit": "px",
+                  "number": [
+                    2,
+                    2,
+                    2,
+                    2
+                  ]
+                },
+                "iconProps": {
+                  "color": "var(--dark-800)",
+                  "size": 14
+                }
+              },
+              "hover": {
+                "background": {
+                  "color": "var(--secondary-100)",
+                  "fillType": "fill"
+                },
+                "border": {
+                  "type": "solid",
+                  "width": "undefinedpx"
+                },
+                "text": {
+                  "size": "14px"
+                },
+                "borderRadius": {
+                  "unit": "px",
+                  "number": [
+                    2,
+                    2,
+                    2,
+                    2
+                  ]
+                },
+                "iconProps": {
+                  "size": 14
+                }
+              }
+            },
+            "useCustom": true
+          }
+        },
+        "id": "widget_573"
+      },
+      "widget_574": {
+        "uri": "widgets/common/text/",
+        "version": "1.3.0",
+        "label": "Text 256",
+        "config": {
+          "text": "<p></p>",
+          "placeholder": "<p><span style=\"font-size: 20px; color: var(--dark-800);\">${cardTemplateTitle}</span></p>",
+          "style": {
+            "verticalAlign": "start",
+            "wrap": true
+          }
+        },
+        "id": "widget_574"
+      },
+      "widget_575": {
+        "uri": "widgets/common/text/",
+        "version": "1.3.0",
+        "label": "Text 257",
+        "config": {
+          "text": "",
+          "placeholder": "<p>${createdBy}: ${createdAuthorName}</p>",
+          "style": {
+            "verticalAlign": "start",
+            "wrap": true
+          }
+        },
+        "id": "widget_575"
+      },
+      "widget_576": {
+        "uri": "widgets/common/text/",
+        "version": "1.3.0",
+        "label": "Text 258",
+        "config": {
+          "text": "",
+          "placeholder": "<p>${createdDate}: ${createdDateTime}</p>",
+          "style": {
+            "verticalAlign": "start",
+            "wrap": true
+          }
+        },
+        "id": "widget_576"
+      },
+      "widget_577": {
+        "uri": "widgets/arcgis/arcgis-map/",
+        "version": "1.3.0",
+        "label": "Map 1",
+        "config": {
+          "toolConifg": {
+            "canZoom": true,
+            "canHome": true,
+            "canSearch": true
+          },
+          "isUseCustomMapState": false
+        },
+        "id": "widget_577",
+        "layouts": {
+          "MapFixedLayout": {
+            "LARGE": "layout_111"
+          }
+        }
+      }
+		},
+		"views": {},
+		"sections": {}
+	}
+}

@@ -1,0 +1,21 @@
+{
+  "name": "show-record-id-widget",
+  "type": "widget",
+  "version": "1.3.0",
+  "exbVersion": "1.3.0",
+  "author": "Esri R&D Center Beijing",
+  "description": "This is the widget used in developer guide",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "dataActions": [
+    {
+      "name": "show-id",
+      "uri": "data-actions/show-id"
+    }
+  ],
+  "properties": {
+    "hasMainClass": false,
+    "hasSettingPage": false,
+    "hasConfig": false
+  }
+}

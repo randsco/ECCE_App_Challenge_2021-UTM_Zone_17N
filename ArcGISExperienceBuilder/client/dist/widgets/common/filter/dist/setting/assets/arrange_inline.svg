@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>thumbnail_style_inline_horizontal</title>
+    <g id="Filter_v3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="StyleSetting" transform="translate(-1275.000000, -335.000000)" fill-rule="nonzero">
+            <g id="thumbnail/style/inline/horizontal" transform="translate(1275.000000, 335.000000)">
+                <g>
+                    <rect id="Rectangle" fill="#282828" x="5" y="5" width="60" height="60" rx="1"></rect>
+                    <rect id="Rectangle-Copy-16" fill="#6A6A6A" x="9" y="9" width="15" height="8" rx="2"></rect>
+                    <rect id="Rectangle-Copy-20" fill="#525252" x="26" y="9" width="19" height="8" rx="2"></rect>
+                    <path d="M17,19 L19,21.1276596 L52,21.1276596 C52.5522847,21.1276596 53,21.5753748 53,22.1276596 L53,42.1276596 C53,42.6799443 52.5522847,43.1276596 52,43.1276596 L10,43.1276596 C9.44771525,43.1276596 9,42.6799443 9,42.1276596 L9,22.1276596 C9,21.5753748 9.44771525,21.1276596 10,21.1276596 L15,21.1276596 L17,19 Z" id="Combined-Shape-Copy" fill="#363636"></path>
+                    <rect id="Rectangle-Copy-27" fill="#525252" x="13" y="25" width="36" height="2"></rect>
+                    <rect id="Rectangle-Copy-28" fill="#525252" x="13" y="31" width="36" height="2"></rect>
+                    <rect id="Rectangle-Copy-29" fill="#525252" x="13" y="37" width="27" height="2"></rect>
+                    <rect id="Rectangle-Copy-21" fill="#6A6A6A" x="47" y="9" width="14" height="8" rx="2"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,232 @@
+{
+	"widgetId": "widget_x",
+	"config": {
+		"layouts": {
+			"layout_9": {
+				"type": "FIXED",
+				"content": {
+					"4": {
+						"type": "WIDGET",
+						"bbox": {
+							"left": "34.00%",
+							"right": "137px",
+							"top": "12.7920%",
+							"bottom": "143px",
+							"width": "40.8573%",
+							"height": "30px"
+						},
+						"widgetId": "widget_59",
+						"setting": {
+
+							"vCenter": false,
+							"hCenter": false
+						},
+						"isPending": false
+					},
+					"5": {
+						"type": "WIDGET",
+						"bbox": {
+							"left": "34.00%",
+							"right": "25.3751%",
+							"top": "32.5707%",
+							"bottom": "13.7250%",
+							"width": "40.8582%",
+							"height": "53.5714%"
+						},
+						"widgetId": "widget_60",
+						"setting": {
+
+							"vCenter": false,
+							"hCenter": false
+						},
+						"isPending": false
+					},
+					"6": {
+						"type": "WIDGET",
+						"bbox": {
+							"left": "1.9749%",
+							"right": "68.1720%",
+							"top": "9.6512%",
+							"bottom": "13.8652%",
+							"width": "29.9257%",
+							"height": "76.4836%"
+						},
+						"widgetId": "widget_61",
+						"setting": {
+
+							"autoProps": {
+								"width": "CUSTOM"
+							},
+							"vCenter": false,
+							"hCenter": false
+						},
+						"isPending": false
+					},
+					"7": {
+						"type": "WIDGET",
+						"bbox": {
+							"left": "78.3757%",
+							"right": "2.97%",
+							"top": "42.3044%",
+							"bottom": 81,
+							"width": "18.5874%",
+							"height": "16.1616%"
+						},
+						"widgetId": "widget_62",
+						"setting": {
+
+							"vCenter": false,
+							"hCenter": false,
+							"autoProps": {
+								"right": false,
+								"left": true
+							}
+						},
+						"isPending": false
+					}
+				},
+				"order": ["4", "5", "6", "7"],
+				"label": "Regular"
+			}
+		},
+		"widgets": {
+			"widget_x": {
+				"config": {
+					"REGULAR": {
+						"enable": true,
+						"backgroundStyle": {
+							"border": {
+								"type": "solid",
+								"color": "var(--light-400)",
+								"width": "1px"
+							},
+							"background": {
+								"color": "",
+								"fillType": "fit",
+								"image": {
+									"url": ""
+								}
+							}
+						}
+					},
+					"HOVER": {
+						"enable": false,
+						"backgroundStyle": {
+							"border": {
+								"type": "solid",
+								"color": "var(--light-400)",
+								"width": "1px"
+							},
+							"boxShadow": {
+								"offsetX": "0px",
+								"offsetY": "0px",
+								"blur": "0px",
+								"spread": "0px",
+								"color": ""
+							},
+							"background": {
+								"color": "",
+								"fillType": "fit",
+								"image": {
+									"url": ""
+								}
+							}
+						}
+					},
+					"itemStyle": "STYLE9",
+					"direction": "Vertical",
+					"isItemStyleConfirm":  false,
+					"isOpenAdvabceSetting": false,
+					"isInitialed": true,
+					"transitionInfo": {
+						"transition": {
+							"type": "None",
+							"direction": "H"
+						},
+						"oneByOneEffect": null
+					}
+				},
+				"layouts": {
+					"REGULAR": {
+						"LARGE": "layout_9"
+					}
+				}
+			},
+			"widget_59": {
+				"uri": "widgets/common/text/",
+				"config": {
+					"text": "",
+					"placeholder": "<p style=\"line-height: 1;\"><span style=\"font-size: 20px; color: var(--dark-800);\">${cardTemplateTitle}</span></p>",
+					"style": {
+						"verticalAlign": "start",
+						"wrap": true
+					}
+				}
+			},
+			"widget_60": {
+				"uri": "widgets/common/text/",
+				"config": {
+					"text": "<p></p>",
+					"placeholder": "<p><span style=\"color: var(--dark-800); font-size: 0.8125rem;\">${contentPlaceholder}</span></p>",
+					"style": {
+						"verticalAlign": "start",
+						"wrap": true
+					},
+					"tooltip": {
+						"name": "",
+						"parts": [{
+							"type": "STRING",
+							"exp": "\"\""
+						}]
+					}
+				}
+			},
+			"widget_61": {
+				"uri": "widgets/common/image/",
+				"config": {
+					"functionConfig": {
+						"altText": "",
+						"toolTip": "",
+						"linkParam": {},
+						"scale": "Fit",
+						"imageParam": {
+							"cropParam": {
+								"svgViewBox": "0 0 28 28",
+								"svgPath": "M28 14c0 7.732-6.268 14-14 14S0 21.732 0 14 6.268 0 14 0s14 6.268 14 14z",
+								"cropShape": "circle"
+							}
+						}
+					},
+					"styleConfig": {}
+				}
+			},
+			"widget_62": {
+				"uri": "widgets/common/button/",
+				"config": {
+					"functionConfig": {},
+					"styleConfig": {
+						"themeStyle": {
+							"quickStyleType": "primary"
+						},
+						"useCustom": false,
+						"customStyle": {
+							"regular": {
+								"iconProps": {
+									"color": "var(--white)",
+									"size": 12
+								}
+							},
+							"hover": {
+								"iconProps": {
+									"size": 12
+								}
+							}
+						}
+					}
+				}
+			}
+		},
+		"views": {},
+		"sections": {}
+	}
+}

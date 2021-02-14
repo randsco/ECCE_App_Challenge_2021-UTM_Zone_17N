@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="108px" height="108px" viewBox="0 0 108 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>thumbnail_bookmark_presentation_slide_02</title>
+    <g id="Bookmark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Choose-Template" transform="translate(-1316.000000, -326.000000)" fill-rule="nonzero">
+            <g id="Thumbnail/Bookmark/Presentation/Slide_02" transform="translate(1316.000000, 326.000000)">
+                <g>
+                    <rect id="Rectangle" fill="#282828" x="8" y="8" width="92" height="38"></rect>
+                    <rect id="Title-Copy-9" fill="#525252" x="8" y="52" width="56" height="4"></rect>
+                    <rect id="Title-Copy-33" fill="#6A6A6A" x="8" y="92" width="8" height="8" rx="4"></rect>
+                    <rect id="Rectangle" fill="#000000" opacity="0" x="42" y="93" width="6" height="6"></rect>
+                    <polygon id="Path" fill="#6A6A6A" points="47.25 93 44.9920891 96 47.25 99 45.7579109 99 43.5 96 45.7579109 93"></polygon>
+                    <rect id="Rectangle" fill="#000000" opacity="0" transform="translate(63.000000, 96.000000) scale(-1, 1) translate(-63.000000, -96.000000) " x="60" y="93" width="6" height="6"></rect>
+                    <polygon id="Path" fill="#6A6A6A" transform="translate(62.625000, 96.000000) scale(-1, 1) translate(-62.625000, -96.000000) " points="64.5 93 62.2420891 96 64.5 99 63.0079109 99 60.75 96 63.0079109 93"></polygon>
+                    <rect id="Title-Copy-36" fill="#6A6A6A" x="92" y="92" width="8" height="8" rx="4"></rect>
+                    <rect id="Title-Copy-24" fill="#525252" x="8" y="62" width="92" height="2"></rect>
+                    <rect id="Title-Copy-25" fill="#525252" x="8" y="68" width="92" height="2"></rect>
+                    <rect id="Title-Copy-26" fill="#525252" x="8" y="74" width="92" height="2"></rect>
+                    <rect id="Title-Copy-29" fill="#525252" x="8" y="80" width="40" height="2"></rect>
+                    <polygon id="image-14" fill="#525252" points="52.7277628 27.9811321 56.2857143 23 62 31 46 31 50.5714286 25.2857143"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

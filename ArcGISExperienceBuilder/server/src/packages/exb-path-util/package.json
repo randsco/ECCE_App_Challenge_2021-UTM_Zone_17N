@@ -1,0 +1,14 @@
+{
+  "name": "exb-path-util",
+  "version": "1.0.0",
+  "description": "ExB path utils",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "path utils",
+    "EXB"
+  ],
+  "author": "Beijing R&D, Esri.inc",
+  "license": "Apache-2.0"
+}

@@ -1,0 +1,67 @@
+{
+  "name": "survey123",
+  "label": "Survey",
+  "type": "widget",
+  "version": "1.3.0",
+  "dependency": "jimu-arcgis",
+  "settingDependency": "jimu-arcgis",
+  "exbVersion": "1.3.0",
+  "author": "Esri R&D Center Beijing",
+  "description": "This is the widget used in developer guide",
+  "copyright": "",
+  "defaultSize": {
+    "width": 300,
+    "height": 400
+  },
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "featureActions": [
+    {
+      "name": "ShowVertex",
+      "uri": "ShowVertexFeatureAction"
+    }
+  ],
+  "properties": {
+    "coverLayoutBackground": true
+  },
+  "translatedLocales": [
+    "en",
+    "ar",
+    "bs",
+    "ca",
+    "cs",
+    "da",
+    "de",
+    "el",
+    "es",
+    "et",
+    "fi",
+    "fr",
+    "he",
+    "hr",
+    "hu",
+    "id",
+    "it",
+    "ja",
+    "ko",
+    "lt",
+    "lv",
+    "nb",
+    "nl",
+    "pl",
+    "pt-br",
+    "pt-pt",
+    "ro",
+    "ru",
+    "sk",
+    "sl",
+    "sr",
+    "sv",
+    "th",
+    "tr",
+    "zh-cn",
+    "uk",
+    "vi",
+    "zh-hk",
+    "zh-tw"
+  ]
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="48px" viewBox="0 0 68 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.415686 0 0 0 0 0.415686 0 0 0 0 0.415686 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="SQL_Responsive" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons" transform="translate(-162.000000, -307.000000)">
+            <g id="Group-7" transform="translate(146.000000, 291.000000)">
+                <g id="thumbnail/style/select/single" transform="translate(16.000000, 16.000000)">
+                    <g id="thumbnail/style/select/simple">
+                        <path d="M63,14 C63.5522847,14 64,14.4477153 64,15 L64,43 C64,43.5522847 63.5522847,44 63,44 L5,44 C4.44771525,44 4,43.5522847 4,43 L4,15 C4,14.4477153 4.44771525,14 5,14 L63,14 Z M63,15 L5,15 L5,43 L63,43 L63,15 Z" id="Rectangle" fill="#363636" fill-rule="nonzero"></path>
+                        <rect id="Rectangle" fill="#6A6A6A" fill-rule="nonzero" x="16" y="20" width="44" height="2"></rect>
+                        <g filter="url(#filter-1)" id="Icon-tick">
+                            <g transform="translate(8.000000, 19.000000)">
+                                <path d="M5.05460277,0.159839287 L2.39306431,2.78286313 L0.945397226,1.35042362 C0.73001261,1.13730457 0.376923077,1.13730457 0.161538462,1.35042362 C-0.0538461538,1.56354267 -0.0538461538,1.91291816 0.161538462,2.12603721 L1.89520807,3.84147087 C2.01172762,3.95676478 2.22005044,4.00917111 2.39306431,3.99868984 C2.56607818,4.00567735 2.77440101,3.95327103 2.88738966,3.84147087 L5.83846154,0.935452878 C6.05384615,0.722333828 6.05384615,0.372958337 5.83846154,0.159839287 C5.62307692,-0.0532797624 5.27351828,-0.0532797624 5.05460277,0.159839287 Z" id="Path" fill="#999999" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                        <rect id="Rectangle-Copy-2" fill="#363636" fill-rule="nonzero" x="16" y="28" width="44" height="2"></rect>
+                        <rect id="Rectangle-Copy-62" fill="#363636" fill-rule="nonzero" x="16" y="36" width="44" height="2"></rect>
+                        <rect id="Title-Copy-28" fill="#6A6A6A" fill-rule="nonzero" x="4" y="4" width="60" height="8" rx="2"></rect>
+                        <polygon id="Rectangle" fill="#181818" points="55 6 61 6 58 10"></polygon>
+                        <rect id="Rectangle" fill="#181818" x="7" y="7" width="46" height="2"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+define({
+  back: 'Terug',
+  createFailedWarning: 'Gegevens creëren mislukt!',
+  noSupportedDataSource: 'Er zijn geen ondersteunde gegevens beschikbaar.',
+  noUsedFieldToMap: 'Er hoeven geen velden in gebruik te worden toegewezen.',
+  noChildDssToMap: 'Er hoeven geen onderliggende gegevens toegewezen te worden.',
+  inUse: 'In gebruik',
+  noRelatedWidget: 'Geen gerelateerde widget',
+  noUsedField: 'Geen gebruikt veld',
+  noLayer: 'Geen laag',
+  noDataNotice: 'Geen gegevens in de ervaring.<br/>Voeg uw gegevens toe.',
+  dataViews: 'Dataweergaven',
+  originalDsLabel: 'Bron',
+  autoRefresh: 'Automatisch vernieuwen',
+  updateMinutesAgo: 'Laatste update: {minutes} minuten geleden',
+  updateOneMinuteAgo: 'Laatste update: een minuut geleden',
+  updateSecondsAgo: 'Laatste update: enkele seconden geleden',
+  refreshSetting: 'Instellingen voor vernieuwen',
+  interval: 'Interval',
+  honorLayer: 'Instellingen voor honor-laag',
+  minutes: 'minuten'
+});

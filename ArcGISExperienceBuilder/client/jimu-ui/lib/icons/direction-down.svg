@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>direction-down</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="0-UI-icons" transform="translate(-1237.000000, -493.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M1245,495 C1245.29113,495 1245.52713,495.231031 1245.52713,495.516022 L1245.52713,505.024448 L1249.10013,501.526763 C1249.30599,501.325244 1249.63975,501.325244 1249.84561,501.526763 C1250.05146,501.728282 1250.05146,502.055009 1249.84561,502.256528 L1245,507 L1240.15439,502.256528 C1239.94854,502.055009 1239.94854,501.728282 1240.15439,501.526763 C1240.36025,501.325244 1240.69401,501.325244 1240.89987,501.526763 L1244.47287,505.024448 L1244.47287,495.516022 C1244.47287,495.231031 1244.70887,495 1245,495 Z" id="direction-down"></path>
+        </g>
+    </g>
+</svg>

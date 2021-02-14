@@ -1,0 +1,21 @@
+{
+  "name": "exb-history-404",
+  "version": "1.0.0",
+  "description": "handle the 404 response caused by HTML5 history API for experience created from EXB",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "peerDependencies": {
+    "koa": "^2.5.1"
+  },
+  "dependencies": {
+    "exb-path-util": "file:../exb-path-util"
+  },
+  "keywords": [
+    "404",
+    "EXB"
+  ],
+  "author": "Beijing R&D, Esri.inc",
+  "license": "Apache-2.0"
+}

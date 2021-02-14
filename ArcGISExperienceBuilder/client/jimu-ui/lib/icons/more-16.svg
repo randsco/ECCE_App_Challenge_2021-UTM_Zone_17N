@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>more-16</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="0-UI-icons" transform="translate(-149.000000, -611.000000)" fill-rule="nonzero">
+            <g id="more-16" transform="translate(149.000000, 611.000000)">
+                <path d="M13,7.5 C13,6.67157288 13.6715729,6 14.5,6 C15.3284271,6 16,6.67157288 16,7.5 C16,8.32842712 15.3284271,9 14.5,9 C13.6715729,9 13,8.32842712 13,7.5 Z M6.5,7.5 C6.5,6.67157288 7.17157288,6 8,6 C8.82842712,6 9.5,6.67157288 9.5,7.5 C9.5,8.32842712 8.82842712,9 8,9 C7.17157288,9 6.5,8.32842712 6.5,7.5 Z M0,7.5 C0,6.67157288 0.671572875,6 1.5,6 C2.32842712,6 3,6.67157288 3,7.5 C3,8.32842712 2.32842712,9 1.5,9 C0.671572875,9 0,8.32842712 0,7.5 Z" fill="#000000"></path>
+                <rect id="Rectangle" x="0" y="0" width="16" height="16"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

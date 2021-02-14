@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="108px" height="108px" viewBox="0 0 108 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>thumbnail_bookmark_tradition_list</title>
+    <g id="Bookmark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Choose-Template" transform="translate(-1315.000000, -193.000000)" fill-rule="nonzero">
+            <g id="Thumbnail/Bookmark/Tradition/List" transform="translate(1315.000000, 193.000000)">
+                <g>
+                    <rect id="Title-Copy-9" fill="#525252" x="24" y="10" width="51" height="4"></rect>
+                    <rect id="Title-Copy-18" fill="#525252" x="24" y="41" width="65" height="4"></rect>
+                    <rect id="Title-Copy-16" fill="#525252" x="24" y="25" width="76" height="4"></rect>
+                    <rect id="Title-Copy-14" fill="#282828" x="8" y="55" width="93" height="1"></rect>
+                    <g id="Group-3" transform="translate(8.000000, 64.000000)">
+                        <rect id="Rectangle-Copy-5" stroke="#363636" x="0.5" y="0.5" width="91" height="19"></rect>
+                        <g id="add-copy" transform="translate(41.000000, 5.000000)" fill="#525252">
+                            <polygon id="Path" points="10 5.625 5.625 5.625 5.625 10 4.375 10 4.375 5.625 0 5.625 0 4.375 4.375 4.375 4.375 0 5.625 0 5.625 4.375 10 4.375"></polygon>
+                        </g>
+                    </g>
+                    <rect id="Title-Copy-15" fill="#525252" x="8" y="8" width="8" height="8"></rect>
+                    <rect id="Title-Copy-20" fill="#525252" x="8" y="39" width="8" height="8"></rect>
+                    <rect id="Title-Copy-17" fill="#525252" x="8" y="23" width="8" height="8"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

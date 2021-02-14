@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="16px" viewBox="0 0 11 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>lock-16</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-366.000000, -727.000000)" fill="#000000" fill-rule="nonzero" id="16*16">
+            <g transform="translate(40.000000, 343.000000)">
+                <g id="lock-16" transform="translate(324.000000, 384.000000)">
+                    <path d="M7.5,0 C9.43299662,0 11,1.56700338 11,3.5 L11,6 L12,6 C12.5522847,6 13,6.44771525 13,7 L13,15 C13,15.5522847 12.5522847,16 12,16 L3,16 C2.44771525,16 2,15.5522847 2,15 L2,7 C2,6.44771525 2.44771525,6 3,6 L4,6 L4,3.5 C4,1.56700338 5.56700338,0 7.5,0 Z M12,7 L3,7 L3,15 L12,15 L12,7 Z M7.5,9 C8.32842712,9 9,9.67157288 9,10.5 C9,11.3284271 8.32842712,12 7.5,12 C6.67157288,12 6,11.3284271 6,10.5 C6,9.67157288 6.67157288,9 7.5,9 Z M7.5,1 C6.1745166,1 5.08996133,2.03153594 5.00531768,3.33562431 L5,3.5 L5,6 L10,6 L10,3.5 C10,2.1745166 8.96846406,1.08996133 7.66437569,1.00531768 L7.5,1 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

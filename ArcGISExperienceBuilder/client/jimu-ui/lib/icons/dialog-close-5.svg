@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>close-5</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Builder" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="B3-6-Dialog-FP-Close-icon" transform="translate(-1367.000000, -681.000000)" fill="#C5C5C5">
+            <g id="icon-chooser" transform="translate(1184.000000, 614.000000)">
+                <path d="M197,67 C198.104569,67 199,67.8954305 199,69 L199,81 C199,82.1045695 198.104569,83 197,83 L185,83 C183.895431,83 183,82.1045695 183,81 L183,69 C183,67.8954305 183.895431,67 185,67 L197,67 Z M193.828427,70.7573593 L191,73.5857864 L188.171573,70.7573593 L186.757359,72.1715729 L189.585786,75 L186.757359,77.8284271 L188.171573,79.2426407 L191,76.4142136 L193.828427,79.2426407 L195.242641,77.8284271 L192.414214,75 L195.242641,72.1715729 L193.828427,70.7573593 Z" id="close-5"></path>
+            </g>
+        </g>
+    </g>
+</svg>

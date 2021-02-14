@@ -1,0 +1,201 @@
+{
+  "widgetId": "widget_x",
+  "config": {
+    "layouts": {
+      "layout_5": {
+        "type": "FIXED",
+        "content": {
+          "0": {
+            "type": "WIDGET",
+            "bbox": {
+              "top": "14.65%",
+              "width": "96px",
+              "height": "96px",
+              "left": "50%"
+            },
+            "widgetId": "widget_7",
+            "setting": {
+              "lockParent": true,
+              "vCenter": false,
+              "hCenter": true,
+              "heightMode": "ratio",
+              "aspectRatio": 1,
+              "autoProps": {
+                "left": false,
+                "right": true
+              }
+            },
+            "isPending": false
+          },
+          "2": {
+            "type": "WIDGET",
+            "bbox": {
+              "left": "5.05%",
+              "top": "69.60%",
+              "width": "196px",
+              "height": "70px",
+              "right": "5.05%",
+              "bottom": "7.33%"
+            },
+            "widgetId": "widget_5",
+            "setting": {
+              "lockParent": true,
+              "autoProps": {
+                "width": true,
+                "top": false,
+                "height": true
+              }
+            }
+          },
+          "3": {
+            "type": "WIDGET",
+            "bbox": {
+              "left": "5.56%",
+              "top": "53.11%",
+              "width": "176px",
+              "height": "20.51%",
+              "right": "5.56%"
+            },
+            "widgetId": "widget_6",
+            "setting": {
+              "lockParent": true,
+              "autoProps": {
+                "width": true
+              },
+              "vCenter": false
+            }
+          }
+        },
+        "order": [
+          "0",
+          "2",
+          "3"
+        ],
+        "label": "Regular"
+      }
+    },
+    "widgets": {
+      "widget_x": {
+        "config": {
+          "maxItems": 100,
+          "space": 10,
+          "itemsPerPage": 10,
+          "isItemStyleConfirm": false,
+          "isInitialed": false,
+          "pageStyle": "SCROLL",
+          "itemStyle": "STYLE1",
+          "hoverType": "HOVER0",
+          "selectedStyle": "STYLE0",
+          "differentOddEven": false,
+          "scrollBarOpen": true,
+          "direction": "HORIZON",
+          "alignType": "CENTER",
+          "scrollStep": 2,
+          "cardConfigs": {
+            "REGULAR": {
+              "cardSize": {
+                "LARGE": {
+                  "width": 200,
+                  "height": 275
+                }
+              },
+              "enable": true,
+              "backgroundStyle": {
+                "border": {
+                  "type": "solid",
+                  "color": "var(--light-400)",
+                  "width": "1px"
+                }
+              }
+            },
+            "HOVER": {
+              "cardSize": {
+                "LARGE": {
+                  "width": 200,
+                  "height": 275
+                }
+              },
+              "enable": false,
+              "backgroundStyle": {
+                "border": {
+                  "type": "solid",
+                  "color": "var(--light-400)",
+                  "width": "1px"
+                }
+              }
+            },
+            "SELECTED": {
+              "cardSize": {
+                "LARGE": {
+                  "width": 200,
+                  "height": 275
+                }
+              },
+              "backgroundStyle": {
+                "border": {
+                  "type": "solid",
+                  "color": "var(--primary-500)",
+                  "width": "1px"
+                }
+              },
+              "selectionMode": "SINGLE"
+            }
+          },
+          "style": {
+            "id": "default"
+          }
+        },
+        "layouts": {
+          "REGULAR": {
+            "LARGE": "layout_5"
+          }
+        }
+      },
+      "widget_5": {
+        "uri": "widgets/common/text/",
+        "config": {
+          "text": "",
+          "placeholder": "<p style=\"text-align: center;\"><span style=\"font-size: 13px;color: var(--dark-800);\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum </span></p>",
+          "style": {
+            "verticalAlign": "start",
+            "wrap": true,
+            "overflow": "scroll",
+            "padding": "p-1"
+          }
+        }
+      },
+      "widget_6": {
+        "uri": "widgets/common/text/",
+        "config": {
+          "text": "",
+          "placeholder": "<p style=\"text-align: center;\"><span style=\"font-size: 16px;color: var(--dark-800);\">${textPlaceholder}</span></p>",
+          "style": {
+            "verticalAlign": "start",
+            "wrap": true
+          }
+        }
+      },
+      "widget_7": {
+        "uri": "widgets/common/image/",
+        "config": {
+          "functionConfig": {
+            "altText": "",
+            "toolTip": "",
+            "linkParam": {},
+            "scale": "Fit",
+            "imageParam": {
+              "cropParam": {
+                "cropShape": "circle",
+                "svgPath": "M28 14c0 7.732-6.268 14-14 14S0 21.732 0 14 6.268 0 14 0s14 6.268 14 14z",
+                "svgViewBox": "0 0 28 28"
+              }
+            }
+          },
+          "styleConfig": {}
+        }
+      }
+    },
+    "views": {},
+    "sections": {}
+  }
+}

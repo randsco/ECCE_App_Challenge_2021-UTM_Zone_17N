@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="4px" viewBox="0 0 16 4" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>handle</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="0-UI-icons" transform="translate(-143.000000, -1759.000000)" fill="#000000">
+            <g id="待定" transform="translate(40.000000, 1710.000000)">
+                <path d="M118.5,52 C118.776142,52 119,52.2238576 119,52.5 C119,52.7761424 118.776142,53 118.5,53 L103.5,53 C103.223858,53 103,52.7761424 103,52.5 C103,52.2238576 103.223858,52 103.5,52 L118.5,52 Z M118.5,49 C118.776142,49 119,49.2238576 119,49.5 C119,49.7761424 118.776142,50 118.5,50 L103.5,50 C103.223858,50 103,49.7761424 103,49.5 C103,49.2238576 103.223858,49 103.5,49 L118.5,49 Z" id="handle"></path>
+            </g>
+        </g>
+    </g>
+</svg>

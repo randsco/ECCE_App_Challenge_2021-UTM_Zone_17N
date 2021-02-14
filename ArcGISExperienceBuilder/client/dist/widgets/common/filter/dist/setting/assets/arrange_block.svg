@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="68px" viewBox="0 0 68 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>thumbnail_style_inline_vertical</title>
+    <g id="Filter_v3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="StyleSetting" transform="translate(-1196.000000, -336.000000)" fill-rule="nonzero">
+            <g id="thumbnail/style/inline/vertical" transform="translate(1196.000000, 336.000000)">
+                <g>
+                    <rect id="Rectangle" fill="#282828" x="4" y="4" width="60" height="60" rx="1"></rect>
+                    <rect id="Rectangle-Copy" fill="#363636" x="8" y="52" width="52" height="8" rx="1"></rect>
+                    <g id="Group-2" transform="translate(8.000000, 8.000000)">
+                        <rect id="Rectangle-Copy-32" fill="#363636" x="0" y="0" width="52" height="19" rx="1"></rect>
+                        <rect id="Rectangle-Copy-18" fill="#525252" x="3" y="8" width="46" height="2"></rect>
+                        <rect id="Rectangle-Copy-25" fill="#525252" x="3" y="13" width="35" height="2"></rect>
+                        <polygon id="Rectangle-Copy-23" fill="#6A6A6A" points="2 3 6 3 4 5"></polygon>
+                    </g>
+                    <rect id="Rectangle-Copy-33" fill="#363636" x="8" y="41" width="52" height="8" rx="1"></rect>
+                    <rect id="Rectangle-Copy-34" fill="#363636" x="8" y="30" width="52" height="8" rx="1"></rect>
+                    <polygon id="Rectangle-Copy-22" fill="#6A6A6A" transform="translate(12.000000, 45.000000) rotate(-90.000000) translate(-12.000000, -45.000000) " points="10 44 14 44 12 46"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

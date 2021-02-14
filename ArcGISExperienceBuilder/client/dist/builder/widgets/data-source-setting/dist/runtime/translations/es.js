@@ -1,0 +1,22 @@
+define({
+  back: 'Atrás',
+  createFailedWarning: '¡Error al crear los datos!',
+  noSupportedDataSource: 'No hay datos compatibles disponibles.',
+  noUsedFieldToMap: 'No es necesario asignar ningún campo en uso.',
+  noChildDssToMap: 'No es necesario asignar datos secundarios.',
+  inUse: 'En uso',
+  noRelatedWidget: 'Ningún widget relacionado',
+  noUsedField: 'Ningún campo utilizado',
+  noLayer: 'Ninguna capa',
+  noDataNotice: 'No hay datos en la experiencia.<br/>Agréguelos.',
+  dataViews: 'Vistas de datos',
+  originalDsLabel: 'Fuente',
+  autoRefresh: 'Actualizar automáticamente',
+  updateMinutesAgo: 'Última actualización: hace {minutes} minutos',
+  updateOneMinuteAgo: 'Última actualización: hace un minuto',
+  updateSecondsAgo: 'Última actualización: hace unos segundos',
+  refreshSetting: 'Actualizar configuración',
+  interval: 'Intervalo',
+  honorLayer: 'Respetar configuración de la capa',
+  minutes: 'minutos'
+});

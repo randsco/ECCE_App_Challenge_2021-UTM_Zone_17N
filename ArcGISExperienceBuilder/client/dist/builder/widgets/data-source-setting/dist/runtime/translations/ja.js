@@ -1,0 +1,22 @@
+define({
+  back: '戻る',
+  createFailedWarning: 'データを作成できませんでした。',
+  noSupportedDataSource: 'サポートされているデータがありません。',
+  noUsedFieldToMap: 'マッピングが必要な使用中のフィールドはありません。',
+  noChildDssToMap: 'マッピングが必要な子データはありません。',
+  inUse: '使用中',
+  noRelatedWidget: '関連するウィジェットがありません',
+  noUsedField: '使用されるフィールドがありません',
+  noLayer: 'レイヤーがありません',
+  noDataNotice: 'エクスペリエンス内にデータがありません。<br/>データを追加してください。',
+  dataViews: 'データ ビュー',
+  originalDsLabel: 'ソース',
+  autoRefresh: '自動更新',
+  updateMinutesAgo: '最終更新: {minutes} 分前',
+  updateOneMinuteAgo: '最終更新: 1 分前',
+  updateSecondsAgo: '最終更新: 数秒前',
+  refreshSetting: '更新設定',
+  interval: '間隔',
+  honorLayer: 'レイヤーの設定を優先',
+  minutes: '分'
+});

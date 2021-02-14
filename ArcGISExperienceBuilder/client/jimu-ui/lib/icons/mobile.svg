@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
+    <title>mobile</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-400.000000, -443.000000)" id="mobile">
+            <g transform="translate(400.000000, 443.000000)">
+                <path d="M10.2,1 C11.1941125,1 12,1.78350169 12,2.75 L12,13.25 C12,14.2164983 11.1941125,15 10.2,15 L4.8,15 C3.80588745,15 3,14.2164983 3,13.25 L3,2.75 C3,1.78350169 3.80588745,1 4.8,1 L10.2,1 Z M7.5,13 C7.22385763,13 7,13.2238576 7,13.5 C7,13.7761424 7.22385763,14 7.5,14 C7.77614237,14 8,13.7761424 8,13.5 C8,13.2238576 7.77614237,13 7.5,13 Z M10.5,3 L4.5,3 L4.5,12 L10.5,12 L10.5,3 Z" fill="#000000" fill-rule="nonzero"></path>
+                <rect id="Rectangle" x="0" y="0" width="16" height="16"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>close-2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Builder" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="B3-6-Dialog-FP-Close-icon" transform="translate(-1247.000000, -681.000000)" fill="#C5C5C5">
+            <g id="icon-chooser" transform="translate(1184.000000, 614.000000)">
+                <path d="M71,67 C75.418278,67 79,70.581722 79,75 C79,79.418278 75.418278,83 71,83 C66.581722,83 63,79.418278 63,75 C63,70.581722 66.581722,67 71,67 Z M71,68 C67.1340068,68 64,71.1340068 64,75 C64,78.8659932 67.1340068,82 71,82 C74.8659932,82 78,78.8659932 78,75 C78,71.1340068 74.8659932,68 71,68 Z M73.9573593,71.2426407 L74.7573593,72.0426407 L71.8,75 L74.7573593,77.9573593 L73.9573593,78.7573593 L71,75.8 L68.0426407,78.7573593 L67.2426407,77.9573593 L70.2,75 L67.2426407,72.0426407 L68.0426407,71.2426407 L71,74.2 L73.9573593,71.2426407 Z" id="close-2"></path>
+            </g>
+        </g>
+    </g>
+</svg>

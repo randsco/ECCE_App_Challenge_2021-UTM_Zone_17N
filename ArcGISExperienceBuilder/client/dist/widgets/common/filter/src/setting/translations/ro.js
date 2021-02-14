@@ -1,0 +1,22 @@
+define({
+  start: 'Începere',
+  selectTemplateTip: 'Selectați un șablon',
+  selectAnotherTemplateTip: 'Selectați un alt șablon',
+  filtersDesc: 'Adăugați filtre noi și personalizați opțiuni.',
+  newFilter: 'Filtru nou',
+  setFilterItem: 'Creare filtru nou',
+  sqlExpr: 'Expresii SQL',
+  sqlExprDesc: 'Adăugați expresii SQL la filtrul dvs.',
+  openFilterBuilder: 'Instrument de creare a expresiilor SQL',
+  setExprTips: 'Mai întâi, adăugați expresiile SQL.',
+  options: 'Opțiuni',
+  autoApplyWhenWidgetOpen: 'Aplicare automată a acestui filtru',
+  collapseFilterExprs: 'Restrângere automată detalii filtru (dacă este cazul)',
+  arrangeAndStyle: 'Stilul aranjamentului',
+  activationMethods: 'Stilul activării',
+  toggleTooltip: 'Comutator',
+  buttonTooltip: 'Buton',
+  omitInternalStyle: 'Exclude stilurile de activare pentru o singură clauză',
+  omitInternalStyleTip: 'Dacă există o singură clauză în fiecare filtru și solicită valori (sau etichetă de afișare), această opțiune vă permite să excludeți stilurile de activare (alături de etichetă și pictogramă), afișați conținutul clauzei direct și aplicați-l automat.',
+  wrapFilters: 'Împachetați elementele'
+});

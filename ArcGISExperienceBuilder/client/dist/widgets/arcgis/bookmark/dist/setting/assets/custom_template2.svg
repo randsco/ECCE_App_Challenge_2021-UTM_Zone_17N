@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="108px" height="108px" viewBox="0 0 108 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>thumbnail_bookmark_advanced_template_02</title>
+    <g id="Bookmark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Choose-Template" transform="translate(-1316.000000, -702.000000)" fill-rule="nonzero">
+            <g id="Thumbnail/Bookmark/Advanced/Template_02" transform="translate(1316.000000, 702.000000)">
+                <g>
+                    <rect id="Rectangle" fill="#282828" x="8" y="8" width="92" height="54"></rect>
+                    <rect id="Rectangle-Copy-11" fill="#363636" x="8" y="62" width="92" height="39"></rect>
+                    <rect id="Title-Copy-9" fill="#6A6A6A" x="12" y="72" width="84" height="3"></rect>
+                    <rect id="Title-Copy-11" fill="#6A6A6A" x="70" y="57" width="24" height="10" rx="1"></rect>
+                    <rect id="Title-Copy-10" fill="#282828" x="8" y="82" width="92" height="1"></rect>
+                    <polygon id="image-14" fill="#525252" points="51.6145553 35.3396226 58.2857143 26 69 41 39 41 47.5714286 30.2857143"></polygon>
+                    <rect id="Title-Copy-33" fill="#6A6A6A" x="12" y="88" width="8" height="8" rx="4"></rect>
+                    <g id="arrow-crude-left-copy-2" transform="translate(42.000000, 89.000000)">
+                        <rect id="Rectangle" fill="#000000" opacity="0" x="0" y="0" width="6" height="6"></rect>
+                        <polygon id="Path" fill="#6A6A6A" points="5.25 0 2.99208907 3 5.25 6 3.75791093 6 1.5 3 3.75791093 0"></polygon>
+                    </g>
+                    <g id="arrow-crude-left-copy-3" transform="translate(63.000000, 92.000000) scale(-1, 1) translate(-63.000000, -92.000000) translate(60.000000, 89.000000)">
+                        <rect id="Rectangle" fill="#000000" opacity="0" x="0" y="0" width="6" height="6"></rect>
+                        <polygon id="Path" fill="#6A6A6A" points="5.25 0 2.99208907 3 5.25 6 3.75791093 6 1.5 3 3.75791093 0"></polygon>
+                    </g>
+                    <rect id="Title-Copy-36" fill="#6A6A6A" x="88" y="88" width="8" height="8" rx="4"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

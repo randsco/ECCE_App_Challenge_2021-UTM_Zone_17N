@@ -1,0 +1,52 @@
+<!DOCTYPE HTML>
+<html lang="en-us" style="width: 100%">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+		<title>test embed exb app in iframe</title>
+	</head>
+	<body style="width: 100%">
+    <div style="display: flex; flex-wrap: wrap; width: 100%">
+      <div>
+        <select id="view-select">
+          <option value="default">Default view</option>
+          <option value="view2">View2</option>
+        </select>
+      </div>
+			<div>
+				<h3>App</h3>
+				<iframe id="app-frame" src="http://localhost:3000/experience/" style="width: 800px;height:800px;"></iframe>
+			</div>
+    </div>
+    
+    <script>
+      function onViewChange(evt){
+        var viewId = evt.target.value;
+        var s = 'views=' + viewId;
+        // window.history.pushState(null, '', `${location.protocol}//${location.host}/experience/?${s}`)
+        document.getElementById('app-frame').contentWindow.postMessage({
+          type: 'CHANGE_QUERY',
+          queryObject: {views: viewId}
+        }, window.location.origin)
+      }
+
+      function onMessage(evt){
+        if(evt.data.type === 'JIMU_QUERY_CHANGED'){
+          
+          //for demo, consider search only
+          var newS = 'views=' + evt.data.queryObject.views;
+          var oldS = window.location.href.split('?')[1];
+          if(newS === oldS){
+            return;
+          }
+          window.history.pushState(null, '', `${location.protocol}//${location.host}${location.pathname}?${newS}`)
+        }
+      }
+
+      window.addEventListener("message", onMessage, false);
+      document.getElementById('view-select').addEventListener('change', onViewChange);
+    </script>
+			
+	</body>
+</html>

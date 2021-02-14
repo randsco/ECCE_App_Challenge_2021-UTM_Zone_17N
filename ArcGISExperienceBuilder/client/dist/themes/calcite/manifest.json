@@ -1,0 +1,33 @@
+{
+  "name": "calcite",
+  "label": "Calcite",
+  "type": "theme",
+  "thumbnails ": [],
+  "colors": {
+    "primary": "#0079c1",
+    "secondary": "#efefef",
+    "success": "#31872e",
+    "info": "#aadbfa",
+    "warning": "#e4d154",
+    "danger": "#de2900",
+    "light": "#f8f8f8",
+    "dark": "#323232"
+  },
+  "font": {
+    "fontFamily": "Avenir Next",
+    "color": "#181818"
+  },
+  "version": "1.3.0",
+  "exbVersion": "1.3.0",
+  "author": "Esri R&D Center Beijing",
+  "description": "A simple interpretation of Esri's Calcite design patterns.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "translatedLocales": [
+    "en"
+  ],
+  "styleFiles": {
+    "css": false,
+    "js": true
+  }
+}

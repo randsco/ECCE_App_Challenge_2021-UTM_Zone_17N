@@ -1,0 +1,506 @@
+{
+  "widgetId": "widget_x",
+  "config": {
+		"layouts": {
+			"layout_23": {
+				"type": "FIXED",
+				"content": {
+					"4": {
+						"type": "WIDGET",
+						"bbox": {
+							"left": "5.00%",
+							"right": 14,
+							"top": "59.6642%",
+							"bottom": 121,
+							"width": "90.00%",
+							"height": "10.0503%"
+						},
+						"widgetId": "widget_146",
+						"setting": {
+							"vCenter": false,
+							"hCenter": false
+						},
+						"isPending": false
+					},
+					"5": {
+						"type": "WIDGET",
+						"bbox": {
+							"left": "5.00%",
+							"right": "5.0360%",
+							"top": "69.7132%",
+							"bottom": "22.4142%",
+							"width": "90.00%",
+							"height": "7.8727%"
+						},
+						"widgetId": "widget_147",
+						"setting": {
+							"vCenter": false,
+							"hCenter": false
+						},
+						"isPending": false
+					},
+					"6": {
+						"type": "WIDGET",
+						"bbox": {
+							"left": "0.0000%",
+							"right": 0,
+							"top": 0,
+							"bottom": "36.2647%",
+							"width": "100.0000%",
+							"height": "55.36%"
+						},
+						"widgetId": "widget_148",
+						"setting": {
+						}
+					},
+					"7": {
+						"type": "WIDGET",
+						"setting": {
+							"style": {},
+							"vCenter": false,
+							"hCenter": false
+						},
+						"bbox": {
+							"left": "5.00%",
+							"right": "5.0360%",
+							"top": "75.9082%",
+							"bottom": "16.8080%",
+							"width": "90.00%",
+							"height": "7.2838%"
+						},
+						"widgetId": "widget_149",
+						"isPending": false
+					},
+					"9": {
+						"type": "WIDGET",
+						"bbox": {
+							"left": 0,
+							"right": "75.8993%",
+							"top": 0,
+							"bottom": "93.4673%",
+							"width": 67,
+							"height": 26
+						},
+						"widgetId": "widget_150",
+						"setting": {
+							"vCenter": false,
+							"hCenter": false
+						},
+						"isPending": false
+					},
+					"10": {
+						"type": "WIDGET",
+						"bbox": {
+							"left": "5.00%",
+							"right": "4.9648%",
+							"top": "87.2095%",
+							"bottom": "4.7503%",
+							"width": "90.00%",
+							"height": 32
+						},
+						"widgetId": "widget_151",
+						"setting": {
+							"vCenter": false,
+							"hCenter": false
+						},
+						"isPending": false
+					}
+				},
+				"order": [
+					"4",
+					"5",
+					"6",
+					"7",
+					"9",
+					"10"
+				],
+				"label": "Regular"
+			},
+			"layout_24": {
+				"label": "Hover",
+				"type": "FIXED",
+				"content": {
+					"5": {
+						"type": "WIDGET",
+						"bbox": {
+							"left": "0.0000%",
+							"right": 0,
+							"top": 0,
+							"bottom": "36.2647%",
+							"width": "100.0000%",
+							"height": "55.36%"
+						},
+						"widgetId": "widget_148",
+						"setting": {
+						}
+					},
+					"6": {
+						"type": "WIDGET",
+						"bbox": {
+							"left": 0,
+							"right": "-0.0000%",
+							"top": "14.0730%",
+							"bottom": 0,
+							"width": "100.0000%",
+							"height": "85.9296%"
+						},
+						"widgetId": "widget_152",
+						"setting": {
+							"vCenter": false,
+							"hCenter": false
+						},
+						"isPending": false
+					},
+					"7": {
+						"type": "WIDGET",
+						"bbox": {
+							"left": "5.00%",
+							"right": "5.0360%",
+							"top": "87.1833%",
+							"bottom": "4.7765%",
+							"width": "90.00%",
+							"height": 32
+						},
+						"widgetId": "widget_153",
+						"setting": {
+							"vCenter": false,
+							"hCenter": false
+						},
+						"isPending": false
+					},
+					"8": {
+						"type": "WIDGET",
+						"bbox": {
+							"left": "5.00%",
+							"right": "5.0734%",
+							"top": "18.4202%",
+							"bottom": "16.9258%",
+							"width": "90.00%",
+							"height": "64.6540%"
+						},
+						"widgetId": "widget_154",
+						"setting": {
+							"vCenter": false,
+							"hCenter": false
+						},
+						"isPending": false
+					}
+				},
+				"order": [
+					"5",
+					"6",
+					"7",
+					"8"
+				]
+			}
+		},
+    "widgets": {
+			"widget_x": {
+				"config": {
+					"REGULAR": {
+						"enable": true,
+						"backgroundStyle": {
+							"border": {
+								"type": "solid",
+								"color": "var(--light-400)",
+								"width": "1px"
+							},
+							"background": {
+								"color": "",
+								"fillType": "fit",
+								"image": {
+									"url": ""
+								}
+							}
+						}
+					},
+					"HOVER": {
+						"enable": true,
+						"backgroundStyle": {
+							"border": {
+								"type": "solid",
+								"color": "var(--light-400)",
+								"width": "1px"
+							},
+							"boxShadow": {
+								"offsetX": "0px",
+								"offsetY": "0px",
+								"blur": "0px",
+								"spread": "0px",
+								"color": ""
+							},
+							"background": {
+								"color": "",
+								"fillType": "fit",
+								"image": {
+									"url": ""
+								}
+							}
+						}
+					},
+					"itemStyle": "STYLE0",
+					"direction": "Horizontal",
+					"isItemStyleConfirm":  false,
+					"isOpenAdvabceSetting": false,
+					"isInitialed": true,
+					"transitionInfo": {
+						"transition": {
+							"type": "None",
+							"direction": "H"
+						},
+						"oneByOneEffect": null
+					}
+				},
+				"layouts": {
+					"REGULAR": {
+						"LARGE": "layout_23"
+					},
+					"HOVER": {
+						"LARGE": "layout_24"
+					}
+				}
+			},
+			"widget_146": {
+				"uri": "widgets/common/text/",
+				"version": "1.3.0",
+				"label": "Text 65",
+				"config": {
+					"text": "",
+					"placeholder": "<p><span style=\"font-size: 20px; color: var(--dark-800);\">${cardTemplateTitle}</span></p>",
+					"style": {
+						"verticalAlign": "start",
+						"wrap": true
+					}
+				},
+				"id": "widget_146"
+			},
+			"widget_147": {
+				"uri": "widgets/common/text/",
+				"version": "1.3.0",
+				"label": "Text 66",
+				"config": {
+					"text": "",
+					"placeholder": "<p><span style=\"font-size: 14px; color: var(--dark-800);\">${createdAuthor}: ${createdAuthorName}</span></p>",
+					"style": {
+						"verticalAlign": "start",
+						"wrap": true
+					}
+				},
+				"id": "widget_147"
+			},
+			"widget_148": {
+				"uri": "widgets/common/image/",
+				"version": "1.3.0",
+				"label": "Image 19",
+				"config": {
+					"functionConfig": {
+						"altText": "",
+						"toolTip": "",
+						"linkParam": {},
+						"scale": "Fit",
+						"imageParam": {}
+					},
+					"styleConfig": {}
+				},
+				"id": "widget_148"
+			},
+			"widget_149": {
+				"uri": "widgets/common/text/",
+				"version": "1.3.0",
+				"label": "Text 67",
+				"config": {
+					"text": "",
+					"placeholder": "<p><span style=\"color: var(--dark-800);\">${createdDate}: ${createdDateTime}</span></p></p>",
+					"style": {
+						"verticalAlign": "start",
+						"wrap": true
+					}
+				},
+				"id": "widget_149"
+			},
+			"widget_150": {
+				"uri": "widgets/common/button/",
+				"version": "1.3.0",
+				"label": "Button 1",
+				"config": {
+					"functionConfig": {
+						"text": "123",
+						"textExpression": null,
+						"icon": {
+							"data": "<svg viewBox= \"0 0 16 16 \" xmlns= \"http://www.w3.org/2000/svg \" ><g fill= \"none \" fill-rule= \"evenodd \"><path d= \"M8 3c2.583 0 5.166 1.45 7.75 4.349a.972.972 0 010 1.302C13.166 11.551 10.583 13 8 13S2.834 11.55.25 8.651a.972.972 0 010-1.302C2.834 4.449 5.417 3 8 3zm0 1C5.763 4 3.442 5.303 1.039 8 3.442 10.697 5.763 12 8 12s4.558-1.303 6.961-4C12.558 5.303 10.237 4 8 4zm0 7a3 3 0 110-6 3 3 0 010 6zm0-1a2 2 0 100-4 2 2 0 000 4z \" fill= \"currentColor \" fill-rule= \"nonzero \"></path><path d= \"M0 0h16v16H0z \"></path></g></svg>",
+							"position": "LEFT"
+						}
+					},
+					"styleConfig": {
+						"customStyle": {
+							"regular": {
+								"background": {
+									"color": "success-100",
+									"fillType": "fill"
+								},
+								"border": {
+									"type": "solid",
+									"color": "var(--light-400)",
+									"width": "0px"
+								},
+								"text": {
+									"size": "13px"
+								},
+								"borderRadius": {
+									"unit": "px",
+									"number": [
+										2,
+										2,
+										2,
+										2
+									]
+								},
+								"iconProps": {
+									"color": "var(--black)",
+									"size": 14
+								}
+							},
+							"hover": {
+								"background": {
+									"color": "var(--secondary-100)",
+									"fillType": "fill"
+								},
+								"border": {
+									"type": "solid",
+									"width": "undefinedpx"
+								},
+								"text": {
+									"size": "14px"
+								},
+								"borderRadius": {
+									"unit": "px",
+									"number": [
+										2,
+										2,
+										2,
+										2
+									]
+								},
+								"iconProps": {
+									"size": 14
+								}
+							}
+						},
+						"useCustom": true
+					}
+				},
+				"id": "widget_150"
+			},
+			"widget_151": {
+				"uri": "widgets/common/button/",
+				"version": "1.3.0",
+				"label": "Button 2",
+				"config": {
+					"functionConfig": {},
+					"styleConfig": {
+						"themeStyle": {
+							"quickStyleType": "primary"
+						},
+						"useCustom": false,
+						"customStyle": {
+							"regular": {
+								"iconProps": {
+									"color": "var(--white)",
+									"size": 14
+								}
+							},
+							"hover": {
+								"iconProps": {
+									"size": 14
+								}
+							}
+						}
+					}
+				},
+				"id": "widget_151"
+			},
+			"widget_152": {
+				"uri": "widgets/common/button/",
+				"version": "1.3.0",
+				"label": "Button 3",
+				"config": {
+					"functionConfig": {
+						"text": "",
+						"textExpression": null
+					},
+					"styleConfig": {
+						"useCustom": true,
+						"customStyle": {
+							"hover": {
+								"background": {
+									"color": "",
+									"fillType": "fill"
+								},
+								"border": {
+									"type": "solid",
+									"width": "0px"
+								}
+							},
+							"regular": {
+								"background": {
+									"color": "var(--white)",
+									"fillType": "fill"
+								},
+								"border": {
+									"type": "solid",
+									"color": "var(--light-400)",
+									"width": "0px"
+								}
+							}
+						}
+					}
+				},
+				"id": "widget_152"
+			},
+			"widget_153": {
+				"uri": "widgets/common/button/",
+				"version": "1.3.0",
+				"label": "Button 4",
+				"config": {
+					"functionConfig": {},
+					"styleConfig": {
+						"themeStyle": {
+							"quickStyleType": "primary"
+						},
+						"useCustom": false,
+						"customStyle": {
+							"regular": {
+								"iconProps": {
+									"color": "var(--white)",
+									"size": 14
+								}
+							},
+							"hover": {
+								"iconProps": {
+									"size": 14
+								}
+							}
+						}
+					}
+				},
+				"id": "widget_153"
+			},
+			"widget_154": {
+				"uri": "widgets/common/text/",
+				"version": "1.3.0",
+				"label": "Text 68",
+				"config": {
+					"text": "",
+					"placeholder": "<p><span style=\"color: var(--dark-800);\">${contentPlaceholder}</span></p>",
+					"style": {
+						"verticalAlign": "start",
+						"wrap": true
+					}
+				},
+				"id": "widget_154"
+			}
+		},
+		"views": {},
+		"sections": {}
+  }
+}

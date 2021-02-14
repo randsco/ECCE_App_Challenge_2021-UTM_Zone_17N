@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="108px" height="108px" viewBox="0 0 108 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>thumbnail_bookmark_presentation_slide_03</title>
+    <g id="Bookmark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Choose-Template" transform="translate(-1196.000000, -446.000000)">
+            <g id="Thumbnail/Bookmark/Presentation/Slide_03" transform="translate(1196.000000, 446.000000)">
+                <g>
+                    <rect id="Rectangle" fill="#282828" fill-rule="nonzero" x="8" y="8" width="92" height="92"></rect>
+                    <rect id="Rectangle" fill="#444444" fill-rule="nonzero" x="8" y="82" width="92" height="18"></rect>
+                    <rect id="Title-Copy-9" fill="#6A6A6A" x="12" y="86" width="51" height="4"></rect>
+                    <rect id="Title-Copy-24" fill="#6A6A6A" x="12" y="94" width="84" height="2"></rect>
+                    <polygon id="image-14" fill="#525252" fill-rule="nonzero" points="51.6145553 47.3396226 58.2857143 38 69 53 39 53 47.5714286 42.2857143"></polygon>
+                    <rect id="Rectangle" fill="#000000" fill-rule="nonzero" opacity="0" x="12" y="46" width="8" height="8"></rect>
+                    <polygon id="Path" fill="#6A6A6A" fill-rule="nonzero" points="19 46 15.9894521 50 19 54 17.0105479 54 14 50 17.0105479 46"></polygon>
+                    <rect id="Rectangle" fill="#000000" fill-rule="nonzero" opacity="0" transform="translate(92.000000, 50.000000) scale(-1, 1) translate(-92.000000, -50.000000) " x="88" y="46" width="8" height="8"></rect>
+                    <polygon id="Path" fill="#6A6A6A" fill-rule="nonzero" transform="translate(91.500000, 50.000000) scale(-1, 1) translate(-91.500000, -50.000000) " points="94 46 90.9894521 50 94 54 92.0105479 54 89 50 92.0105479 46"></polygon>
+                    <rect id="Title-Copy-33" fill="#6A6A6A" fill-rule="nonzero" x="12" y="12" width="8" height="8" rx="4"></rect>
+                    <rect id="Title-Copy-44" fill="#6A6A6A" fill-rule="nonzero" x="84" y="76" width="12" height="12" rx="6"></rect>
+                    <rect id="Title-Copy-40" fill="#6A6A6A" fill-rule="nonzero" x="81" y="12" width="15" height="8" rx="4"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

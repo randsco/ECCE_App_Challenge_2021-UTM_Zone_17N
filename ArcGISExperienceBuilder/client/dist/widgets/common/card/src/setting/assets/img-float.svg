@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="30px" viewBox="0 0 50 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>img-float</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="0-UI-icons" transform="translate(-1030.000000, -848.000000)">
+            <g id="Group-15" transform="translate(862.000000, 840.000000)">
+                <g id="Float" transform="translate(158.000000, 0.000000)">
+                    <g id="img-float" transform="translate(15.000000, 10.000000)">
+                        <rect id="Rectangle" stroke="#EEF0F3" fill-opacity="0.9" fill="#03687A" x="0.5" y="0.5" width="25" height="25" rx="4"></rect>
+                        <path d="M30,4 L42,4 L42,6 L30,6 L30,4 Z M30,10 L38,10 L38,12 L30,12 L30,10 Z M30,16 L35,16 L35,18 L30,18 L30,16 Z M30,22 L32,22 L32,24 L30,24 L30,22 Z" id="Combined-Shape" fill-opacity="0.8" fill="#EEF0F3"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

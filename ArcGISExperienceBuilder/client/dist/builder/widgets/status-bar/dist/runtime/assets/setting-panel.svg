@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <g id="Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="$0-UI-icons" transform="translate(-308.000000, -315.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M319,315 C319.552285,315 320,315.447715 320,316 L320,326 C320,326.552285 319.552285,327 319,327 L309,327 C308.447715,327 308,326.552285 308,326 L308,316 C308,315.447715 308.447715,315 309,315 L319,315 Z M309,316 L309,326 L316,326 L316,316 L309,316 Z" id="setting-panel-12"></path>
+        </g>
+    </g>
+</svg>

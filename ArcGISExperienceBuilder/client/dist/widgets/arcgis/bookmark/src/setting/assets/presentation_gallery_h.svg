@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="227px" height="69px" viewBox="0 0 227 69" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>thumbnail_bookmark_presentation_gallery_h</title>
+    <g id="Bookmark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Choose-Template" transform="translate(-1196.000000, -566.000000)" fill-rule="nonzero">
+            <g id="Thumbnail/Bookmark/Presentation/Gallery_H" transform="translate(1196.000000, 566.000000)">
+                <g>
+                    <rect id="Rectangle" fill="#282828" x="8" y="8" width="46" height="46"></rect>
+                    <rect id="Rectangle-Copy-7" fill="#282828" x="62" y="8" width="46" height="46"></rect>
+                    <rect id="Rectangle-Copy-8" fill="#282828" x="116" y="8" width="46" height="46"></rect>
+                    <rect id="Rectangle-Copy-4" stroke="#282828" x="172.5" y="8.5" width="45" height="45"></rect>
+                    <rect id="Rectangle" fill="#000000" opacity="0" x="189" y="25" width="13" height="13"></rect>
+                    <polygon id="Path" fill="#525252" points="202 32.3125 196.3125 32.3125 196.3125 38 194.6875 38 194.6875 32.3125 189 32.3125 189 30.6875 194.6875 30.6875 194.6875 25 196.3125 25 196.3125 30.6875 202 30.6875"></polygon>
+                    <rect id="Title-Copy-9" fill="#525252" x="8" y="58" width="32" height="3"></rect>
+                    <rect id="Title-Copy-41" fill="#525252" x="62" y="58" width="32" height="3"></rect>
+                    <rect id="Title-Copy-42" fill="#525252" x="116" y="58" width="32" height="3"></rect>
+                    <polygon id="image-14" fill="#525252" points="30.4097035 33.2264151 34.8571429 27 42 37 22 37 27.7142857 29.8571429"></polygon>
+                    <polygon id="image-14-copy-4" fill="#525252" points="84.4097035 33.2264151 88.8571429 27 96 37 76 37 81.7142857 29.8571429"></polygon>
+                    <polygon id="image-14-copy-5" fill="#525252" points="138.409704 33.2264151 142.857143 27 150 37 130 37 135.714286 29.8571429"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

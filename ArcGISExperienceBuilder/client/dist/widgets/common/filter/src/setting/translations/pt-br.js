@@ -1,0 +1,22 @@
+define({
+  start: 'Iniciar',
+  selectTemplateTip: 'Selecionar um modelo',
+  selectAnotherTemplateTip: 'Selecionar outro modelo',
+  filtersDesc: 'Adicionar novos filtros e opções de personalização.',
+  newFilter: 'Novo filtro',
+  setFilterItem: 'Criar novo filtro',
+  sqlExpr: 'Expressões SQL',
+  sqlExprDesc: 'Adicione expressões SQL em seu filtro.',
+  openFilterBuilder: 'Construtor de Expressão SQL',
+  setExprTips: 'Adicione suas expressões SQL primeiro.',
+  options: 'Opções',
+  autoApplyWhenWidgetOpen: 'Aplique este filtro automaticamente',
+  collapseFilterExprs: 'Recolha os detalhes de filtro (se algum) automaticamente',
+  arrangeAndStyle: 'Estilo de disposição',
+  activationMethods: 'Estilo de ativação',
+  toggleTooltip: 'Trocar/alternar',
+  buttonTooltip: 'Botão',
+  omitInternalStyle: 'Excluir estilos de ativação para cláusula única',
+  omitInternalStyleTip: 'Se houver somente uma cláusula em cada filtro, solicitando valores (ou exibindo rótulo) esta opção permitirá a você excluir os estilos de ativação (junto com o rótulo e o ícone), exibir o conteúdo da cláusula diretamente e aplicá-la automaticamente.',
+  wrapFilters: 'Quebrar itens'
+});

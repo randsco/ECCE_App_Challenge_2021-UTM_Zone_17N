@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>icon-widget-fly</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Fly" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons" transform="translate(-49.000000, -60.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="icon-widget-fly" transform="translate(49.000000, 60.000000)">
+                <path d="M19.3792187,1.55204475 L15.807832,15.4935378 L8.87607422,13.3187307 L11.5024414,9.83666992 L7.07775391,12.7886188 L0.595605469,10.7927662 L19.3792187,1.55204475 Z M17.8714183,3.40827709 L3.29707547,10.5782204 L6.91797516,11.693095 L15.848838,5.73483221 L10.5281795,12.7890081 L15.1008457,14.2236611 L17.8714183,3.40827709 Z" id="Path"></path>
+                <polygon id="Path" points="8.65587891 18.2506173 10.9381836 15.0812693 8.65587891 14.4152199 8.65587891 18.250598"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+define({
+  back: 'Enrere',
+  createFailedWarning: 'No s\'han pogut crear les dades.',
+  noSupportedDataSource: 'No hi ha cap dada admesa disponible.',
+  noUsedFieldToMap: 'No és necessari assignar cap camp en ús.',
+  noChildDssToMap: 'No és necessari assignar cap dada secundària.',
+  inUse: 'En ús',
+  noRelatedWidget: 'No s\'ha relacionat cap widget',
+  noUsedField: 'No s\'ha utilitzat cap camp',
+  noLayer: 'No hi ha cap capa',
+  noDataNotice: 'No hi ha cap dada a l\'experiència.<br/>Afegiu les vostres dades.',
+  dataViews: 'Visualitzacions de dades',
+  originalDsLabel: 'Origen',
+  autoRefresh: 'Actualització automàtica',
+  updateMinutesAgo: 'Darrera actualització: fa {minutes} minuts',
+  updateOneMinuteAgo: 'Darrera actualització: fa un minut',
+  updateSecondsAgo: 'Darrera actualització: fa uns segons',
+  refreshSetting: 'Actualitza la configuració',
+  interval: 'Interval',
+  honorLayer: 'Mantén la configuració de la capa',
+  minutes: 'minuts'
+});

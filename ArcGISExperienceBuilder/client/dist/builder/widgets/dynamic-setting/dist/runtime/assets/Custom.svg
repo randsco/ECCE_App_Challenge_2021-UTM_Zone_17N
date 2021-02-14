@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="107px" height="68px" viewBox="0 0 107 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.1 (89650) - https://sketch.com -->
+    <title>Custom</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="$15-Item-Selector" transform="translate(-387.000000, -308.000000)">
+            <g id="Custom" transform="translate(386.000000, 307.000000)">
+                <g transform="translate(1.000000, 1.000000)">
+                    <rect id="Layout" fill="#525252" x="28" y="14" width="50" height="40"></rect>
+                    <rect id="Rectangle" fill="#282828" x="87" y="0" width="20" height="68"></rect>
+                    <line x1="87" y1="0" x2="87" y2="68" id="Dash-line" stroke="#525252" stroke-linecap="square" stroke-dasharray="4,4"></line>
+                    <rect id="Rectangle" fill="#282828" x="0" y="0" width="20" height="68"></rect>
+                    <line x1="20" y1="0" x2="20" y2="68" id="Dash-line" stroke="#525252" stroke-linecap="square" stroke-dasharray="4,4"></line>
+                    <rect id="Scroll-bar" fill="#6A6A6A" x="101" y="3" width="3" height="40" rx="1.5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

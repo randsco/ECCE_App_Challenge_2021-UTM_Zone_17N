@@ -1,0 +1,22 @@
+define({
+  start: 'Start',
+  selectTemplateTip: 'Vælg en skabelon',
+  selectAnotherTemplateTip: 'Vælg en anden skabelon',
+  filtersDesc: 'Tilføj nye filtre, og tilpas indstillinger.',
+  newFilter: 'Nyt filter',
+  setFilterItem: 'Opret nyt filter',
+  sqlExpr: 'SQL-udtryk',
+  sqlExprDesc: 'Føj SQL-udtryk til dit filter.',
+  openFilterBuilder: 'SQL Expression Builder-program',
+  setExprTips: 'Tilføj først dine SQL-udtryk.',
+  options: 'Indstillinger',
+  autoApplyWhenWidgetOpen: 'Anvend dette filter automatisk',
+  collapseFilterExprs: 'Skjul (eventuelle) filteroplysninger automatisk',
+  arrangeAndStyle: 'Arrangement-typografi',
+  activationMethods: 'Aktiveringstypografi',
+  toggleTooltip: 'Slå til eller fra',
+  buttonTooltip: 'Knap',
+  omitInternalStyle: 'Udeluk aktiveringstypografier for enkeltsætning',
+  omitInternalStyleTip: 'Hvis der kun er en sætning i hvert filter, der beder om værdier (eller visning af etiket), giver denne indstilling mulighed for at udelukke aktiveringstypografierne (sammen med etiketten og ikonet), vise sætningsindholdet direkte og anvende det automatisk.',
+  wrapFilters: 'Ombryd elementer'
+});

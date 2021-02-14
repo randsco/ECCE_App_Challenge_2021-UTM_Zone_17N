@@ -1,0 +1,430 @@
+{
+  "pages": {
+    "builder-site": {
+      "label": "app list page",
+      "layout": {
+        "LARGE": "builder-site-page-layout-large"
+      },
+      "header": true,
+      "isDefault": true
+    },
+    "set-portalurl": {
+      "label": "set portal url page",
+      "layout": {
+        "LARGE": "set-portalurl-page-layout-large"
+      },
+      "header": false,
+      "isDefault": false
+    },
+    "landing": {
+      "label": "ArcGIS Experience Builder",
+      "layout": {
+        "LARGE": "landing-page-layout-large"
+      },
+      "header": false,
+      "isDefault": false
+    }
+  },
+  "widgets": {
+    "header": {
+      "uri": "site/widgets/header/"
+    },
+    "set-portalurl": {
+      "uri": "site/widgets/set-portalurl/"
+    },
+    "app-list": {
+      "uri": "site/widgets/app-list/",
+      "config": {
+        "isTemplateList": false
+      }
+    },
+    "template-list": {
+      "uri": "site/widgets/app-list/",
+      "config": {
+        "isTemplateList": true
+      }
+    },
+    "landing": {
+      "uri": "site/widgets/landing/"
+    }
+  },
+  "header": {
+    "layout": {
+      "LARGE": "header-layout"
+    },
+    "height": {
+      "LARGE": 50
+    }
+  },
+  "layouts": {
+    "builder-site-page-layout-large": {
+      "order": [
+        "0"
+      ],
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "bbox": {
+            "left": 0,
+            "top": 0,
+            "right": 0,
+            "bottom": 0
+          },
+          "setting": {
+            "active": false
+          },
+          "type": "SECTION",
+          "sectionId": "section_1"
+        }
+      }
+    },
+    "app-list-layout": {
+      "type": "FIXED",
+      "order": [
+        "0"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0px",
+            "top": "0px",
+            "width": "100%",
+            "height": "100%"
+          },
+          "widgetId": "app-list"
+        }
+      }
+    },
+    "template-list-layout": {
+      "type": "FIXED",
+      "order": [
+        "0"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0px",
+            "top": "0px",
+            "width": "100%",
+            "height": "100%"
+          },
+          "widgetId": "template-list"
+        }
+      }
+    },
+    "set-portalurl-page-layout-large": {
+      "order": [
+        "0"
+      ],
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "bbox": {
+            "left": 0,
+            "top": 0,
+            "right": 0,
+            "bottom": 0
+          },
+          "setting": {
+            "active": false
+          },
+          "type": "WIDGET",
+          "widgetId": "set-portalurl"
+        }
+      }
+    },
+    "landing-page-layout-large": {
+      "order": [
+        "0"
+      ],
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "bbox": {
+            "left": 0,
+            "top": 0,
+            "right": 0,
+            "bottom": 0
+          },
+          "setting": {
+            "active": false
+          },
+          "type": "WIDGET",
+          "widgetId": "landing"
+        }
+      }
+    },
+    "header-layout": {
+      "order": [
+        "0"
+      ],
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "bbox": {
+            "left": 0,
+            "right": 0,
+            "height": 50
+          },
+          "type": "WIDGET",
+          "widgetId": "header"
+        }
+      }
+    }
+  },
+  "theme": "site/themes/dark",
+  "attributes": {},
+  "analytics": {
+    "enable": false,
+    "google": {
+      "trackId": "UA-130952546-1",
+      "dimensions": {
+        "user": 1,
+        "orgId": 2,
+        "lastLogin": 3,
+        "userSince": 4,
+        "internalUser": 5,
+        "accountType": 6
+      }
+    }
+  },
+  "preloadWidgets": [
+    "site/widgets/header/",
+    "site/widgets/app-list/",
+    "site/widgets/template-list/"
+  ],
+  "mainSizeMode": "LARGE",
+  "sections": {
+    "section_1": {
+      "id": "section_1",
+      "label": "Section 1",
+      "views": [
+        "experienceslist",
+        "templatelist"
+      ]
+    }
+  },
+  "views": {
+    "experienceslist": {
+      "id": "experienceslist",
+      "label": "app list",
+      "layout": {
+        "LARGE": "app-list-layout"
+      }
+    },
+    "templatelist": {
+      "id": "templatelist",
+      "label": "template list",
+      "layout": {
+        "LARGE": "template-list-layout"
+      }
+    }
+  },
+  "exbVersion": "1.3.0",
+  "widgetsManifest": {
+    "site/widgets/header/": {
+      "name": "header",
+      "version": "1.3.0",
+      "exbVersion": "1.3.0",
+      "properties": {
+        "hasConfig": false
+      },
+      "translatedLocales": [
+        "en",
+        "ar",
+        "bs",
+        "ca",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "he",
+        "hr",
+        "hu",
+        "id",
+        "it",
+        "ja",
+        "ko",
+        "lt",
+        "lv",
+        "nb",
+        "nl",
+        "pl",
+        "pt-br",
+        "pt-pt",
+        "ro",
+        "ru",
+        "sk",
+        "sl",
+        "sr",
+        "sv",
+        "th",
+        "tr",
+        "zh-cn",
+        "uk",
+        "vi",
+        "zh-hk",
+        "zh-tw"
+      ]
+    },
+    "site/widgets/set-portalurl/": {
+      "name": "set-protalurl",
+      "type": "widget",
+      "version": "1.3.0",
+      "exbVersion": "1.3.0",
+      "properties": {
+        "hasConfig": false
+      },
+      "defaultSize": {
+        "width": 800,
+        "height": 500
+      },
+      "translatedLocales": [
+        "en",
+        "ar",
+        "bs",
+        "ca",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "he",
+        "hr",
+        "hu",
+        "id",
+        "it",
+        "ja",
+        "ko",
+        "lt",
+        "lv",
+        "nb",
+        "nl",
+        "pl",
+        "pt-br",
+        "pt-pt",
+        "ro",
+        "ru",
+        "sk",
+        "sl",
+        "sr",
+        "sv",
+        "th",
+        "tr",
+        "zh-cn",
+        "uk",
+        "vi",
+        "zh-hk",
+        "zh-tw"
+      ]
+    },
+    "site/widgets/app-list/": {
+      "name": "app-list",
+      "version": "1.3.0",
+      "exbVersion": "1.3.0",
+      "properties": {
+        "hasConfig": false
+      },
+      "translatedLocales": [
+        "en",
+        "ar",
+        "bs",
+        "ca",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "he",
+        "hr",
+        "hu",
+        "id",
+        "it",
+        "ja",
+        "ko",
+        "lt",
+        "lv",
+        "nb",
+        "nl",
+        "pl",
+        "pt-br",
+        "pt-pt",
+        "ro",
+        "ru",
+        "sk",
+        "sl",
+        "sr",
+        "sv",
+        "th",
+        "tr",
+        "zh-cn",
+        "uk",
+        "vi",
+        "zh-hk",
+        "zh-tw"
+      ]
+    },
+    "site/widgets/landing/": {
+      "name": "landing",
+      "version": "1.3.0",
+      "exbVersion": "1.3.0",
+      "properties": {
+        "hasConfig": false
+      },
+      "translatedLocales": [
+        "en",
+        "ar",
+        "bs",
+        "ca",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "he",
+        "hr",
+        "hu",
+        "id",
+        "it",
+        "ja",
+        "ko",
+        "lt",
+        "lv",
+        "nb",
+        "nl",
+        "pl",
+        "pt-br",
+        "pt-pt",
+        "ro",
+        "ru",
+        "sk",
+        "sl",
+        "sr",
+        "sv",
+        "th",
+        "tr",
+        "zh-cn",
+        "uk",
+        "vi",
+        "zh-hk",
+        "zh-tw"
+      ]
+    }
+  },
+  "useCachedManifest": true
+}

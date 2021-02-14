@@ -1,0 +1,22 @@
+define({
+  start: '開始',
+  selectTemplateTip: '選擇範本',
+  selectAnotherTemplateTip: '選擇其他樣板',
+  filtersDesc: '新增篩選器並自訂選項。',
+  newFilter: '新建篩選器',
+  setFilterItem: '建立新篩選器',
+  sqlExpr: 'SQL 表達式',
+  sqlExprDesc: '將 SQL 表達式新增至您的篩選器。',
+  openFilterBuilder: 'SQL Expression Builder',
+  setExprTips: '請先新增您的 SQL 表達式。',
+  options: '選項',
+  autoApplyWhenWidgetOpen: '自動套用此篩選器',
+  collapseFilterExprs: '自動摺疊篩選器詳細資訊 (若有)',
+  arrangeAndStyle: '排列樣式',
+  activationMethods: '啟用樣式',
+  toggleTooltip: '切換開關',
+  buttonTooltip: '按鈕',
+  omitInternalStyle: '排除單一子句的啟用樣式',
+  omitInternalStyleTip: '如果每個篩選器中只有一個子句要求輸入值 (或顯示標籤)，則此選項可讓您排除啟用樣式 (以及標籤和圖示)、直接顯示子句內容並自動套用它。',
+  wrapFilters: '包裝項目'
+});

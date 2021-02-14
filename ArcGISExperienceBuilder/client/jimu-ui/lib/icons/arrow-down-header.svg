@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="9px" height="5px" viewBox="0 0 9 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>arrow-down-header</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="$0-UI-icons" transform="translate(-214.000000, -1760.000000)" fill="#000000">
+            <g id="待定" transform="translate(40.000000, 1710.000000)">
+                <path d="M178.128353,54.5870588 L174.751034,50.8344824 C174.566305,50.6292274 174.582944,50.3130824 174.788199,50.1283529 C174.880011,50.0457218 174.99916,50 175.122681,50 L181.877319,50 C182.153461,50 182.377319,50.2238576 182.377319,50.5 C182.377319,50.6235209 182.331597,50.74267 182.248966,50.8344824 L178.871647,54.5870588 C178.686918,54.7923138 178.370773,54.808953 178.165518,54.6242235 C178.152486,54.6124954 178.140081,54.60009 178.128353,54.5870588 Z" id="arrow-down-header"></path>
+            </g>
+        </g>
+    </g>
+</svg>

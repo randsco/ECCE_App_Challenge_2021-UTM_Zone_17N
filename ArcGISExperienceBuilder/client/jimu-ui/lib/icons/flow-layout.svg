@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="110px" height="110px" viewBox="0 0 110 110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <rect id="path-1" x="0" y="0" width="90" height="90" rx="2"></rect>
+        <filter x="-16.7%" y="-16.7%" width="133.3%" height="133.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="7" y="35" width="20" height="20" rx="2"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="20" height="20" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="Builder" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="B3-layout-selector" transform="translate(-164.000000, -718.000000)">
+            <g id="Flow-layout-Copy-2" transform="translate(144.000000, 697.000000)">
+                <g id="icon-Flow-layout" transform="translate(30.000000, 31.000000)">
+                    <g id="flow-layout" fill-rule="nonzero">
+                        <g id="Shadow">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#FCFCFC" xlink:href="#path-1"></use>
+                        </g>
+                    </g>
+                    <rect id="Shadow-Copy" fill="#C8CBCD" x="7" y="5" width="20" height="20" rx="2"></rect>
+                    <rect id="Shadow-Copy-2" fill="#C8CBCD" x="35" y="5" width="20" height="20" rx="2"></rect>
+                    <use id="Shadow-Copy-4" stroke="#C8CBCD" mask="url(#mask-4)" stroke-width="2" stroke-dasharray="4,4" fill-rule="nonzero" xlink:href="#path-3"></use>
+                    <rect id="Shadow-Copy-3" fill="#C8CBCD" x="63" y="5" width="20" height="20" rx="2"></rect>
+                    <path d="M3,30 L88,30" id="Line-2" stroke="#EEF0F3" stroke-linecap="square" stroke-dasharray="4"></path>
+                    <path d="M3,60 L88,60" id="Line-2-Copy" stroke="#EEF0F3" stroke-linecap="square" stroke-dasharray="4"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

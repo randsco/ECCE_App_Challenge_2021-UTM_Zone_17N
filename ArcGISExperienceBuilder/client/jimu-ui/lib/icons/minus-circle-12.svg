@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-168.000000, -283.000000)" fill="#000000" fill-rule="nonzero" id="minus-circle-12">
+            <path d="M174,283 C177.313708,283 180,285.686292 180,289 C180,292.313708 177.313708,295 174,295 C170.686292,295 168,292.313708 168,289 C168,285.686292 170.686292,283 174,283 Z M174,284 C171.238576,284 169,286.238576 169,289 C169,291.761424 171.238576,294 174,294 C176.761424,294 179,291.761424 179,289 C179,286.238576 176.761424,284 174,284 Z M178,288.5 L178,289.5 L170,289.5 L170,288.5 L178,288.5 Z"></path>
+        </g>
+    </g>
+</svg>

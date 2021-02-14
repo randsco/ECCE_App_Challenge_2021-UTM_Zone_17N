@@ -1,0 +1,22 @@
+define({
+  back: '上一步',
+  createFailedWarning: '無法建立資料!',
+  noSupportedDataSource: '沒有可用的支援資料。',
+  noUsedFieldToMap: '沒有需要對應的使用中欄位。',
+  noChildDssToMap: '沒有需要對應的子資料。',
+  inUse: '使用中',
+  noRelatedWidget: '無相關的 widget',
+  noUsedField: '無使用的欄位',
+  noLayer: '無圖層',
+  noDataNotice: '體驗中無資料。<br/>請新增您的資料。',
+  dataViews: '資料視圖',
+  originalDsLabel: '來源',
+  autoRefresh: '自動重新整理',
+  updateMinutesAgo: '前次更新: {minutes} 分鐘前',
+  updateOneMinuteAgo: '前次更新: 1 分鐘前',
+  updateSecondsAgo: '前次更新: 數秒前',
+  refreshSetting: '重新整理設定',
+  interval: '間隔',
+  honorLayer: '遵循圖層的設定',
+  minutes: '分鐘'
+});

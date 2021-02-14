@@ -1,0 +1,22 @@
+define({
+  back: 'Natrag',
+  createFailedWarning: 'Izrada podataka nije uspjela!',
+  noSupportedDataSource: 'Nema dostupnih podržanih podataka.',
+  noUsedFieldToMap: 'Polja koja nisu u upotrebi potrebno je kartirati.',
+  noChildDssToMap: 'Nikakve podređene podatke ne treba kartirati.',
+  inUse: 'Upotrebljava se',
+  noRelatedWidget: 'Nema povezanih widgeta',
+  noUsedField: 'Nema korištenih polja',
+  noLayer: 'Nema sloja',
+  noDataNotice: 'Nema podataka u iskustvu.<br/>Dodajte svoje podatke.',
+  dataViews: 'Prikazi podataka.',
+  originalDsLabel: 'Izvor',
+  autoRefresh: 'Automatsko osvježavanje',
+  updateMinutesAgo: 'Zadnje ažuriranje: prije {minutes} minuta',
+  updateOneMinuteAgo: 'Zadnje ažuriranje: prije minutu',
+  updateSecondsAgo: 'Zadnje ažuriranje: prije nekoliko sekundi',
+  refreshSetting: 'Postavke osvježavanja',
+  interval: 'Interval',
+  honorLayer: 'Pridržavanje postavki sloja',
+  minutes: 'minute'
+});

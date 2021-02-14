@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="16px" viewBox="0 0 14 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>tool-text</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="*UI-icons" transform="translate(-245.000000, -1233.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M252.5,1234 L252.5,1248 L254.5,1248 C254.776142,1248 255,1248.22386 255,1248.5 C255,1248.77614 254.776142,1249 254.5,1249 L249.5,1249 C249.223858,1249 249,1248.77614 249,1248.5 C249,1248.22386 249.223858,1248 249.5,1248 L251.5,1248 L251.5,1234 L246,1234 L246,1235.5 C246,1235.77614 245.776142,1236 245.5,1236 C245.223858,1236 245,1235.77614 245,1235.5 L245,1234 C245,1233.44772 245.447715,1233 246,1233 L258,1233 C258.552285,1233 259,1233.44772 259,1234 L259,1235.5 C259,1235.77614 258.776142,1236 258.5,1236 C258.223858,1236 258,1235.77614 258,1235.5 L258,1234 L252.5,1234 Z" id="tool-text"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,60 @@
+{
+  "colors": {
+    "primary": "#ff7121",
+    "secondary": "#2d1754",
+    "info": "#09acf8",
+    "success": "#00cca5",
+    "warning": "#ffab21",
+    "danger": "#f6146f",
+    "light": "#fff",
+    "dark": "#333"
+  },
+  "colorationVariants": {
+    "minimal": {
+      "header": {
+        "bg": "var(--light-300)",
+        "color": "var(--dark)"
+      }, 
+      "body": {
+        "bg": "var(--light-300)",
+        "color": "var(--dark)"
+      },
+      "footer": {
+        "bg": "var(--light-300)",
+        "color": "var(--dark)"
+      }
+    },
+    "default": {
+      "header": {
+        "bg": "var(--primary-600)",
+        "color": "var(--light)"
+      }, 
+      "body": {
+        "bg": "var(--light-300)",
+        "color": "var(--dark)"
+      },
+      "footer": {
+        "bg": "var(--light-300)",
+        "color": "var(--dark)"
+      }
+    }
+  },
+  "components": {
+    "button": {
+      "variants": {
+        "primary": {
+          "default": {
+            "color": "white"
+          }
+        },
+        "secondary": {
+          "default": {
+            "border": {
+              "color": "var(--light-500)"
+            }
+          }
+        }
+      }
+    }
+  }
+}

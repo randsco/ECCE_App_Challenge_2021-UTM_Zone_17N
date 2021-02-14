@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>direction-up</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="0-UI-icons" transform="translate(-1212.000000, -493.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M1220,507 C1219.70887,507 1219.47287,506.768969 1219.47287,506.483978 L1219.47287,496.975552 L1215.89987,500.473237 C1215.69401,500.674756 1215.36025,500.674756 1215.15439,500.473237 C1214.94854,500.271718 1214.94854,499.944991 1215.15439,499.743472 L1220,495 L1224.84561,499.743472 C1225.05146,499.944991 1225.05146,500.271718 1224.84561,500.473237 C1224.63975,500.674756 1224.30599,500.674756 1224.10013,500.473237 L1220.52713,496.975552 L1220.52713,506.483978 C1220.52713,506.768969 1220.29113,507 1220,507 Z" id="direction-up"></path>
+        </g>
+    </g>
+</svg>

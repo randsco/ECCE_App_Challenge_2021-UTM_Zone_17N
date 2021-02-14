@@ -1,0 +1,33 @@
+{
+  "REGULAR": {
+    "enable": true,
+    "backgroundStyle": {
+      "border": {
+        "type": "solid",
+        "color": "var(--dark)",
+        "width": "0px"
+      }
+    }
+  },
+  "HOVER": {
+    "enable": false,
+    "backgroundStyle": {
+      "border": {
+        "type": "solid",
+        "color": "var(--dark)",
+        "width": "0px"
+      }
+    }
+  },
+  "itemStyle": "STYLE1",
+  "isItemStyleConfirm": false,
+  "isOpenAdvabceSetting": false,
+  "direction": "Horizontal",
+  "transitionInfo": {
+    "transition": {
+      "type": "None",
+      "direction": "H"
+    },
+    "oneByOneEffect": null
+  }
+}

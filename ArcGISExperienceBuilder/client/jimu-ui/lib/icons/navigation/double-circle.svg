@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/navigation/DoubleCircle</title>
+    <g id="ViewNavigator" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Style" transform="translate(-1034.000000, -1269.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M1044,1269 C1049.52285,1269 1054,1273.47715 1054,1279 C1054,1284.52285 1049.52285,1289 1044,1289 C1038.47715,1289 1034,1284.52285 1034,1279 C1034,1273.47715 1038.47715,1269 1044,1269 Z M1044,1271 C1039.58172,1271 1036,1274.58172 1036,1279 C1036,1283.41828 1039.58172,1287 1044,1287 C1048.41828,1287 1052,1283.41828 1052,1279 C1052,1274.58172 1048.41828,1271 1044,1271 Z M1044,1273 C1047.31371,1273 1050,1275.68629 1050,1279 C1050,1282.31371 1047.31371,1285 1044,1285 C1040.68629,1285 1038,1282.31371 1038,1279 C1038,1275.68629 1040.68629,1273 1044,1273 Z" id="icons/navigation/DoubleCircle"></path>
+        </g>
+    </g>
+</svg>

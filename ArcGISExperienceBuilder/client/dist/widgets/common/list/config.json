@@ -1,0 +1,69 @@
+{
+  "maxItems": 100,
+  "space": 10,
+  "itemsPerPage": 10,
+  "isItemStyleConfirm": false,
+  "isInitialed": false,
+  "pageStyle": "SCROLL",
+  "itemStyle": "STYLE0",
+  "hoverType": "HOVER0",
+  "selectedStyle": "STYLE0",
+  "differentOddEven": false,
+  "scrollBarOpen": true,
+  "direction": "HORIZON",
+  "alignType": "CENTER",
+  "scrollStep": 2,
+  "cardConfigs": {
+    "REGULAR": {
+      "cardSize": {
+        "LARGE": {
+          "width": 200,
+          "height": 275
+        }
+      },
+      "enable": true,
+      "backgroundStyle": {
+        "border": {
+          "type": "solid",
+          "color": "rgba(0, 0, 0, 1)",
+          "width": "1px"
+        }
+      }
+    },
+    "HOVER": {
+      "cardSize": {
+        "LARGE": {
+          "width": 200,
+          "height": 275
+        }
+      },
+      "enable": false,
+      "backgroundStyle": {
+        "border": {
+          "type": "solid",
+          "color": "rgba(0, 0, 0, 1)",
+          "width": "1px"
+        }
+      }
+    },
+    "SELECTED": {
+      "cardSize": {
+        "LARGE": {
+          "width": 200,
+          "height": 275
+        }
+      },
+      "backgroundStyle": {
+        "border": {
+          "type": "solid",
+          "color": "rgba(133, 55, 241, 1)",
+          "width": "1px"
+        }
+      },
+      "selectionMode": "SINGLE"
+    }
+  },
+  "style": {
+    "id": "default"
+  }
+}

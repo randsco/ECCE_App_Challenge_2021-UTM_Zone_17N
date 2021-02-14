@@ -1,0 +1,26 @@
+{
+  "name": "publish-message",
+  "label": "publish-message",
+  "type": "widget",
+  "version": "1.3.0",
+  "exbVersion": "1.3.0",
+  "author": "Esri R&D Center Beijing",
+  "description": "This is the widget to publish message.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "publishMessages": [
+    "SPATIAL_DATA_RECORD_SET_CREATE",
+    "SPATIAL_DATA_RECORDS_SELECTION_CHANGE"
+  ],
+  "defaultSize": {
+    "width": 600,
+    "height": 600
+  },
+  "properties": {
+    "hasSettingPage": true,
+    "supportRepeat": true
+  },
+  "supportedLocales": [
+    "en"
+  ]
+}

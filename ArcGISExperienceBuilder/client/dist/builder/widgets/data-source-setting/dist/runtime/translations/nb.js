@@ -1,0 +1,22 @@
+define({
+  back: 'Tilbake',
+  createFailedWarning: 'Kan ikke opprette data!',
+  noSupportedDataSource: 'Ingen støttede data tilgjengelig.',
+  noUsedFieldToMap: 'Ingen felt som er i bruk, må tilordnes.',
+  noChildDssToMap: 'Ingen underordnede data må tilordnes.',
+  inUse: 'I bruk',
+  noRelatedWidget: 'Ingen beslektede miniprogrammer',
+  noUsedField: 'Ingen felt i bruk',
+  noLayer: 'Ingen lag',
+  noDataNotice: 'Ingen data i opplevelsen.<br/>Legg til data.',
+  dataViews: 'Datavisninger',
+  originalDsLabel: 'Kilde',
+  autoRefresh: 'Automatisk oppdatering',
+  updateMinutesAgo: 'Siste oppdatering: {minutes} minutter siden',
+  updateOneMinuteAgo: 'Siste oppdatering: ett minutt siden',
+  updateSecondsAgo: 'Siste oppdatering: noen sekunder siden',
+  refreshSetting: 'Oppdater innstillinger',
+  interval: 'Intervall',
+  honorLayer: 'Overhold lagets innstillinger',
+  minutes: 'minutter'
+});

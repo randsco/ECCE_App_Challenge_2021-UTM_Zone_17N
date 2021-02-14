@@ -1,0 +1,15 @@
+import { LayoutInfo } from 'jimu-core';
+import { ResourceItemInfo } from './app-resource-manager';
+import { ToolbarConfig } from 'jimu-layouts/layout-runtime';
+export declare function listenBuilderEvents(): void;
+export declare function publishAppSessionChangeToBuilder(): void;
+export declare function publishAppStateChangeToBuilder(): void;
+export declare function publishAppIsLoadedToBuilder(): void;
+export declare function letBuilderPopupChooseWidget(layoutId: string, layoutItemId: string): void;
+export declare function letBuilderAddResource(resourceItemInfo: ResourceItemInfo): void;
+export declare function letBuilderClearResource(appId: string): void;
+export declare function letBuilderResponseToKeyboard(event: KeyboardEvent): void;
+export declare function letBuilderShowLayoutToolbar(tools: ToolbarConfig): void;
+export declare function clearLastAppConfigFromHistory(): void;
+export declare function publishIsBusyToBuilder(isBusy: boolean): void;
+export declare function publishConfirmDeleteToApp(itemToDelete: LayoutInfo): void;

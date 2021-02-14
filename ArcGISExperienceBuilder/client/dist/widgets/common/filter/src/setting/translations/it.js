@@ -1,0 +1,22 @@
+define({
+  start: 'Partenza',
+  selectTemplateTip: 'Seleziona modello',
+  selectAnotherTemplateTip: 'Selezionare un altro modello',
+  filtersDesc: 'Aggiungere nuovi filtri e personalizzare le opzioni.',
+  newFilter: 'Nuovo filtro',
+  setFilterItem: 'Creare un nuovo filtro',
+  sqlExpr: 'Espressioni SQL',
+  sqlExprDesc: 'Aggiungere espressioni SQL al filtro.',
+  openFilterBuilder: 'Generatore di espressioni SQL',
+  setExprTips: 'Aggiungere prima le espressioni SQL.',
+  options: 'Opzioni',
+  autoApplyWhenWidgetOpen: 'Applicare automaticamente questo filtro',
+  collapseFilterExprs: 'Nascondere automaticamente i dettagli del filtro (se ve ne sono)',
+  arrangeAndStyle: 'Stile disposizione',
+  activationMethods: 'Stile attivazione',
+  toggleTooltip: 'Interruttore Attiva/Disattiva',
+  buttonTooltip: 'Pulsante',
+  omitInternalStyle: 'Escludere stili di attivazione per clausola singola',
+  omitInternalStyleTip: 'Se c\'è una sola clausola in ogni filtro, e richiede valori (o visualizza un\'etichetta), questa opzione permette di escludere gli stili di attivazione (insieme all\'etichetta e all\'icona), di visualizzare direttamente il contenuto della clausola e di applicarla automaticamente.',
+  wrapFilters: 'Unisci elementi'
+});

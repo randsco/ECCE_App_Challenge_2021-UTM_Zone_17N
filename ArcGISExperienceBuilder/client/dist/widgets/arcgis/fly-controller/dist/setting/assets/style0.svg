@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="110px" height="74px" viewBox="0 0 110 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>thumbnail_fly_bar</title>
+    <g id="Fly" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Fly_Both" transform="translate(-1195.000000, -596.000000)">
+            <g id="thumbnail/fly/bar" transform="translate(1195.000000, 596.000000)">
+                <g id="Group-3">
+                    <rect id="Rectangle" fill="#282828" fill-rule="nonzero" x="9" y="27" width="92" height="20"></rect>
+                    <circle id="Oval" fill="#6A6A6A" cx="19" cy="37" r="5"></circle>
+                    <circle id="Oval-Copy-3" fill="#6A6A6A" cx="33" cy="37" r="5"></circle>
+                    <circle id="Oval-Copy-6" fill="#6A6A6A" cx="47" cy="37" r="5"></circle>
+                    <circle id="Oval-Copy-7" fill="#6A6A6A" cx="91" cy="37" r="5"></circle>
+                    <rect id="Rectangle" fill="#363636" x="82" y="32" width="1" height="10"></rect>
+                    <circle id="Oval-Copy-8" fill="#6A6A6A" cx="75" cy="37" r="5"></circle>
+                    <circle id="Oval-Copy-9" fill="#6A6A6A" cx="61" cy="37" r="5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

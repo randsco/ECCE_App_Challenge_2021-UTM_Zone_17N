@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="11px" viewBox="0 0 12 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Edit_Text</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="UI-icons" transform="translate(-170.000000, -609.000000)" fill="#CCCCCC">
+            <path d="M170,617.677778 L170,620 L172.28,620 L178.88,613.216667 L176.6,610.894444 L170,617.677778 L170,617.677778 Z M180.62,611.444444 C180.86,611.2 180.86,610.833333 180.62,610.588889 L179.24,609.183333 C179,608.938889 178.64,608.938889 178.4,609.183333 L177.32,610.283333 L179.6,612.605556 L180.62,611.444444 L180.62,611.444444 Z M175.4,618.777778 L174.2,620 L182,620 L182,618.777778 L175.4,618.777778 L175.4,618.777778 Z" id="Edit_Text"></path>
+        </g>
+    </g>
+</svg>

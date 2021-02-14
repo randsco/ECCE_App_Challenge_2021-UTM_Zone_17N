@@ -1,0 +1,290 @@
+{
+  "colors": {
+    "primary": "#484848",
+    "secondary": "#c5c5c5",
+    "info": "#089bdc",
+    "success": "#09cf74",
+    "warning": "#ffc300",
+    "danger": "#e1001b",
+    "light": "#f0f0f0",
+    "dark": "#050505",
+    "palette": {
+      "primary": {
+        "100": "#aeaeae",
+        "200": "#959595",
+        "300": "#7b7b7b",
+        "400": "#626262",
+        "500": "#484848",
+        "600": "#3d3d3d",
+        "700": "#313131",
+        "800": "#262626",
+        "900": "#1a1a1a"
+      },
+      "secondary": {
+        "100": "#f0f0f0",
+        "200": "#e3e3e3",
+        "300": "#d5d5d5",
+        "400": "#c5c5c5",
+        "500": "#b6b6b6",
+        "600": "#a8a8a8",
+        "700": "#989898",
+        "800": "#8b8b8b",
+        "900": "#828282"
+      },
+      "success": {
+        "100": "#ebfff6",
+        "200": "#acffd9",
+        "300": "#56f8ad",
+        "400": "#16ed8a",
+        "500": "#09cf74",
+        "600": "#03b161",
+        "700": "#00904e",
+        "800": "#006838",
+        "900": "#004022"
+      },
+      "info": {
+        "100": "#e5f7ff",
+        "200": "#9fe2ff",
+        "300": "#60ceff",
+        "400": "#21bbff",
+        "500": "#089bdc",
+        "600": "#0077ac",
+        "700": "#005a82",
+        "800": "#003b56",
+        "900": "#002231"
+      },
+      "warning": {
+        "100": "#fffae8",
+        "200": "#ffedb1",
+        "300": "#ffde72",
+        "400": "#ffce2f",
+        "500": "#ffc300",
+        "600": "#dda400",
+        "700": "#aa7f00",
+        "800": "#7d5d00",
+        "900": "#4f3b00"
+      },
+      "danger": {
+        "100": "#ffe9ec",
+        "200": "#ff94a1",
+        "300": "#ff5066",
+        "400": "#ff203c",
+        "500": "#e1001b",
+        "600": "#bf0017",
+        "700": "#9f0013",
+        "800": "#79000f",
+        "900": "#4a0009"
+      },
+      "light": {
+        "100": "#f0f0f0",
+        "200": "#e3e3e3",
+        "300": "#d5d5d5",
+        "400": "#c5c5c5",
+        "500": "#b6b6b6",
+        "600": "#a8a8a8",
+        "700": "#989898",
+        "800": "#8b8b8b",
+        "900": "#828282"
+      },
+      "dark": {
+        "100": "#767676",
+        "200": "#6a6a6a",
+        "300": "#5e5e5e",
+        "400": "#525252",
+        "500": "#444",
+        "600": "#363636",
+        "700": "#282828",
+        "800": "#181818",
+        "900": "#050505"
+      }
+    }
+  },
+  "colorationVariants": {
+    "default": {
+      "header": {
+        "bg": "#fff",
+        "color": "var(--dark)"
+      },
+      "body": {
+        "bg": "#fff",
+        "color": "var(--dark)"
+      },
+      "footer": {
+        "bg": "#fff",
+        "color": "var(--dark)"
+      }
+    }
+  },
+  "borderRadiuses": {
+    "sm": 0,
+    "default": 0,
+    "lg": 0
+  },
+  "boxShadows": {
+    "sm": "0 0 6px 0 rgba(0,0,0,0.15)",
+    "default": "0 0 10px 1px rgba(0,0,0,0.20)",
+    "lg": "0 0 20px 2px rgba(0,0,0,0.20)"
+  },
+  "surfaces": {
+    "1": {
+      "bg": "#fff",
+      "border": {
+        "width": "1px",
+        "color": "var(--light-800)"
+      }
+    },
+    "2": {
+      "border": {
+        "width": "1px",
+        "color": "var(--light-800)"
+      },
+      "shadow": "0 0 10px 1px rgba(0,0,0,0.20)"
+    },
+    "3": {
+      "border": {
+        "width": "1px",
+        "color": "var(--light-800)"
+      },
+      "shadow": "0 0 6px 0 rgba(0,0,0,0.15)"
+    }
+  },
+  "components": {
+    "button": {
+      "sizes": {
+        "default": {
+          "borderRadius": "0"
+        },
+        "sm": {
+          "borderRadius": "0"
+        },
+        "lg": {
+          "borderRadius": "0"
+        }
+      },
+      "variants": {
+        "primary": {
+          "default": {
+            "bg": "var(--primary)",
+            "color": "#fff"
+          },
+          "hover": {
+            "bg": "var(--dark-600)"
+          }
+        },
+        "default": {
+          "default": {
+            "bg": "#fff",
+            "color": "var(--dark-800)",
+            "border": {
+              "color": "var(--light-800)"
+            }
+          },
+          "hover": {
+            "bg": "var(--light-100)"
+          }
+        },
+        "secondary": {
+          "default": {
+            "border": {
+              "color": "var(--primary)"
+            }
+          }
+        }
+      }
+    },
+    "nav": {
+      "variants": {
+        "underline": {
+          "size": {
+            "paddingY": "0.5rem"
+          }
+        },
+        "tabs": {
+          "root": {
+            "border": {
+              "color": "var(--dark)"
+            },
+            "borderRadius": 0
+          },
+          "item": {
+            "default": {
+              "bg": "var(--light-200)",
+              "border": {
+                "color": "var(--dark)"
+              },
+              "borderRadius": 0
+            },
+            "active": {
+              "border": {
+                "color": "var(--dark)"
+              }
+            }
+          }
+        }
+      }
+    },
+    "input": {
+      "border": {
+        "color": "var(--light-800)",
+        "width": "1px"
+      },
+      "focus": {
+        "borderColor": "var(--primary-700)"
+      }
+    },
+    "modal": {
+      "content": {
+        "border": {
+          "color": "var(--light-300)",
+          "width": "1px"
+        },
+        "borderRadius": 0
+      },
+      "header": {
+        "border": {
+          "width": 0
+        }
+      }
+    },
+    "pagination": {
+      "variants": {
+        "default": {
+          "button": {
+            "default": {
+              "border": {
+                "color": "var(--light-800)"
+              }
+            },
+            "hover": {
+              "bg": "var(--light-100)",
+              "border": {
+                "color": "var(--light-800)"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "arcgis": {
+    "boxShadow": "0 0 6px 0 rgba(0,0,0,0.15)",
+    "components": {
+      "button": {
+        "variants": {
+          "default": {
+            "default": {
+              "bg": "#fff",
+              "border": {
+                "color": "var(--light-800)",
+                "width": "1px"
+              }
+            },
+            "disabled": {
+              "bg": "#fff"
+            }
+          }
+        }
+      }
+    }
+  }
+}

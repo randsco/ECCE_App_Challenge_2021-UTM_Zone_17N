@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>element-section</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="$0-UI-icons" transform="translate(-40.000000, -1139.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="Widget" transform="translate(40.000000, 1091.000000)">
+                <path d="M12,48 C13.1045695,48 14,48.8954305 14,50 L14,54 L18,54 C19.1045695,54 20,54.8954305 20,56 L20,66 C20,67.1045695 19.1045695,68 18,68 L8,68 C6.8954305,68 6,67.1045695 6,66 L6,62 L2,62 C0.8954305,62 0,61.1045695 0,60 L0,50 C0,48.8954305 0.8954305,48 2,48 L12,48 Z M18,55 L14,55 L14,60 C14,61.1045695 13.1045695,62 12,62 L7,62 L7,66 C7,66.5522847 7.44771525,67 8,67 L18,67 C18.5522847,67 19,66.5522847 19,66 L19,56 C19,55.4477153 18.5522847,55 18,55 Z M12,49 L2,49 C1.44771525,49 1,49.4477153 1,50 L1,60 C1,60.5522847 1.44771525,61 2,61 L6,61 L6,56 C6,54.8954305 6.8954305,54 8,54 L13,54 L13,50 C13,49.4477153 12.5522847,49 12,49 Z M13,55 L8,55 C7.44771525,55 7,55.4477153 7,56 L7,61 L12,61 C12.5522847,61 13,60.5522847 13,60 L13,55 Z" id="element-section"></path>
+            </g>
+        </g>
+    </g>
+</svg>

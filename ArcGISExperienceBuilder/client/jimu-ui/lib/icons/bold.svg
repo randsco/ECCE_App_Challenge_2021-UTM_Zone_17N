@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>bold</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="0-UI-icons" transform="translate(-959.000000, -606.000000)">
+            <g id="bold" transform="translate(959.000000, 606.000000)">
+                <rect id="Rectangle" x="0" y="0" width="12" height="12"></rect>
+                <path d="M5.75,0 C7.54492544,0 9,1.45507456 9,3.25 C9,4.13224289 8.64846485,4.93238034 8.07782482,5.5179821 C9.71860468,5.68048497 11,7.06559953 11,8.75 C11,10.5449254 9.54492544,12 7.75,12 L3,12 C2.44771525,12 2,11.5522847 2,11 L2,5.5 L2,1 C2,0.44771525 2.44771525,1.01453063e-16 3,0 L5.75,0 Z M7.75,6.5 L3,6.5 L3,11 L7.75,11 C8.99264069,11 10,9.99264069 10,8.75 C10,7.50735931 8.99264069,6.5 7.75,6.5 Z M5.75,1 L3,1 L3,5.5 L5.75,5.5 C6.99264069,5.5 8,4.49264069 8,3.25 C8,2.00735931 6.99264069,1 5.75,1 Z" fill="#000000" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

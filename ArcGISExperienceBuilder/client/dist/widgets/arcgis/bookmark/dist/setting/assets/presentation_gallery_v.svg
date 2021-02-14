@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="108px" height="108px" viewBox="0 0 108 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>thumbnail_bookmark_presentation_gallery_v</title>
+    <g id="Bookmark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Choose-Template" transform="translate(-1316.000000, -446.000000)" fill-rule="nonzero">
+            <g id="Thumbnail/Bookmark/Presentation/Gallery_V" transform="translate(1316.000000, 446.000000)">
+                <g>
+                    <rect id="Rectangle-Copy-6" fill="#282828" x="8" y="43" width="92" height="22"></rect>
+                    <rect id="Rectangle-Copy-16" fill="#282828" x="8" y="8" width="92" height="22"></rect>
+                    <rect id="Title-Copy-23" fill="#525252" x="8" y="69" width="56" height="3"></rect>
+                    <rect id="Title-Copy-28" fill="#525252" x="8" y="34" width="56" height="3"></rect>
+                    <g id="Group-3" transform="translate(8.000000, 80.000000)">
+                        <rect id="Rectangle-Copy-5" stroke="#363636" x="0.5" y="0.5" width="91" height="19"></rect>
+                        <g id="add-copy" transform="translate(41.000000, 5.000000)" fill="#525252">
+                            <polygon id="Path" points="10 5.625 5.625 5.625 5.625 10 4.375 10 4.375 5.625 0 5.625 0 4.375 4.375 4.375 4.375 0 5.625 0 5.625 4.375 10 4.375"></polygon>
+                        </g>
+                    </g>
+                    <polygon id="image-14-copy-3" fill="#525252" points="52.7277628 54.9811321 56.2857143 50 62 58 46 58 50.5714286 52.2857143"></polygon>
+                    <polygon id="image-14-copy-8" fill="#525252" points="52.7277628 19.9811321 56.2857143 15 62 23 46 23 50.5714286 17.2857143"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

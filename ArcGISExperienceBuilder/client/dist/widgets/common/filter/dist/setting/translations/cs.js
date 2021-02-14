@@ -1,0 +1,22 @@
+define({
+  start: 'Výchozí bod',
+  selectTemplateTip: 'Vybrat šablonu',
+  selectAnotherTemplateTip: 'Vybrat jinou šablonu',
+  filtersDesc: 'Přidat nové filtry a přizpůsobit možnosti.',
+  newFilter: 'Nový filtr',
+  setFilterItem: 'Vytvořit nový filtr',
+  sqlExpr: 'SQL výrazy',
+  sqlExprDesc: 'Přidejte do svého filtru SQL výrazy.',
+  openFilterBuilder: 'Nástroj pro sestavení výrazu SQL',
+  setExprTips: 'Nejprve prosím přidejte SQL výrazy.',
+  options: 'Možnosti',
+  autoApplyWhenWidgetOpen: 'Použít tento filtr automaticky',
+  collapseFilterExprs: 'Automaticky sbalit případné podrobnosti filtru',
+  arrangeAndStyle: 'Styl uspořádání',
+  activationMethods: 'Styl aktivace',
+  toggleTooltip: 'Přepínač',
+  buttonTooltip: 'Tlačítko',
+  omitInternalStyle: 'Vyloučit styly aktivace pro jednu podmínku',
+  omitInternalStyleTip: 'Pokud v každém filtru existuje pouze jedna podmínka, která požaduje hodnoty (nebo zobrazující popisek), tato možnost vám umožní vyloučit styly aktivace (spolu s popiskem a ikonou), přímo zobrazit obsah podmínky a automaticky ji použít.',
+  wrapFilters: 'Zabalit položky'
+});

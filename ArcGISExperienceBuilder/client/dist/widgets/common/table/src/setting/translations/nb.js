@@ -1,0 +1,17 @@
+define({
+  newSheet: 'Nytt ark',
+  sheetStyle: 'Plasseringsstil',
+  layerConfig: 'Konfigurasjon av ark',
+  enableAttachements: 'Vis vedlegg',
+  enableSearch: 'Søk',
+  searchFields: 'Velg søkefelt',
+  countSelected: '{selectedCount} valgte elementer',
+  fullMatch: 'Nøyaktig samsvar',
+  allowCsv: 'Tillat eksport til CSV',
+  enableSelect: 'Velg poster',
+  enableEdit: 'Tillat redigering',
+  enableRefresh: 'Oppdater',
+  configFields: 'Konfigurer felt',
+  dropdown: 'Rullegardinliste',
+  configTips: 'Velg felt til første visning',
+});

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>data-filters-outline-16</title>
+    <desc>Created with Sketch.</desc>
+    <g id="List" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Placeholder" transform="translate(-1247.000000, -951.000000)">
+            <g id="Group-8-Copy-2" transform="translate(979.000000, 928.000000)">
+                <g id="Group-5-Copy" transform="translate(20.000000, 18.000000)">
+                    <g id="Group-4" transform="translate(178.000000, 0.000000)">
+                        <g id="data-filters-outline-16" transform="translate(70.000000, 0.000000)">
+                            <path d="M15,5 L15,6.53036826 L14.9377778,6.53036826 L9.55555555,11.8254424 L9.55555555,19.8066905 C9.55555555,20.0828328 9.33169792,20.3066905 9.05555555,20.3066905 C8.92436086,20.3066905 8.79842226,20.2551261 8.70489954,20.1631177 L6.44444445,17.9392635 L6.44444445,11.8177905 L1.07,6.53036826 L1,6.53036826 L1,5 L15,5 Z M14,6 L2,6 L2,6.042 L7.44444445,11.3987878 L7.444,17.52 L8.555,18.613 L8.55555555,11.4064396 L14,6.049 L14,6 Z" id="data-filters-outline" fill="#C5C5C5" fill-rule="nonzero"></path>
+                            <g id="tip-dot" transform="translate(15.000000, 0.000000)" fill="#050505">
+                                <circle id="tip-dot_bottom" cx="3" cy="3" r="3"></circle>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+define({
+  start: 'Počni',
+  selectTemplateTip: 'Odaberite predložak',
+  selectAnotherTemplateTip: 'Odaberite drugi predložak',
+  filtersDesc: 'Dodajte nove filtre i prilagodite opcije.',
+  newFilter: 'Novi filtar',
+  setFilterItem: 'Izradi novi filtar',
+  sqlExpr: 'SQL izrazi',
+  sqlExprDesc: 'Dodajte SQL izraze svom filtru.',
+  openFilterBuilder: 'Sastavljač SQL izraza',
+  setExprTips: 'Prvo dodajte svoje SQL izraze.',
+  options: 'Opcije',
+  autoApplyWhenWidgetOpen: 'Automatski primijeni ovaj filtar',
+  collapseFilterExprs: 'Automatski sažmi detalje filtra (ako postoje)',
+  arrangeAndStyle: 'Stil rasporeda',
+  activationMethods: 'Stil aktivacije',
+  toggleTooltip: 'Uključi/isključi prekidač',
+  buttonTooltip: 'Gumb',
+  omitInternalStyle: 'Isključi aktivacijske stilove za pojedini uvjet',
+  omitInternalStyleTip: 'Ako postoji samo jedan uvjet u svakom filtru i traži vrijednosti (ili prikazivanje oznake), ova opcija vam omogućuje da izuzmete stilove aktivacije (zajedno s oznakom i ikonom), izravno prikažete sadržaj uvjeta i automatski ga primijenite.',
+  wrapFilters: 'Omotaj stavke'
+});

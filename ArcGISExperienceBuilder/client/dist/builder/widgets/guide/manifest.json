@@ -1,0 +1,14 @@
+{
+  "name": "guide",
+  "version": "1.3.0",
+  "exbVersion": "1.3.0",
+  "author": "Esri R&D Center Beijing",
+  "description": "This is the widget used in the builder as a tour guide.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "hasConfig": false,
+    "hasSettingPage": false
+  },
+  "translatedLocales": []
+}

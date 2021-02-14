@@ -1,0 +1,106 @@
+{
+	"widgetId": "widget_x",
+	"config": {
+	  "layouts": {
+		"layout_4": {
+		  "type": "FIXED",
+		  "content": {
+			"0":{
+				"type":"WIDGET",
+				"bbox":{
+					"left":"3.5000%",
+					"right":"3.5000%",
+					"top":"2.0000%",
+					"bottom":"86.6241%",
+					"width":"93.0000%",
+					"height":"9.3759%"
+				},
+				"widgetId":"widget_6",
+				"setting":{
+					"vCenter":false,
+					"hCenter":false
+				},
+				"isPending":false
+			},
+			"1":{
+				"type":"WIDGET",
+				"bbox":{
+					"left":0,
+					"right":0,
+					"top":"12.8709%",
+					"bottom":0,
+					"width":"100.0000%",
+					"height":"87.1094%"
+				},
+				"widgetId":"widget_7",
+				"setting":{
+					"vCenter":false,
+					"hCenter":false
+				},
+				"isPending":false
+			}
+		  },
+		  "order": [
+			"0",
+			"1"
+		  ],
+		  "label": "Regular"
+		}
+	  },
+	  "widgets": {
+		"widget_x": {
+		  "config": {
+			"templateType": "CUSTOM1",
+			"isTemplateConfirm": false,
+			"isInitialed": false,
+			"bookmarks": [],
+			"runtimeAddAllow": false,
+			"autoPlayAllow": false,
+			"autoInterval": 3,
+			"direction": "HORIZON",
+			"pageStyle": "PAGING",
+			"space": 10,
+			"scrollBarOpen": true,
+			"navigatorOpen": false,
+			"transition": "None",
+			"displayType": "SELECTED",
+			"runtimeUuid": "",
+			"itemHeight": 240,
+			"itemWidth": 240
+		  },
+		  "layouts": {
+			"REGULAR": {
+			  "LARGE": "layout_4"
+			}
+		  }
+		},
+		"widget_6":{
+            "uri":"widgets/common/text/",
+            "config":{
+                "text":"",
+                "placeholder":"<p><span style=\"font-size: 16px;\">${textPlaceholder}</span></p>",
+                "style":{
+                    "verticalAlign":"start",
+                    "wrap":true
+                }
+            }
+        },
+        "widget_7":{
+            "uri":"widgets/common/image/",
+            "config":{
+                "functionConfig":{
+                    "altText":"",
+                    "toolTip":"",
+                    "linkParam":{},
+                    "scale":"Fit",
+                    "imageParam":{}
+                },
+                "styleConfig":{
+                }
+            }
+        }
+	  },
+	  "views": {},
+	  "sections": {}
+	}
+  }

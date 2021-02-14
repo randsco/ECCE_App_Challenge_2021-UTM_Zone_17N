@@ -1,0 +1,39 @@
+{
+  "templateType": "CARD",
+  "isTemplateConfirm": false,
+  "isInitialed": false,
+  "bookmarks": [],
+  "initBookmark": false,
+  "runtimeAddAllow": false,
+  "autoPlayAllow": false,
+  "autoInterval": 3,
+  "autoLoopAllow": true,
+  "style": {
+    "id": "default"
+  },
+  "direction": "HORIZON",
+  "pageStyle": "PAGING",
+  "space": 10,
+  "scrollBarOpen": true,
+  "navigatorOpen": false,
+  "transition": "None",
+  "transitionDirection": "H",
+  "displayType": "SELECTED",
+  "itemHeight": 240,
+  "itemWidth": 240,
+  "transitionInfo": {
+    "transition": {
+      "type": "None",
+      "direction": "H"
+    },
+    "effect": {
+      "type": "None",
+      "option": {
+        "direction": "TOP",
+        "configType": "DEFAULT"
+      }
+    },
+    "oneByOneEffect": null,
+    "previewId": null
+  }
+}

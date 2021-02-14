@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/navigation/circle</title>
+    <g id="ViewNavigator" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Style" transform="translate(-1099.000000, -1273.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M1105,1273 C1108.31371,1273 1111,1275.68629 1111,1279 C1111,1282.31371 1108.31371,1285 1105,1285 C1101.68629,1285 1099,1282.31371 1099,1279 C1099,1275.68629 1101.68629,1273 1105,1273 Z M1105,1275 C1102.79086,1275 1101,1276.79086 1101,1279 C1101,1281.20914 1102.79086,1283 1105,1283 C1107.20914,1283 1109,1281.20914 1109,1279 C1109,1276.79086 1107.20914,1275 1105,1275 Z" id="icons/navigation/circle"></path>
+        </g>
+    </g>
+</svg>

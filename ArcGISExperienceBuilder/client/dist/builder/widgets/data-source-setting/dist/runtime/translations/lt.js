@@ -1,0 +1,22 @@
+define({
+  back: 'Grįžti',
+  createFailedWarning: 'Duomenų sukurti nepavyko!',
+  noSupportedDataSource: 'Palaikomų duomenų nėra.',
+  noUsedFieldToMap: 'Naudojamų laukų susieti nereikia.',
+  noChildDssToMap: 'Antrinių duomenų susieti nereikia.',
+  inUse: 'Naudojama',
+  noRelatedWidget: 'Nėra susieto valdiklio',
+  noUsedField: 'Nėra naudojamo lauko',
+  noLayer: 'Nėra sluoksnio',
+  noDataNotice: 'Nėra duomenų patirtyje.<br/>Įtraukite savo duomenis.',
+  dataViews: 'Duomenų peržiūros',
+  originalDsLabel: 'Šaltinis',
+  autoRefresh: 'Automatiškai atnaujinti',
+  updateMinutesAgo: 'Paskutinį kartą atnaujinta: prieš {minutes} min.',
+  updateOneMinuteAgo: 'Paskutinį kartą atnaujinta: prieš minutę',
+  updateSecondsAgo: 'Paskutinį kartą atnaujinta: prieš kelias sekundes',
+  refreshSetting: 'Atnaujinti parametrus',
+  interval: 'Intervalas',
+  honorLayer: 'Paveldėjimo sluoksnio parametrai',
+  minutes: 'minutės'
+});

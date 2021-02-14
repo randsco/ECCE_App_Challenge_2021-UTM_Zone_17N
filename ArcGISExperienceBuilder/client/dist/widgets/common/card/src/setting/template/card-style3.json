@@ -1,0 +1,289 @@
+{
+	"widgetId": "widget_x",
+	"config": {
+		"layouts": {
+			"layout_14": {
+				"type": "FIXED",
+				"content": {
+					"4": {
+						"type": "WIDGET",
+						"bbox": {
+							"left": "5.00%",
+							"right": 14,
+							"top": "62.1755%",
+							"bottom": 111,
+							"width": "90.00%",
+							"height": "10.0503%"
+						},
+						"widgetId": "widget_91",
+						"setting": {
+							"vCenter": false,
+							"hCenter": false
+						},
+						"isPending": false
+					},
+					"5": {
+						"type": "WIDGET",
+						"bbox": {
+							"left": "5.00%",
+							"right": "5.0360%",
+							"top": "72.2257%",
+							"bottom": "3.9076%",
+							"width": "90.00%",
+							"height": "23.8693%"
+						},
+						"widgetId": "widget_92",
+						"setting": {
+							"vCenter": false,
+							"hCenter": false
+						},
+						"isPending": false
+					},
+					"6": {
+						"type": "WIDGET",
+						"bbox": {
+							"left": 0,
+							"right": 0,
+							"top": 0,
+							"bottom": "43.5307%",
+							"width": "100.0000%",
+							"height": "56.4693%"
+						},
+						"widgetId": "widget_93",
+						"setting": {
+						}
+					},
+					"9": {
+						"type": "WIDGET",
+						"bbox": {
+							"left": 0,
+							"right": "75.8993%",
+							"top": 0,
+							"bottom": "93.4673%",
+							"width": 67,
+							"height": 26
+						},
+						"widgetId": "widget_94",
+						"setting": {
+							"vCenter": false,
+							"hCenter": false
+						},
+						"isPending": false
+					},
+					"10": {
+						"type": "WIDGET",
+						"bbox": {
+							"left": "67.6259%",
+							"right": "4.70%",
+							"top": "51.3400%",
+							"bottom": "40.6198%",
+							"width": 105,
+							"height": 32
+						},
+						"widgetId": "widget_95",
+						"setting": {
+							"vCenter": false,
+							"hCenter": false,
+							"autoProps": {
+								"right": false,
+								"left": true
+							}
+						},
+						"isPending": false
+					}
+				},
+				"order": ["4", "5", "6", "9", "10"],
+				"label": "Regular"
+			}
+		},
+		"widgets": {
+			"widget_x": {
+				"config": {
+					"REGULAR": {
+						"enable": true,
+						"backgroundStyle": {
+							"border": {
+								"type": "solid",
+								"color": "var(--light-400)",
+								"width": "1px"
+							},
+							"background": {
+								"color": "",
+								"fillType": "fit",
+								"image": {
+									"url": ""
+								}
+							}
+						}
+					},
+					"HOVER": {
+						"enable": false,
+						"backgroundStyle": {
+							"border": {
+								"type": "solid",
+								"color": "var(--light-400)",
+								"width": "1px"
+							},
+							"boxShadow": {
+								"offsetX": "0px",
+								"offsetY": "0px",
+								"blur": "0px",
+								"spread": "0px",
+								"color": ""
+							},
+							"background": {
+								"color": "",
+								"fillType": "fit",
+								"image": {
+									"url": ""
+								}
+							}
+						}
+					},
+					"itemStyle": "STYLE3",
+					"direction": "Horizontal",
+					"isItemStyleConfirm":  false,
+					"isOpenAdvabceSetting": false,
+					"isInitialed": true,
+					"transitionInfo": {
+						"transition": {
+							"type": "None",
+							"direction": "H"
+						},
+						"oneByOneEffect": null
+					}
+				},
+				"layouts": {
+					"REGULAR": {
+						"LARGE": "layout_14"
+					}
+				}
+			},
+			"widget_91": {
+				"uri": "widgets/common/text/",
+				"config": {
+					"text": "",
+					"placeholder": "<p><span style=\"font-size: 20px; color: var(--dark-800);\">${cardTemplateTitle}</span></p>",
+					"style": {
+						"verticalAlign": "start",
+						"wrap": true
+					}
+				}
+			},
+			"widget_92": {
+				"uri": "widgets/common/text/",
+				"config": {
+					"text": "",
+					"placeholder": "<p><span style=\"color: var(--dark-800);\">${contentPlaceholder}</span></p>",
+					"style": {
+						"verticalAlign": "start",
+						"wrap": true
+					}
+				}
+			},
+			"widget_93": {
+				"uri": "widgets/common/image/",
+				"config": {
+					"functionConfig": {
+						"altText": "",
+						"toolTip": "",
+						"linkParam": {},
+						"scale": "Fit",
+						"imageParam": {}
+					},
+					"styleConfig": {}
+				}
+			},
+			"widget_94": {
+				"uri": "widgets/common/button/",
+				"config": {
+					"functionConfig": {
+						"text": "123",
+						"textExpression": null,
+						"icon": {
+							"data": "<svg viewBox= \"0 0 16 16 \" xmlns= \"http://www.w3.org/2000/svg \" ><g fill= \"none \" fill-rule= \"evenodd \"><path d= \"M8 3c2.583 0 5.166 1.45 7.75 4.349a.972.972 0 010 1.302C13.166 11.551 10.583 13 8 13S2.834 11.55.25 8.651a.972.972 0 010-1.302C2.834 4.449 5.417 3 8 3zm0 1C5.763 4 3.442 5.303 1.039 8 3.442 10.697 5.763 12 8 12s4.558-1.303 6.961-4C12.558 5.303 10.237 4 8 4zm0 7a3 3 0 110-6 3 3 0 010 6zm0-1a2 2 0 100-4 2 2 0 000 4z \" fill= \"currentColor \" fill-rule= \"nonzero \"></path><path d= \"M0 0h16v16H0z \"></path></g></svg>",
+							"position": "LEFT"
+						}
+					},
+					"styleConfig": {
+						"customStyle": {
+							"regular": {
+								"background": {
+									"color": "success-100",
+									"fillType": "fill"
+								},
+								"border": {
+									"type": "solid",
+									"color": "var(--light-400)",
+									"width": "0px"
+								},
+								"text": {
+									"size": "13px"
+								},
+								"borderRadius": {
+									"unit": "px",
+									"number": [2, 2, 2, 2]
+								},
+								"iconProps": {
+									"color": "var(--black)",
+									"size": 14
+								}
+							},
+							"hover": {
+								"background": {
+									"color": "var(--secondary-100)",
+									"fillType": "fill"
+								},
+								"border": {
+									"type": "solid",
+									"width": "undefinedpx"
+								},
+								"text": {
+									"size": "14px"
+								},
+								"borderRadius": {
+									"unit": "px",
+									"number": [2, 2, 2, 2]
+								},
+								"iconProps": {
+									"size": 14
+								}
+							}
+						},
+						"useCustom": true
+					}
+				}
+			},
+			"widget_95": {
+				"uri": "widgets/common/button/",
+				"config": {
+					"functionConfig": {
+						"text": "${shareButtonText}",
+						"textExpression": null
+					},
+					"styleConfig": {
+						"themeStyle": {
+							"quickStyleType": "primary"
+						},
+						"useCustom": false,
+						"customStyle": {
+							"regular": {
+								"iconProps": {
+									"color": "var(--white)",
+									"size": 14
+								}
+							},
+							"hover": {
+								"iconProps": {
+									"size": 14
+								}
+							}
+						}
+					}
+				}
+			}
+		},
+		"views": {},
+		"sections": {}
+	}
+}

@@ -1,0 +1,1 @@
+define({notPublished:"Opplevelsen er ikke publisert ennå. Publiser den først."});

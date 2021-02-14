@@ -1,0 +1,22 @@
+define({
+  back: 'חזור',
+  createFailedWarning: 'יצירת נתונים נכשלה!',
+  noSupportedDataSource: 'אין נתונים נתמכת זמינים.',
+  noUsedFieldToMap: 'אין שדות בשימוש שנדרש למפות.',
+  noChildDssToMap: 'אין נתוני צאצא שנדרש למפות.',
+  inUse: 'בשימוש',
+  noRelatedWidget: 'אין ווידג\'ט קשור',
+  noUsedField: 'אין שדה בשימוש',
+  noLayer: 'אין שכבה',
+  noDataNotice: 'אין נתונים בחוויה.<br/>הוסף את הנתונים.',
+  dataViews: 'תצוגות נתונים',
+  originalDsLabel: 'מקור',
+  autoRefresh: 'רענון אוטומטי',
+  updateMinutesAgo: 'עדכון אחרון: לפני {minutes} דקות',
+  updateOneMinuteAgo: 'עדכון אחרון: לפני דקה',
+  updateSecondsAgo: 'עדכון אחרון: לפני כמה שניות',
+  refreshSetting: 'הגדרות רענון',
+  interval: 'מרווח',
+  honorLayer: 'התחשב בהגדרות השכבה',
+  minutes: 'דקות'
+});

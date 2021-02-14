@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="10px" viewBox="0 0 10 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>character-space</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="0-UI-icons" transform="translate(-1296.000000, -607.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M1305.16667,613 C1305.6269,613 1306,613.223858 1306,613.5 C1306,613.776142 1305.6269,614 1305.16667,614 L1296.83333,614 C1296.3731,614 1296,613.776142 1296,613.5 C1296,613.223858 1296.3731,613 1296.83333,613 L1305.16667,613 Z M1298,607 L1298,611 L1296,609 L1298,607 Z M1304,611 L1304,607 L1306,609 L1304,611 Z M1302,608.5 L1304,608.5 L1304,609.5 L1302,609.5 L1302,608.5 Z M1298,608.5 L1300,608.5 L1300,609.5 L1298,609.5 L1298,608.5 Z M1305.5,616 C1305.77614,616 1306,616.223858 1306,616.5 C1306,616.776142 1305.77614,617 1305.5,617 L1296.5,617 C1296.22386,617 1296,616.776142 1296,616.5 C1296,616.223858 1296.22386,616 1296.5,616 L1305.5,616 Z" id="character-space"></path>
+        </g>
+    </g>
+</svg>

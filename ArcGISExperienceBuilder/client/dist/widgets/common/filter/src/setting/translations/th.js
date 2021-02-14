@@ -1,0 +1,22 @@
+define({
+  start: 'เริ่ม',
+  selectTemplateTip: 'เลือกเทมเพลต',
+  selectAnotherTemplateTip: 'เลือกอีกหนึ่งเทมเพลต',
+  filtersDesc: 'เพิ่มตัวกรองใหม่และปรับแต่งตัวเลือก',
+  newFilter: 'ตัวกรองใหม่',
+  setFilterItem: 'สร้างตัวกรองใหม่',
+  sqlExpr: 'นิพจน์ SQL',
+  sqlExprDesc: 'เพิ่มนิพจน์ SQL ลงในตัวกรองของคุณ',
+  openFilterBuilder: 'SQL Expression Builder',
+  setExprTips: 'โปรดเพิ่มนิพจน์ SQL ก่อน',
+  options: 'ตัวเลือก',
+  autoApplyWhenWidgetOpen: 'ใช้ตัวกรองนี้โดยอัตโนมัติ',
+  collapseFilterExprs: 'ย่อรายละเอียดตัวกรอง (หากมี) โดยอัตโนมัติ',
+  arrangeAndStyle: 'ประเภทการจัดเรียง',
+  activationMethods: 'สไตล์การเริ่มทำงาน',
+  toggleTooltip: 'ใช้งานการสลับ',
+  buttonTooltip: 'ปุ่มกด',
+  omitInternalStyle: 'ไม่รวมสไตล์การเริ่มทำงานของส่วนคำสั่งเดี่ยว',
+  omitInternalStyleTip: 'หากมีเพียงส่วนคำสั่งเดียวในแต่ละตัวกรอง และส่วนคำสั่งเดียวมีการร้องขอค่า (หรือป้ายกำกับการแสดงผล) ตัวเลือกนี้จะช่วยให้คุณสามารถตัดสไตล์การเริ่มทำงานดังกล่าวออกได้ (รวมทั้งป้ายกำกับและไอคอน) แล้วแสดงเนื้อหาส่วนคำสั่งโดยตรง จากนั้นจึงใช้งานโดยอัตโนมัติ',
+  wrapFilters: 'ครอบรายการ'
+});

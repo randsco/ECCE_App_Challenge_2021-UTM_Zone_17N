@@ -1,0 +1,22 @@
+define({
+  back: 'Quay lại',
+  createFailedWarning: 'Không thể tạo dữ liệu!',
+  noSupportedDataSource: 'Không có dữ liệu được hỗ trợ.',
+  noUsedFieldToMap: 'Không có trường nào đang sử dụng cần được thành lập bản đồ.',
+  noChildDssToMap: 'Không có dữ liệu con nào cần được thành lập bản đồ.',
+  inUse: 'Đang sử dụng',
+  noRelatedWidget: 'Không có tiện ích liên quan',
+  noUsedField: 'Không có trường được sử dụng',
+  noLayer: 'Không có lớp',
+  noDataNotice: 'Không có dữ liệu trong trải nghiệm.<br/>Vui lòng thêm dữ liệu.',
+  dataViews: 'Chế độ xem dữ liệu',
+  originalDsLabel: 'Nguồn',
+  autoRefresh: 'Tự động tải lại',
+  updateMinutesAgo: 'Cập nhật lần cuối: {minutes} phút trước',
+  updateOneMinuteAgo: 'Cập nhật lần cuối: một phút trước',
+  updateSecondsAgo: 'Cập nhật lần cuối: vài giây trước',
+  refreshSetting: 'Tải lại cài đặt',
+  interval: 'Khoảng',
+  honorLayer: 'Thiết lập của lớp huy chương',
+  minutes: 'phút'
+});

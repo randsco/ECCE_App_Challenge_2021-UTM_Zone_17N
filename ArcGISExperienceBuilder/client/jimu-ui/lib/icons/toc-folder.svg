@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>toc-folder</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="0-UI-icons" transform="translate(-222.000000, -663.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="Toc" transform="translate(100.000000, 586.000000)">
+                <path d="M123,77 L126,77 C126.552285,77 127,77.4477153 127,78 L127,79 L133,79 C133.552285,79 134,79.4477153 134,80 L134,88 C134,88.5522847 133.552285,89 133,89 L123,89 C122.447715,89 122,88.5522847 122,88 L122,78 C122,77.4477153 122.447715,77 123,77 Z M123,78 L123,88 L133,88 L133,80 L126,80 L126,78 L123,78 Z M123,81.5 L133,81.5 L133,82.5 L123,82.5 L123,81.5 Z" id="toc-folder"></path>
+            </g>
+        </g>
+    </g>
+</svg>

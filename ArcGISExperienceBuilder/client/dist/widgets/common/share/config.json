@@ -1,0 +1,19 @@
+{
+  "uiMode": "POPUP",
+  "popup": {
+    "icon": "",
+    "items": ["embed", "qrcode", "email" ,"facebook", "twitter", "pinterest", "linkedin"],
+    "tooltip": ""
+  },
+  "inline": {
+    "items": ["facebook", "twitter", "pinterest", "linkedin", "embed", "qrcode", "email", "sharelink"],
+    "design": {
+      "direction": "HORIZONTAL",
+      "hideLabel": false,
+      "btnRad": 0,
+      "btnColor": "",
+      "iconColor": "",
+      "size": "default"
+    }
+  }
+}

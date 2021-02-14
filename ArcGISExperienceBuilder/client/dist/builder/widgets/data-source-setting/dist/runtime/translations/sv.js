@@ -1,0 +1,22 @@
+define({
+  back: 'Backa',
+  createFailedWarning: 'Det gick inte att skapa data!',
+  noSupportedDataSource: 'Inga data som stöds finns tillgängliga.',
+  noUsedFieldToMap: 'Inga fält som används behöver karteras.',
+  noChildDssToMap: 'Inga underordnade data behöver karteras.',
+  inUse: 'Används',
+  noRelatedWidget: 'Ingen relaterad widget',
+  noUsedField: 'Inget använt fält',
+  noLayer: 'Inget lager',
+  noDataNotice: 'Inga data i upplevelsen.<br/>Lägg till dina data.',
+  dataViews: 'Datavyer',
+  originalDsLabel: 'Källa',
+  autoRefresh: 'Uppdatera automatiskt',
+  updateMinutesAgo: 'Senaste uppdatering: {minutes} minuter sedan',
+  updateOneMinuteAgo: 'Senaste uppdatering: en minut sedan',
+  updateSecondsAgo: 'Senaste uppdatering: några sekunder sedan',
+  refreshSetting: 'Uppdateringsinställningar',
+  interval: 'Intervall',
+  honorLayer: 'Följ lagerinställningar',
+  minutes: 'minuter'
+});

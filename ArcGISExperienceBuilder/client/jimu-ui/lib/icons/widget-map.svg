@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="14px" viewBox="0 0 16 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Widget_Map</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="0-UI-icons" transform="translate(-317.000000, -773.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M323,783.942566 L327,785.654093 L327,776.057434 L323,774.345907 L323,783.942566 Z M322,784.113002 L322,774.494311 L318,775.974346 L318,785.593036 L322,784.113002 Z M328,785.505689 L332,784.025654 L332,774.406964 L328,775.886998 L328,785.505689 Z M317,787 L317,775.307399 L322.749874,773.179896 L327.277738,775.117286 L333,773 L333,784.692601 L327.250126,786.820104 L322.722262,784.882714 L317,787 Z" id="Widget_Map"></path>
+        </g>
+    </g>
+</svg>

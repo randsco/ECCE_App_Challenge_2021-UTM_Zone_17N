@@ -1,0 +1,173 @@
+{
+  "widgetId": "widget_x",
+  "config": {
+    "layouts": {
+      "layout_7": {
+        "type": "FIXED",
+        "content": {
+          "2": {
+            "type": "WIDGET",
+            "bbox": {
+              "left": "6.15%",
+              "top": "0.00%",
+              "width": "352px",
+              "height": "100.00%",
+              "right": "4.18%",
+              "bottom": "0.00%"
+            },
+            "widgetId": "widget_11",
+            "setting": {
+              "lockParent": true,
+              "hCenter": false,
+              "vCenter": true,
+              "autoProps": {
+                "width": true,
+                "height": false,
+                "top": false
+              }
+            },
+            "isPending": false
+          },
+          "3": {
+            "type": "WIDGET",
+            "bbox": {
+              "left": "1.78%",
+              "top": "18.75%",
+              "width": "22px",
+              "height": "22px",
+              "right": "0.00%",
+              "bottom": "18.75%"
+            },
+            "widgetId": "widget_12",
+            "setting": {
+              "lockParent": true,
+              "autoProps": {
+                "height": false
+              },
+              "vCenter": true,
+              "heightMode":"ratio",
+              "aspectRatio":1
+            }
+          }
+        },
+        "order": [
+          "2",
+          "3"
+        ],
+        "label": "Regular"
+      }
+    },
+    "widgets": {
+      "widget_x": {
+        "config": {
+          "maxItems": 100,
+          "space": 10,
+          "itemsPerPage": 10,
+          "isItemStyleConfirm": false,
+          "isInitialed": false,
+          "pageStyle": "SCROLL",
+          "itemStyle": "STYLE6",
+          "hoverType": "HOVER0",
+          "selectedStyle": "STYLE0",
+          "differentOddEven": false,
+          "scrollBarOpen": true,
+          "direction": "VERTICAL",
+          "alignType": "CENTER",
+          "scrollStep": 2,
+          "cardConfigs": {
+            "REGULAR": {
+              "cardSize": {
+                "LARGE": {
+                  "width": 360,
+                  "height": 32
+                }
+              },
+              "enable": true,
+              "backgroundStyle": {
+                "border": {
+                  "type": "solid",
+                  "color": "var(--light-400)",
+                  "width": "1px"
+                }
+              }
+            },
+            "HOVER": {
+              "cardSize": {
+                "LARGE": {
+                  "width": 360,
+                  "height": 32
+                }
+              },
+              "enable": false,
+              "backgroundStyle": {
+                "border": {
+                  "type": "solid",
+                  "color": "var(--light-400)",
+                  "width": "1px"
+                }
+              }
+            },
+            "SELECTED": {
+              "cardSize": {
+                "LARGE": {
+                  "width": 360,
+                  "height": 32
+                }
+              },
+              "backgroundStyle": {
+                "border": {
+                  "type": "solid",
+                  "color": "var(--primary-500)",
+                  "width": "1px"
+                }
+              },
+              "selectionMode": "SINGLE"
+            }
+          },
+          "style": {
+            "id": "default"
+          }
+        },
+        "layouts": {
+          "REGULAR": {
+            "LARGE": "layout_7"
+          }
+        }
+      },
+      "widget_11": {
+        "uri": "widgets/common/text/",
+        "config": {
+          "text": "",
+          "placeholder": "<p><span style=\"font-size: 13px;color: var(--dark-800);\">Lorem ipsum dolor sit amet</span></p>",
+          "style": {
+            "verticalAlign": "start",
+            "wrap": true,
+            "overflow": "scroll",
+            "padding": "p-1"
+          }
+        }
+      },
+      "widget_12": {
+        "uri": "widgets/common/image/",
+        "config": {
+          "functionConfig": {
+            "altText": "",
+            "toolTip": "",
+            "linkParam": {},
+            "scale": "Fit",
+            "imageParam": {
+              "cropParam": {
+                "cropShape": "circle",
+                "svgPath": "M28 14c0 7.732-6.268 14-14 14S0 21.732 0 14 6.268 0 14 0s14 6.268 14 14z",
+                "svgViewBox": "0 0 28 28"
+              }
+            }
+          },
+          "styleConfig": {}
+        }
+      }
+    },
+    "views": {},
+    "sections": {}
+  }
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-40.000000, -283.000000)" fill="#000000" fill-rule="nonzero" id="feature-table">
+            <path d="M40,294 L40,284 L52,284 L52,294 L40,294 Z M41,293.166667 L43,293.166 L43,292 L41,292 L41,293.166667 Z M47,292 L44,292 L44,293.166 L47,293.166 L47,292 Z M51,292 L48,292 L48,293.166 L51,293.166667 L51,292 Z M51,291 L51,290 L48,290 L48,291 L51,291 Z M41,291 L43,291 L43,290 L41,290 L41,291 Z M47,290 L44,290 L44,291 L47,291 L47,290 Z M51,289 L51,288 L48,288 L48,289 L51,289 Z M41,289 L43,289 L43,288 L41,288 L41,289 Z M47,288 L44,288 L44,289 L47,289 L47,288 Z M51,284.833333 L41,284.833333 L41,287 L51,287 L51,284.833333 Z"></path>
+        </g>
+    </g>
+</svg>

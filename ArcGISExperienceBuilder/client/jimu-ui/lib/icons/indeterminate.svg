@@ -1,0 +1,5 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="CheckBox_Select">
+        <path d="M1,1 L15,1 M1,1 L1,15 M1,15 L15,15 M15,1 L15,15 Z" id="Path" stroke-width="2" stroke="#000" fill="#000000"></path>
+    </g>
+</svg>

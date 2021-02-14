@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="48px" viewBox="0 0 68 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>thumbnail_methods_button</title>
+    <g id="Filter_v3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="StyleSetting" transform="translate(-1276.000000, -484.000000)" fill="#6A6A6A" fill-rule="nonzero">
+            <g id="SettingPanel" transform="translate(1180.000000, 36.000000)">
+                <g id="thumbnail/methods/button" transform="translate(96.000000, 448.000000)">
+                    <g id="Title-Copy-32">
+                        <rect x="4" y="5" width="60" height="4"></rect>
+                        <rect x="4" y="13" width="60" height="4"></rect>
+                        <rect x="4" y="21" width="60" height="4"></rect>
+                        <rect x="4" y="29" width="32" height="4"></rect>
+                        <rect x="44" y="36" width="20" height="8" rx="4"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

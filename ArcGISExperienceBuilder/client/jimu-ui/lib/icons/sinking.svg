@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>icons/unfloat</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-76.000000, -763.000000)" fill="#000000" fill-rule="nonzero" id="16*16">
+            <g transform="translate(40.000000, 343.000000)">
+                <g id="icons/unfloat" transform="translate(36.000000, 420.000000)">
+                    <path d="M12,0 C14.209139,0 16,1.790861 16,4 L16,12 C16,14.209139 14.209139,16 12,16 L4,16 C1.790861,16 0,14.209139 0,12 L0,4 C0,1.790861 1.790861,0 4,0 L12,0 Z M12,1 L4,1 C2.40231912,1 1.09633912,2.24891996 1.00509269,3.82372721 L1,4 L1,12 C1,13.5976809 2.24891996,14.9036609 3.82372721,14.9949073 L4,15 L12,15 C13.5976809,15 14.9036609,13.75108 14.9949073,12.1762728 L15,12 L15,4 C15,2.40231912 13.75108,1.09633912 12.1762728,1.00509269 L12,1 Z M8,4 C10.209139,4 12,5.790861 12,8 C12,10.209139 10.209139,12 8,12 C5.790861,12 4,10.209139 4,8 C4,5.790861 5.790861,4 8,4 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

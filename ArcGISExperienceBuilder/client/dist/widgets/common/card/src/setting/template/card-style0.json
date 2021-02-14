@@ -1,0 +1,253 @@
+
+{
+	"widgetId": "widget_x",
+	"config": {
+		"layouts":{
+			"layout_18": {
+				"type": "FIXED",
+				"content": {
+					"4": {
+						"type": "WIDGET",
+						"bbox": {
+							"left": "5%",
+							"right": "5%",
+							"top": "51.9593%",
+							"bottom": 127,
+							"width": "90%",
+							"height": "10.1190%"
+						},
+						"widgetId": "widget_125",
+						"setting": {
+							"vCenter": false,
+							"hCenter": false
+						},
+						"isPending": false
+					},
+					"5": {
+						"type": "WIDGET",
+						"bbox": {
+							"left": "5%",
+							"right": "5%",
+							"top": "63.9943%",
+							"bottom": "3.5652%",
+							"width": "90%",
+							"height": "32.4405%"
+						},
+						"widgetId": "widget_126",
+						"setting": {
+							"vCenter": false,
+							"hCenter": false
+						},
+						"isPending": false
+					},
+					"6": {
+						"type": "WIDGET",
+						"bbox": {
+							"left": "0.0000%",
+							"right": 0,
+							"top": "0.0000%",
+							"bottom": "36.2647%",
+							"width": "100.0000%",
+							"height": "47.53%"
+						},
+						"widgetId": "widget_127",
+						"setting": {
+						}
+					}
+				},
+				"order": [
+					"4",
+					"5",
+					"6"
+				],
+				"label": "Regular"
+			},
+			"layout_19": {
+				"label": "Hover",
+				"type": "FIXED",
+				"content": {
+					"2": {
+						"type": "WIDGET",
+						"bbox": {
+							"left": "5.00%",
+							"right": 14,
+							"top": "4.1824%",
+							"bottom": 341,
+							"width": "90.00%",
+							"height": "10.0503%"
+						},
+						"widgetId": "widget_128",
+						"setting": {
+							"vCenter": false,
+							"hCenter": false
+						},
+						"isPending": false
+					},
+					"3": {
+						"type": "WIDGET",
+						"bbox": {
+							"left": "5.00%",
+							"right": "5.0360%",
+							"top": "15.8998%",
+							"bottom": "4.3682%",
+							"width": "90.00%",
+							"height": "79.7320%"
+						},
+						"widgetId": "widget_129",
+						"setting": {
+							"vCenter": false,
+							"hCenter": false
+						},
+						"isPending": false
+					}
+				},
+				"order": [
+					"2",
+					"3"
+				]
+			}
+		},
+		"widgets":{
+			"widget_x": {
+				"config": {
+					"REGULAR": {
+						"enable": true,
+						"backgroundStyle": {
+							"border": {
+								"type": "solid",
+								"color": "var(--light-400)",
+								"width": "1px"
+							},
+							"background": {
+								"color": "",
+								"fillType": "fit",
+								"image": {
+									"url": ""
+								}
+							}
+						}
+					},
+					"HOVER": {
+						"enable": true,
+						"backgroundStyle": {
+							"border": {
+								"type": "solid",
+								"color": "var(--light-400)",
+								"width": "1px"
+							},
+							"boxShadow": {
+								"offsetX": "0px",
+								"offsetY": "0px",
+								"blur": "0px",
+								"spread": "0px",
+								"color": ""
+							},
+							"background": {
+								"color": "",
+								"fillType": "fit",
+								"image": {
+									"url": ""
+								}
+							}
+						}
+					},
+					"itemStyle": "STYLE0",
+					"direction": "Horizontal",
+					"isItemStyleConfirm": false,
+					"isOpenAdvabceSetting": false,
+					"isInitialed": true,
+					"transitionInfo": {
+						"transition": {
+							"type": "None",
+							"direction": "H"
+						},
+						"oneByOneEffect": null
+					}
+				},
+				"layouts": {
+					"REGULAR": {
+						"LARGE": "layout_18"
+					},
+					"HOVER": {
+						"LARGE": "layout_19"
+					}
+				}
+			},
+			"widget_125": {
+				"uri": "widgets/common/text/",
+				"version": "1.3.0",
+				"label": "Text 55",
+				"config": {
+					"text": "",
+					"placeholder": "<p><span style=\"font-size: 20px; color: var(--dark-800);\">${cardTemplateTitle}</span></p>",
+					"style": {
+						"verticalAlign": "start",
+						"wrap": true
+					}
+				},
+				"id": "widget_125"
+			},
+			"widget_126": {
+				"uri": "widgets/common/text/",
+				"version": "1.3.0",
+				"label": "Text 56",
+				"config": {
+					"text": "",
+					"placeholder": "<p style=\"line-height: 1.5;\"><span style=\"color: var(--dark-800);\">${contentPlaceholder}</span></p>",
+					"style": {
+						"verticalAlign": "start",
+						"wrap": true
+					}
+				},
+				"id": "widget_126"
+			},
+			"widget_127": {
+				"uri": "widgets/common/image/",
+				"version": "1.3.0",
+				"label": "Image 16",
+				"config": {
+					"functionConfig": {
+						"altText": "",
+						"toolTip": "",
+						"linkParam": {},
+						"scale": "Fit",
+						"imageParam": {}
+					},
+					"styleConfig": {}
+				},
+				"id": "widget_127"
+			},
+			"widget_128": {
+				"uri": "widgets/common/text/",
+				"version": "1.3.0",
+				"label": "Text 55 copy",
+				"config": {
+					"text": "",
+					"placeholder": "<p><span style=\"font-size: 20px; color: var(--dark-800);\">${cardTemplateTitle}</span></p>",
+					"style": {
+						"verticalAlign": "start",
+						"wrap": true
+					}
+				},
+				"id": "widget_128"
+			},
+			"widget_129": {
+				"uri": "widgets/common/text/",
+				"version": "1.3.0",
+				"label": "Text 56 copy",
+				"config": {
+					"text": "",
+					"placeholder": "<p style=\"line-height: 1.5;\"><span style=\"color: var(--dark-800);\">${contentPlaceholder}</span></p>",
+					"style": {
+						"verticalAlign": "start",
+						"wrap": true
+					}
+				},
+				"id": "widget_129"
+			}
+		},
+		"views":{},
+		"sections":{}
+	}
+}
+

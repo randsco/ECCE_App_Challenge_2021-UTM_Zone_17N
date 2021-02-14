@@ -1,0 +1,559 @@
+{
+	"widgetId": "widget_x",
+	"config": {
+		"layouts": {
+			"layout_8": {
+				"type": "FIXED",
+				"content": {
+					"4": {
+						"type": "WIDGET",
+						"bbox": {
+							"left": "212px",
+							"right": 0,
+							"top": "7.0470%",
+							"bottom": "156px",
+							"width": "60.6238%",
+							"height": "28px"
+						},
+						"widgetId": "widget_51",
+						"setting": {
+
+							"vCenter": false,
+							"hCenter": false,
+							"autoProps": {
+								"right": false,
+								"left": true
+							}
+						},
+						"isPending": false
+					},
+					"5": {
+						"type": "WIDGET",
+						"bbox": {
+							"left": "39.3676%",
+							"right": "0.00%",
+							"top": "25.4996%",
+							"bottom": "48.9955%",
+							"width": "60.6343%",
+							"height": "25.5102%"
+						},
+						"widgetId": "widget_52",
+						"setting": {
+
+							"vCenter": false,
+							"hCenter": false,
+							"autoProps": {
+								"right": false,
+								"left": true
+							}
+						},
+						"isPending": false
+					},
+					"6": {
+						"type": "WIDGET",
+						"bbox": {
+							"left": "0.00%",
+							"right": "70.1493%",
+							"top": "0.00%",
+							"bottom": 0,
+							"width": "37.1747%",
+							"height": "100.00%"
+						},
+						"widgetId": "widget_53",
+						"setting": {
+						},
+						"isPending": false
+					},
+					"7": {
+						"type": "WIDGET",
+						"bbox": {
+							"left": "78.0045%",
+							"right": "3.35%",
+							"top": "76.5838%",
+							"bottom": "7.00%",
+							"width": "18.5874%",
+							"height": "16.1616%"
+						},
+						"widgetId": "widget_54",
+						"setting": {
+
+							"vCenter": false,
+							"hCenter": false,
+							"autoProps": {
+								"right": false,
+								"left": true,
+								"bottom": false,
+								"top": true
+							}
+						},
+						"isPending": false
+					},
+					"8": {
+						"type": "WIDGET",
+						"bbox": {
+							"left": "45.3319%",
+							"right": "48.6979%",
+							"top": "76.5838%",
+							"bottom": "7.00%",
+							"width": "5.9480%",
+							"height": "16.1616%"
+						},
+						"widgetId": "widget_55",
+						"setting": {
+
+							"vCenter": false,
+							"hCenter": false,
+							"autoProps": {
+								"bottom": false,
+								"top": true
+							}
+						},
+						"isPending": false
+					},
+					"9": {
+						"type": "WIDGET",
+						"bbox": {
+							"left": "50.7657%",
+							"right": "43.2641%",
+							"top": "76.5838%",
+							"bottom": "7.00%",
+							"width": "5.9480%",
+							"height": "16.1616%"
+						},
+						"widgetId": "widget_56",
+						"setting": {
+
+							"vCenter": false,
+							"hCenter": false,
+							"autoProps": {
+								"bottom": false,
+								"top": true
+							}
+						},
+						"isPending": false
+					},
+					"10": {
+						"type": "WIDGET",
+						"bbox": {
+							"left": "56.7359%",
+							"right": "37.2940%",
+							"top": "76.5838%",
+							"bottom": "7.00%",
+							"width": "5.9480%",
+							"height": "16.1616%"
+						},
+						"widgetId": "widget_57",
+						"setting": {
+
+							"vCenter": false,
+							"hCenter": false,
+							"autoProps": {
+								"bottom": false,
+								"top": true
+							}
+						},
+						"isPending": false
+					},
+					"11": {
+						"type": "WIDGET",
+						"bbox": {
+							"left": "39.3657%",
+							"right": "54.6642%",
+							"top": "76.5838%",
+							"bottom": "7.20%",
+							"width": "5.9480%",
+							"height": "16.1616%"
+						},
+						"widgetId": "widget_58",
+						"setting": {
+
+							"vCenter": false,
+							"hCenter": false,
+							"autoProps": {
+								"bottom": false,
+								"top": true
+							}
+						},
+						"isPending": false
+					}
+				},
+				"order": ["4", "5", "6", "11", "8", "9", "10", "7"],
+				"label": "Regular"
+			}
+		},
+		"widgets": {
+			"widget_x": {
+				"config": {
+					"REGULAR": {
+						"enable": true,
+						"backgroundStyle": {
+							"border": {
+								"type": "solid",
+								"color": "var(--light-400)",
+								"width": "1px"
+							},
+							"background": {
+								"color": "",
+								"fillType": "fit",
+								"image": {
+									"url": ""
+								}
+							}
+						}
+					},
+					"HOVER": {
+						"enable": false,
+						"backgroundStyle": {
+							"border": {
+								"type": "solid",
+								"color": "var(--light-400)",
+								"width": "1px"
+							},
+							"boxShadow": {
+								"offsetX": "0px",
+								"offsetY": "0px",
+								"blur": "0px",
+								"spread": "0px",
+								"color": ""
+							},
+							"background": {
+								"color": "",
+								"fillType": "fit",
+								"image": {
+									"url": ""
+								}
+							}
+						}
+					},
+					"itemStyle": "STYLE8",
+					"direction": "Vertical",
+					"isItemStyleConfirm":  false,
+					"isOpenAdvabceSetting": false,
+					"isInitialed": true,
+					"transitionInfo": {
+						"transition": {
+							"type": "None",
+							"direction": "H"
+						},
+						"oneByOneEffect": null
+					}
+				},
+				"layouts": {
+					"REGULAR": {
+						"LARGE": "layout_8"
+					}
+				}
+			},
+			"widget_51": {
+				"uri": "widgets/common/text/",
+				"config": {
+					"text": "",
+					"placeholder": "<p style=\"line-height: 1;font-size: 20px; color: var(--dark-800);\">${cardTemplateTitle}</p>",
+					"style": {
+						"verticalAlign": "start",
+						"wrap": true
+					}
+				}
+			},
+			"widget_52": {
+				"uri": "widgets/common/text/",
+				"config": {
+					"text": "<p></p>",
+					"placeholder": "<p><span style=\"color: var(--dark-800); font-size: 0.8125rem;\">${contentPlaceholder}</span></p>",
+					"style": {
+						"verticalAlign": "start",
+						"wrap": true
+					}
+				}
+			},
+			"widget_53": {
+				"uri": "widgets/common/image/",
+				"config": {
+					"functionConfig": {
+						"altText": "",
+						"toolTip": "",
+						"linkParam": {},
+						"scale": "Fit",
+						"imageParam": {}
+					},
+					"styleConfig": {}
+				}
+			},
+			"widget_54": {
+				"uri": "widgets/common/button/",
+				"config": {
+					"functionConfig": {},
+					"styleConfig": {
+						"themeStyle": {
+							"quickStyleType": "primary"
+						},
+						"useCustom": false,
+						"customStyle": {
+							"regular": {
+								"iconProps": {
+									"color": "var(--white)",
+									"size": 12
+								}
+							},
+							"hover": {
+								"iconProps": {
+									"size": 12
+								}
+							}
+						}
+					}
+				}
+			},
+			"widget_55": {
+				"uri": "widgets/common/button/",
+				"config": {
+					"functionConfig": {
+						"text": "",
+						"textExpression": null,
+						"icon": {
+							"data": "<svg xmlns= \"http://www.w3.org/2000/svg \" viewBox= \"0 0 26 28 \" ><path d= \"M17.766 15.687l4.781-4.641-6.594-.969L13 4.108l-2.953 5.969-6.594.969 4.781 4.641-1.141 6.578 5.906-3.109 5.891 3.109zM26 10.109c0 .281-.203.547-.406.75l-5.672 5.531 1.344 7.812c.016.109.016.203.016.313 0 .422-.187.781-.641.781a1.27 1.27 0 01-.625-.187L13 21.422l-7.016 3.687c-.203.109-.406.187-.625.187-.453 0-.656-.375-.656-.781 0-.109.016-.203.031-.313l1.344-7.812L.39 10.859c-.187-.203-.391-.469-.391-.75 0-.469.484-.656.875-.719l7.844-1.141 3.516-7.109c.141-.297.406-.641.766-.641s.625.344.766.641l3.516 7.109 7.844 1.141c.375.063.875.25.875.719z \"></path></svg>",
+							"position": "LEFT"
+						}
+					},
+					"styleConfig": {
+						"useCustom": true,
+						"customStyle": {
+							"hover": {
+								"background": {
+									"color": "var(--secondary-100)",
+									"fillType": "fill"
+								},
+								"border": {
+									"type": "solid",
+									"width": "undefinedpx"
+								},
+								"text": {
+									"size": "14px"
+								},
+								"borderRadius": {
+									"unit": "px",
+									"number": [2, 2, 2, 2]
+								},
+								"iconProps": {
+									"color": "var(--dark-900)",
+									"size": 14
+								}
+							},
+							"regular": {
+								"background": {
+									"color": "rgba(0,0,0,0)",
+									"fillType": "fill"
+								},
+								"border": {
+									"type": "solid",
+									"color": "var(--light-400)",
+									"width": "0px"
+								},
+								"text": {
+									"color": "var(--dark-800)",
+									"size": "14px"
+								},
+								"borderRadius": {
+									"unit": "px",
+									"number": [2, 2, 2, 2]
+								},
+								"iconProps": {
+									"color": "var(--black)",
+									"size": 14
+								}
+							}
+						}
+					}
+				}
+			},
+			"widget_56": {
+				"uri": "widgets/common/button/",
+				"config": {
+					"functionConfig": {
+						"text": "",
+						"textExpression": null,
+						"icon": {
+							"data": "<svg viewBox= \"0 0 16 16 \" xmlns= \"http://www.w3.org/2000/svg \"><path d= \"M8 15A7 7 0 108 1a7 7 0 000 14zm0 1A8 8 0 118 0a8 8 0 010 16zm2.544-8L6.455 4.986v6.028L10.545 8zm.556.802l-4.09 3.014a.937.937 0 01-1.332-.229 1.008 1.008 0 01-.178-.573V4.986c0-.545.428-.986.955-.986.2 0 .394.064.556.184L11.1 7.198a1.006 1.006 0 010 1.604z \" fill= \"currentColor \" fill-rule= \"nonzero \"></path></svg>",
+							"position": "LEFT"
+						}
+					},
+					"styleConfig": {
+						"useCustom": true,
+						"customStyle": {
+							"hover": {
+								"background": {
+									"color": "var(--secondary-100)",
+									"fillType": "fill"
+								},
+								"border": {
+									"type": "solid",
+									"width": "undefinedpx"
+								},
+								"text": {
+									"size": "14px"
+								},
+								"borderRadius": {
+									"unit": "px",
+									"number": [2, 2, 2, 2]
+								},
+								"iconProps": {
+									"color": "var(--dark-900)",
+									"size": 14
+								}
+							},
+							"regular": {
+								"background": {
+									"color": "rgba(0,0,0,0)",
+									"fillType": "fill"
+								},
+								"border": {
+									"type": "solid",
+									"color": "var(--light-400)",
+									"width": "0px"
+								},
+								"text": {
+									"color": "var(--dark-800)",
+									"size": "14px"
+								},
+								"borderRadius": {
+									"unit": "px",
+									"number": [2, 2, 2, 2]
+								},
+								"iconProps": {
+									"color": "var(--black)",
+									"size": 14
+								}
+							}
+						}
+					}
+				}
+			},
+			"widget_57": {
+				"uri": "widgets/common/button/",
+				"config": {
+					"functionConfig": {
+						"text": "",
+						"textExpression": null,
+						"icon": {
+							"data": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"11\" viewBox=\"0 0 32 11\"><path d=\"M4 8.5c-1.7 0-3-1.3-3-3s1.3-3 3-3s3 1.3 3 3S5.7 8.5 4 8.5z M16 8.5c-1.7 0-3-1.3-3-3s1.3-3 3-3s3 1.3 3 3S17.7 8.5 16 8.5z M28 8.5c-1.7 0-3-1.3-3-3s1.3-3 3-3s3 1.3 3 3S29.7 8.5 28 8.5z\"/></svg>",
+							"position": "LEFT"
+						}
+					},
+					"styleConfig": {
+						"useCustom": true,
+						"customStyle": {
+							"hover": {
+								"background": {
+									"color": "var(--secondary-100)",
+									"fillType": "fill"
+								},
+								"border": {
+									"type": "solid",
+									"width": "undefinedpx"
+								},
+								"text": {
+									"size": "14px"
+								},
+								"borderRadius": {
+									"unit": "px",
+									"number": [2, 2, 2, 2]
+								},
+								"iconProps": {
+									"color": "var(--dark-900)",
+									"size": 14
+								}
+							},
+							"regular": {
+								"background": {
+									"color": "rgba(0,0,0,0)",
+									"fillType": "fill"
+								},
+								"border": {
+									"type": "solid",
+									"color": "var(--light-400)",
+									"width": "0px"
+								},
+								"text": {
+									"color": "var(--dark-800)",
+									"size": "14px"
+								},
+								"borderRadius": {
+									"unit": "px",
+									"number": [2, 2, 2, 2]
+								},
+								"iconProps": {
+									"color": "var(--black)",
+									"size": 14
+								}
+							}
+						}
+					}
+				}
+			},
+			"widget_58": {
+				"uri": "widgets/common/button/",
+				"config": {
+					"functionConfig": {
+						"text": "",
+						"textExpression": null,
+						"icon": {
+							"data": "<svg viewBox= \"0 0 16 16 \" xmlns= \"http://www.w3.org/2000/svg \"><path d= \"M8 7a3 3 0 100-6 3 3 0 000 6zm0 1a4 4 0 110-8 4 4 0 010 8zm1 2H7a6.002 6.002 0 00-5.917 5h13.834A6.002 6.002 0 009 10zM7 9h2a7 7 0 017 7H0a7 7 0 017-7zm.646 3.721l1.768-1.767a.5.5 0 11.707.707l-2.475 2.475-1.767-1.768a.5.5 0 01.707-.707l1.06 1.06z \" fill= \"currentColor \" fill-rule= \"nonzero \"></path></svg>",
+							"position": "LEFT"
+						}
+					},
+					"styleConfig": {
+						"useCustom": true,
+						"customStyle": {
+							"hover": {
+								"background": {
+									"color": "var(--secondary-100)",
+									"fillType": "fill"
+								},
+								"border": {
+									"type": "solid",
+									"width": "undefinedpx"
+								},
+								"text": {
+									"size": "14px"
+								},
+								"borderRadius": {
+									"unit": "px",
+									"number": [2, 2, 2, 2]
+								},
+								"iconProps": {
+									"color": "var(--dark-900)",
+									"size": 14
+								}
+							},
+							"regular": {
+								"background": {
+									"color": "rgba(0,0,0,0)",
+									"fillType": "fill"
+								},
+								"border": {
+									"type": "solid",
+									"color": "var(--light-400)",
+									"width": "0px"
+								},
+								"text": {
+									"color": "var(--dark-800)",
+									"size": "14px"
+								},
+								"borderRadius": {
+									"unit": "px",
+									"number": [2, 2, 2, 2]
+								},
+								"iconProps": {
+									"color": "var(--black)",
+									"size": 14
+								}
+							}
+						}
+					}
+				}
+			}
+		},
+		"views": {},
+		"sections": {}
+	}
+}

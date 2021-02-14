@@ -1,0 +1,22 @@
+define({
+  back: 'Wstecz',
+  createFailedWarning: 'Nie udało się utworzyć danych!',
+  noSupportedDataSource: 'Brak obsługiwanych danych.',
+  noUsedFieldToMap: 'Nie trzeba przyporządkowywać żadnych z używanych pól.',
+  noChildDssToMap: 'Nie trzeba przyporządkowywać żadnych danych podrzędnych.',
+  inUse: 'W użyciu',
+  noRelatedWidget: 'Brak powiązanego widżetu',
+  noUsedField: 'Brak używanego pola',
+  noLayer: 'Brak warstwy',
+  noDataNotice: 'Brak danych w tym środowisku.<br/>Dodaj dane.',
+  dataViews: 'Widoki danych',
+  originalDsLabel: 'Źródło',
+  autoRefresh: 'Automatyczne odświeżanie',
+  updateMinutesAgo: 'Ostatnia aktualizacja: {minutes} min. temu',
+  updateOneMinuteAgo: 'Ostatnia aktualizacja: minutę temu',
+  updateSecondsAgo: 'Ostatnia aktualizacja: kilka sekund temu',
+  refreshSetting: 'Ustawienia odświeżania',
+  interval: 'Przedział',
+  honorLayer: 'Uwzględniaj ustawienia warstwy',
+  minutes: 'minut(y)'
+});

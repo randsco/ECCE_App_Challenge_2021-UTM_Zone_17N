@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
+    <title>pad</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-364.000000, -443.000000)" id="pad">
+            <g transform="translate(364.000000, 443.000000)">
+                <path d="M13,-3.061617e-16 C13.5522847,-3.061617e-16 14,0.44771525 14,1 L14,15 C14,15.5522847 13.5522847,16 13,16 L3,16 C2.44771525,16 2,15.5522847 2,15 L2,1 C2,0.44771525 2.44771525,-3.061617e-16 3,-3.061617e-16 L13,-3.061617e-16 Z M8,14 C7.72385763,14 7.5,14.2238576 7.5,14.5 C7.5,14.7761424 7.72385763,15 8,15 C8.27614237,15 8.5,14.7761424 8.5,14.5 C8.5,14.2238576 8.27614237,14 8,14 Z M12.5,1.5 L3.5,1.5 L3.499,13 L12.5,13 L12.5,1.5 Z" id="Combined-Shape" fill="#000000" fill-rule="nonzero"></path>
+                <rect id="Rectangle" x="0" y="0" width="16" height="16"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

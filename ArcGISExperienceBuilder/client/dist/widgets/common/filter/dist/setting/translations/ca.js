@@ -1,0 +1,22 @@
+define({
+  start: 'Principi',
+  selectTemplateTip: 'Seleccioneu una plantilla',
+  selectAnotherTemplateTip: 'Seleccioneu una altra plantilla',
+  filtersDesc: 'Afegiu filtres nous i personalitzeu les opcions.',
+  newFilter: 'Filtre nou',
+  setFilterItem: 'Crea un filtre nou',
+  sqlExpr: 'Expressions SQL',
+  sqlExprDesc: 'Afegiu expressions SQL al filtre.',
+  openFilterBuilder: 'Generador d\'expressions SQL',
+  setExprTips: 'Afegiu les expressions SQL primer.',
+  options: 'Opcions',
+  autoApplyWhenWidgetOpen: 'Aplica aquest filtre automàticament',
+  collapseFilterExprs: 'Redueix els detalls del filtre (si n\'hi ha) automàticament',
+  arrangeAndStyle: 'Estil de disposició',
+  activationMethods: 'Estil d\'activació',
+  toggleTooltip: 'Interruptor d\'activació i desactivació',
+  buttonTooltip: 'Botó',
+  omitInternalStyle: 'Exclou els estils d\'activació per a una clàusula',
+  omitInternalStyleTip: 'Si només hi ha una clàusula en cada filtre i sol·licita valors (o mostra una etiqueta), aquesta opció permet excloure els estils d\'activació (conjuntament amb l\'etiqueta i la icona), mostrar directament el contingut de la clàusula i aplicar-la de manera automàtica.',
+  wrapFilters: 'Ajusta els elements'
+});

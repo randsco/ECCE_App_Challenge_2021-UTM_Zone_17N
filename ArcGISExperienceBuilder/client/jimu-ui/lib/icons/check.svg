@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>check-16</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="$0-UI-icons" transform="translate(-42.000000, -545.000000)">
+            <g id="check-16" transform="translate(42.000000, 545.000000)">
+                <path d="M0.303614042,6.01636321 C0.708432766,5.60666823 1.3647736,5.60666823 1.76959232,6.01636321 L6.16752715,10.4672736 L14.2304077,2.30727124 C14.6352264,1.89757625 15.2915672,1.89757625 15.696386,2.30727124 C16.1012047,2.71696623 16.1012047,3.38121304 15.696386,3.79090803 L6.90051629,12.6927288 C6.49569757,13.1024237 5.83935674,13.1024237 5.43453801,12.6927288 C5.34550572,12.602624 3.63519773,10.8717144 0.303614042,7.5 C-0.101204681,7.09030501 -0.101204681,6.4260582 0.303614042,6.01636321 Z" id="Path" fill="#000000"></path>
+                <rect id="Rectangle" x="0" y="0" width="16" height="16"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

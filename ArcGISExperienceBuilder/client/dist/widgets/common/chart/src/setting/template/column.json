@@ -1,0 +1,9 @@
+{
+  "name": "column",
+  "type": "serial",
+  "series": [{
+    "type": "barSeries",
+    "rotated": false,
+    "multipleBarType": "sideBySide"
+  }]
+}

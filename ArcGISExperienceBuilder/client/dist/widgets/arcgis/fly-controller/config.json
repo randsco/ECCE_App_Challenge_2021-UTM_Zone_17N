@@ -1,0 +1,19 @@
+{
+  "useMapWidgetIds": [],
+  "itemsList": [{
+      "name": "ROTATE",
+      "isInUse": true,
+      "direction": "CCW"
+    }, {
+      "name": "PATH",
+      "isInUse": true,
+      "direction": "FORWARD",
+      "style": "CURVED"
+    }, {
+      "name": "RECORD",
+      "isInUse": false,
+      "records": []
+    }
+  ],
+  "layout": "HORIZONTAL"
+}

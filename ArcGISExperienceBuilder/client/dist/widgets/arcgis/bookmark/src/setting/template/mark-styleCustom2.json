@@ -1,0 +1,144 @@
+{
+  "widgetId": "widget_x",
+  "config": {
+		"layouts": {
+			"layout_79": {
+				"type": "FIXED",
+				"content": {
+					"0":{
+						"type":"WIDGET",
+						"bbox":{
+							"left":0,
+							"right":0,
+							"top":0,
+							"bottom":"19.9574%",
+							"width":"100.0000%",
+							"height":"80.0426%"
+						},
+						"widgetId":"widget_2",
+						"setting":{}
+					},
+					"1":{
+						"type":"WIDGET",
+						"bbox":{
+							"left":"3.5000%",
+							"right":"3.5000%",
+							"top":"85.3310%",
+							"bottom":0,
+							"width":"93.0000%",
+							"height":"13.9141%"
+						},
+						"widgetId":"widget_3",
+						"setting":{
+							"vCenter":false,
+							"hCenter":false
+						},
+						"isPending":false
+					},
+					"2":{
+						"type":"WIDGET",
+						"bbox":{
+							"left":"66.3645%",
+							"right":"4.2824%",
+							"top":"76.2567%",
+							"bottom":"16.6765%",
+							"width":"29.3531%",
+							"height":"7.8668%"
+						},
+						"widgetId":"widget_4",
+						"setting":{
+							"vCenter":false,
+							"hCenter":false
+						},
+						"isPending":false
+					}
+				},
+				"order": ["0", "1", "2"],
+				"label": "Regular"
+			}
+		},
+    "widgets": {
+		"widget_x": {
+			"config": {
+				"templateType": "CUSTOM2",
+				"isTemplateConfirm": false,
+				"isInitialed": false,
+				"bookmarks": [],
+				"runtimeAddAllow": false,
+				"autoPlayAllow": false,
+				"autoInterval": 3,
+				"direction": "HORIZON",
+				"pageStyle": "PAGING",
+				"space": 10,
+				"scrollBarOpen": true,
+				"navigatorOpen": false,
+				"transition": "None",
+				"displayType": "SELECTED",
+				"runtimeUuid": "",
+				"itemHeight": 240,
+				"itemWidth": 240
+			},
+			"layouts": {
+				"REGULAR": {
+					"LARGE": "layout_79"
+				}
+			}
+		},
+		"widget_2":{
+            "uri":"widgets/common/image/",
+            "config":{
+                "functionConfig":{
+                    "altText":"",
+                    "toolTip":"",
+                    "linkParam":{
+                    },
+                    "scale":"Fit",
+                    "imageParam":{
+                    }
+                },
+                "styleConfig":{
+                }
+            }
+		},
+		"widget_3":{
+            "uri":"widgets/common/text/",
+            "config":{
+                "text":"",
+                "placeholder":"<p><span style=\"font-size: 16px;\">${textPlaceholder}</span></p>",
+                "style":{
+                    "verticalAlign":"start",
+                    "wrap":true
+                }
+            }
+		},
+		"widget_4":{
+            "uri":"widgets/common/button/",
+            "config":{
+                "functionConfig":{
+                },
+                "styleConfig":{
+                    "themeStyle":{
+                        "quickStyleType":"primary"
+                    },
+                    "useCustom":false,
+                    "customStyle":{
+                        "regular":{
+                            "iconProps":{
+                                "color":"#fff",
+                                "size":14
+                            }
+                        },
+                        "hover":{
+                            "iconProps":{
+                                "size":14
+                            }
+                        }
+                    }
+                }
+            }
+        }
+	},
+	"views": {},
+	"sections": {}
+  }
+}

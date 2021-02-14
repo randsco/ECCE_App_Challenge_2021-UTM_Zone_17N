@@ -1,0 +1,22 @@
+define({
+  back: 'Atpakaļ',
+  createFailedWarning: 'Neizdevās izveidot datus!',
+  noSupportedDataSource: 'Nav pieejami atbalstītie dati.',
+  noUsedFieldToMap: 'Izmantojamie lauki nav jākartē',
+  noChildDssToMap: 'Apakšelementu datu lauki nav jākartē.',
+  inUse: 'Tiek izmantots',
+  noRelatedWidget: 'Nav neviena saistītā logrīka',
+  noUsedField: 'Nav neviena izmantota lauka',
+  noLayer: 'Nav neviena slāņa',
+  noDataNotice: 'Experience lietotnē nav nekādu datu.<br/>Lūdzu, pievienojiet savus datus.',
+  dataViews: 'Datu skatījumi',
+  originalDsLabel: 'Avots',
+  autoRefresh: 'Automātiskā atsvaidzināšana',
+  updateMinutesAgo: 'Pēdējā atjaunināšana: pirms {minutes} minūtēm',
+  updateOneMinuteAgo: 'Pēdējā atjaunināšana: pirms vienas minūtes',
+  updateSecondsAgo: 'Pēdējā atjaunināšana: pirms dažām sekundēm',
+  refreshSetting: 'Iestatījumu atsvaidzināšana',
+  interval: 'Intervāls',
+  honorLayer: 'Ievērojiet slāņa iestatījumus',
+  minutes: 'minūtes'
+});

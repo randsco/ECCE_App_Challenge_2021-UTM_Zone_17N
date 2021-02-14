@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>add-16</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="0-UI-icons" transform="translate(-292.000000, -539.000000)" fill="#000000">
+            <path d="M300,539 C300.414214,539 300.75,539.335786 300.75,539.75 L300.75,546.25 L307.25,546.25 C307.664214,546.25 308,546.585786 308,547 C308,547.414214 307.664214,547.75 307.25,547.75 L300.75,547.75 L300.75,554.25 C300.75,554.664214 300.414214,555 300,555 C299.585786,555 299.25,554.664214 299.25,554.25 L299.25,547.75 L292.75,547.75 C292.335786,547.75 292,547.414214 292,547 C292,546.585786 292.335786,546.25 292.75,546.25 L299.25,546.25 L299.25,539.75 C299.25,539.335786 299.585786,539 300,539 Z" id="add-16"></path>
+        </g>
+    </g>
+</svg>

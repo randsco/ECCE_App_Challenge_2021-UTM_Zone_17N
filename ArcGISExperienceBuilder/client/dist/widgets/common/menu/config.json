@@ -1,0 +1,13 @@
+{
+  "type": "nav",
+  "menuStyle": "default",
+  "vertical": false,
+  "advanced": false,
+  "standard" : {
+    "textAlign": "center",
+    "gap": "0px",
+    "showText": true,
+    "showIcon": false,
+    "iconPosition": "start"
+  }
+}

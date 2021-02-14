@@ -1,0 +1,11 @@
+{
+  "groupByLayer": false,
+  "logicalOperator": "AND",
+  "custom": false,
+  "resetAll": false,
+  "turnOffAll": false,
+  "arrangeType": "BLOCK",
+  "triggerType": "TOGGLE",
+  "omitInternalStyle": false,
+  "filterItems": []
+}

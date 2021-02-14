@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>direction-left</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="0-UI-icons" transform="translate(-1262.000000, -493.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M1276,501 C1276,501.291127 1275.76897,501.527132 1275.48398,501.527132 L1265.97555,501.527132 L1269.47324,505.100129 C1269.67476,505.305987 1269.67476,505.639748 1269.47324,505.845606 C1269.27172,506.051465 1268.94499,506.051465 1268.74347,505.845606 L1264,501 L1268.74347,496.154394 C1268.94499,495.948535 1269.27172,495.948535 1269.47324,496.154394 C1269.67476,496.360252 1269.67476,496.694013 1269.47324,496.899871 L1265.97555,500.472868 L1275.48398,500.472868 C1275.76897,500.472868 1276,500.708873 1276,501 Z" id="direction-left"></path>
+        </g>
+    </g>
+</svg>

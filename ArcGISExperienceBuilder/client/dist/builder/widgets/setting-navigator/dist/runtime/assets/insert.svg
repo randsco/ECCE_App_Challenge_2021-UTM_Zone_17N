@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="0-UI-icons" transform="translate(-40.000000, -919.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M50,919 C51.1045695,919 52,919.895431 52,921 L52,927 L58,927 C59.1045695,927 60,927.895431 60,929 C60,930.104569 59.1045695,931 58,931 L52,931 L52,937 C52,938.104569 51.1045695,939 50,939 C48.8954305,939 48,938.104569 48,937 L48,931 L42,931 C40.8954305,931 40,930.104569 40,929 C40,927.895431 40.8954305,927 42,927 L48,927 L48,921 C48,919.895431 48.8954305,919 50,919 Z" id="insert"></path>
+        </g>
+    </g>
+</svg>

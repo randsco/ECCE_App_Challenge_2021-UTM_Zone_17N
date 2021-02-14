@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>star-outline</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="$0-UI-icons" transform="translate(-364.000000, -580.000000)">
+            <g id="star-outline" transform="translate(364.000000, 580.000000)">
+                <path d="M8,0.5 L10.3731078,5.56970167 L16,6.22949017 L11.8407017,10.0219084 L12.9442719,15.5 L8.00001941,12.7728337 L3.05572809,15.5 L4.15834754,10.0219084 L0,6.22949017 L5.6249518,5.56970167 L8,0.5 Z M9.70352436,6.49803985 L7.999,2.857 L6.2943421,6.49804013 L2.292,6.967 L5.25036038,9.66440527 L4.461,13.582 L8.0000213,11.6307997 L11.537,13.582 L10.7485926,9.6644058 L13.706,6.967 L9.70352436,6.49803985 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                <rect id="Rectangle" x="0" y="0" width="16" height="16"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
