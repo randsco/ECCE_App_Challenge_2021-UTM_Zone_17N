@@ -1,1 +1,0 @@
-define({notPublished:"To środowisko nie zostało jeszcze opublikowane. Najpierw musisz je opublikować."});

@@ -1,6 +1,0 @@
-{
-  "surveyItemId": "",
-  "portalUrl": "",
-  "embeds":["fullScreen", "onSubmitted"],
-  "hides":["navbar", "header", "description", "footer", "theme"]
-}

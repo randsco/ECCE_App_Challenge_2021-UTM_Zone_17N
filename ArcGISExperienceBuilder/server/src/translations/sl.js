@@ -1,1 +1,0 @@
-define({notPublished:"Ta spletna aplikacija še ni objavljena. Najprej jo objavite."});

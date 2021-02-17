@@ -1,1 +1,0 @@
-define({notPublished:"Pengalaman ini belum dipublikasikan. Publikasikan terlebih dahulu."});

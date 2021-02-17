@@ -1,1 +1,0 @@
-define({notPublished:"Ova iskustvo nije objavljeno još uvek. Objavite ga prvo."});
