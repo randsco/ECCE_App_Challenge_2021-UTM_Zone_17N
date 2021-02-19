@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define(["dojo/query","dojo/_base/array","dojo/_base/html","jimu/utils","../ItemNode"],function(e,f,b,d,g){return{a11y_initFocusNodes:function(){var a=this._getFocusableNodes();a&&a.length&&(this._508_FIRST_FOCUS_NODE=a[0],d.initFirstFocusNode(this.domNode,this._508_FIRST_FOCUS_NODE),0<a.length&&d.initLastFocusNode(this.domNode,a[a.length-1]))},a11y_focusAfterDelete:function(a){a&&a.itemNode&&a.itemNode.domNode?g.focusItem(a):this._508_FIRST_FOCUS_NODE.focus()},_getFocusableNodes:function(){var a=
+e('[tabindex $\x3d"0"]',this.domNode);return a=f.filter(a,function(c){return!b.hasClass(c,"dijitInputInner")&&(b.hasClass(c,"delete-btn")||"none"!==b.getStyle(c,"display"))},this)}}});

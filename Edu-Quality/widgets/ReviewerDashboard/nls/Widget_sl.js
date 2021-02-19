@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/ReviewerDashboard/nls/strings":{_widgetLabel:"Nadzorna plo\u0161\u010da recenzenta",spatialFilterSelection:"Filtriraj rezultate po prostoru",drawSelectionArea:"Prika\u017eite izbrano obmo\u010dje rezulatov na karti",currentSelection:"Poka\u017ei rezultate samo na trenutnem obsegu karte",censusBlockGroup:"Poka\u017ei rezultate po prostoru",noSpatialFilter:" Ne uporabi prostorskega filtra",reviewerSessionFilter:"Filtriraj rezultate po seji recenzenta",selectAttributeFilters:"Izberite podatke za prikaz",
+phaseFieldName:"faza \u017eivljenjskega cikla",statusFieldName:"status \u017eivljenjskega cikla",allSessions:"Vse seje",dashboardTab:"Nadzorna plo\u0161\u010da",filtersTab:"Nastavitve",noResults:"Ni najdenih rezultatov",resultsBy:"Rezultati po: ",reviewed:"Pregled",corrected:"Popravki",verified:"Potrjevanje",OtherCategory:"Drugo",backButton:"Nazaj",_localized:{}}});

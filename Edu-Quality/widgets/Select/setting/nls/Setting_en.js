@@ -1,0 +1,4 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/Select/setting/nls/strings":{setSelectionColor:"Set the selection color",selectionMode:"Interactive selection mode",partiallyWithin:"Partially within",whollyWithin:"Wholly within",allowExport:"Allow exporting selected features",layerToSelect:"Choose which layers are available to select",includeRuntimeLayers:"Allow selecting layers generated at runtime",enableByDefault:"Enable the select button by default",_localized:{}}});

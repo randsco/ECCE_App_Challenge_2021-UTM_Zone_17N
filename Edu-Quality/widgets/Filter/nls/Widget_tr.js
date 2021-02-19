@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/Filter/nls/strings":{_widgetLabel:"Filtre",toggleTip:"Filtre ayarlar\u0131n\u0131 g\u00f6stermek/gizlemek i\u00e7in t\u0131klay\u0131n",toggleOn:"Ge\u00e7erli filtreyi etkinle\u015ftirmek i\u00e7in ge\u00e7i\u015f d\u00fc\u011fmesine bas\u0131n",toggleOff:"Ge\u00e7erli filtreyi kapatmak i\u00e7in ge\u00e7i\u015f d\u00fc\u011fmesine bas\u0131n",filterActions:"Filtre i\u015flemleri",resetAll:"Filtreleri s\u0131f\u0131rla (\u00f6zel olanlar hari\u00e7)",turnOffAll:"Filtreleri kapat (\u00f6zel olanlar hari\u00e7)",
+resetAllForNoCustom:"Filtreleri s\u0131f\u0131rla",turnOffAllForNoCustom:"Filtreleri kapat",createCustomFilter:"\u00d6zel bir filtre olu\u015ftur",customFilter:"\u00d6zel filtre",toggleCustomFilter:"T\u00fcm filtreleri a\u00e7 veya kapat",toggleCustomFilters:"T\u00fcm filtreleri a\u00e7 veya kapat",_localized:{}}});

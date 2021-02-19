@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/ObliqueViewer/nls/strings":{_widgetLabel:"Penampil Oblique",locateButtonLabel:"Pilih satu titik pada peta utama untuk melihat oblique images.",clearButtonLabel:"Kosongkan semua grafik",zoomButtonLabel:"Perbesar pada jangkauan oblique image",syncButtonLabel:"Sinkronkan peta nadir",rasterListLabel:"Lihat oblique imagery yang ada",measureWidgetLabel:"Ukur opsi",intialScaleLabel:"Pilih skala awal untuk oblique imagery",smallBuildingLabel:"Area Urban: Bangunan Kecil",buildingLabel:"Area Urban: Bangunan",
+azimuthChangeNotification:"Tidak ada data pada arah yang dipilih.",noImageNotification:"Tidak ada citra ditemukan di area ini. Harap pilih lokasi lain di peta utama.",_localized:{}}});

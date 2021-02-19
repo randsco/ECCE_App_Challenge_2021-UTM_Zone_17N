@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/ReportFeature/setting/nls/strings":{drsUrl:"URL Data Reviewer servera",includeReportedBy:"Reviewer technik",label:"Vrstva",show:"Obsahuje",alias:"Alias",warning:"Nespr\u00e1vny vstup",defaultSessionId:"Predvolen\u00e1 rel\u00e1cia",setSource:"Nastavi\u0165",getCurrentUser:"Prihl\u00e1sen\u00e9 pou\u017e\u00edvate\u013esk\u00e9 meno",getDefaultUser:"Zada\u0165 predvolen\u00fa hodnotu",getUser:"Povoli\u0165 pou\u017e\u00edvate\u013esk\u00fd vstup",userName:"Zada\u0165 pou\u017e\u00edvate\u013esk\u00e9 meno",
+noUserName:"Pros\u00edm zadajte predvolen\u00e9 pou\u017e\u00edvate\u013esk\u00e9 meno.",noLayers:"Vo webovej mape nie s\u00fa \u017eiadne opera\u010dn\u00e9 vrstvy.",noSessionName:"Pros\u00edm zvo\u013ete rel\u00e1ciu",revTechName:"Meno reviewer technika",_localized:{}}});

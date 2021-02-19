@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/AddData/setting/nls/strings":{numPerPage:"Nombre d'elements per p\u00e0gina",scopeOptions:{defaultScope:"\u00c0mbit de cerca per defecte",labelPlaceholder:"Etiqueta opcional",MyContent:"Permet el meu contingut",MyOrganization:"Permet la meva organitzaci\u00f3",ArcGISOnline:"Permet l'ArcGIS Online",Curated:"Permet depurat",CuratedFilter:"Filtre depurat",livingAtlasExample:"Exemple de Living Atlas:"},addFromUrl:{caption:"Permet la URL"},addFromFile:{caption:"Permet el fitxer",maxRecordCount:"Registres m\u00e0xims per fitxer"},
+_default:"Per defecte",makeDefault:"Defineix-lo per defecte",_localized:{}}});

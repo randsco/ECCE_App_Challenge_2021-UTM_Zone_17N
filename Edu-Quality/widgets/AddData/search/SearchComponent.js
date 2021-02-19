@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define(["dojo/_base/declare","dijit/_WidgetBase","dijit/_TemplatedMixin","dijit/_WidgetsInTemplateMixin"],function(a,b,c,d){return a([b,c,d],{isSearchComponent:!0,searchPane:null,template:"\x3cdiv\x3e\x3c/div\x3e",postCreate:function(){this.inherited(arguments)},appendQueryParams:function(e,f){},processResults:function(e){},getConfig:function(){return this.searchPane&&this.searchPane.wabWidget&&this.searchPane.wabWidget.config?this.searchPane.wabWidget.config:{}},getMap:function(){return this.searchPane&&
+this.searchPane.wabWidget?this.searchPane.wabWidget.map:null},search:function(){this.searchPane&&this.searchPane.search()}})});

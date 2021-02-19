@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/ObliqueViewer/nls/strings":{_widgetLabel:"Zobrazova\u010d \u0161ikm\u00fdch sn\u00edmok",locateButtonLabel:"Zvoli\u0165 bod na mape na zobrazenie \u0161ikm\u00fdch sn\u00edmok.",clearButtonLabel:"Vymaza\u0165 v\u0161etky grafiky",zoomButtonLabel:"Pribl\u00ed\u017ei\u0165 na rozsah \u0161\u00edkmej sn\u00edmky",syncButtonLabel:"Synchronizova\u0165 nadir mapy",rasterListLabel:"Zobrazi\u0165 dostupn\u00e9 \u0161ikm\u00e9 sn\u00edmky",measureWidgetLabel:"Mo\u017enosti merania",intialScaleLabel:"Zvoli\u0165 po\u010diato\u010dn\u00fa mierku pre \u0161ikm\u00e9 sn\u00edmky",
+smallBuildingLabel:"Mestsk\u00e1 oblas\u0165: Mal\u00e1 budova",buildingLabel:"Mestsk\u00e1 oblas\u0165: Budova",azimuthChangeNotification:"\u017diadne \u00fadaje v zvolenom smere.",noImageNotification:"\u017diadne sn\u00edmky neboli v tejto oblasti n\u00e1jden\u00e9. Pros\u00edm zvo\u013ete in\u00e9 umiestnenie na hlavnej mape.",_localized:{}}});

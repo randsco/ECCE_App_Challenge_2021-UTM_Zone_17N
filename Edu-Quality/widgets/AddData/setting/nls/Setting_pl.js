@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/AddData/setting/nls/strings":{numPerPage:"Liczba element\u00f3w na stronie",scopeOptions:{defaultScope:"Domy\u015blny zakres wyszukiwania",labelPlaceholder:"Opcjonalna etykieta",MyContent:"Zezwalaj na Moje zasoby",MyOrganization:"Zezwalaj na Moja instytucja",ArcGISOnline:"Zezwalaj na ArcGIS Online",Curated:"Zezwalaj na obs\u0142ugiwane",CuratedFilter:"Filtr obs\u0142ugiwanych",livingAtlasExample:"Przyk\u0142ad atlasu Living Atlas:"},addFromUrl:{caption:"Zezwalaj na adresy URL"},addFromFile:{caption:"Zezwalaj na pliki",
+maxRecordCount:"Maksymalna liczba rekord\u00f3w na plik"},_default:"Domy\u015blnie",makeDefault:"Ustaw jako domy\u015blne",_localized:{}}});

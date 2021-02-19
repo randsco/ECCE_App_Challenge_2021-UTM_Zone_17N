@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/Filter/nls/strings":{_widgetLabel:"Filtro",toggleTip:"Clique para exibir/ocultar defini\u00e7\u00f5es de filtro",toggleOn:"Premir o bot\u00e3o alternar para ativar o filtro atual",toggleOff:"Premir o bot\u00e3o alternar para desativar o filtro atual",filterActions:"A\u00e7\u00f5es dos filtros",resetAll:"Redefinir filtros (exceto personalizados)",turnOffAll:"Desativar filtros (exceto personalizados)",resetAllForNoCustom:"Redefinir filtros",turnOffAllForNoCustom:"Desativar filtros",
+createCustomFilter:"Criar filtro personalizado",customFilter:"Filtro personalizado",toggleCustomFilter:"Ativar ou desativar o filtro",toggleCustomFilters:"Ativar ou desativar todos os filtros",_localized:{}}});

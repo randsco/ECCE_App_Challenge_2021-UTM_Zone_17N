@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/LayerList/setting/nls/strings":{showLegend:"Poka\u017c legend\u0119",controlPopupMenuTitle:"Wybierz dzia\u0142ania, kt\u00f3re b\u0119d\u0105 wy\u015bwietlane w menu kontekstowym warstwy",zoomto:"Powi\u0119ksz do",transparency:"Przezroczysto\u015b\u0107",setVisibilityRange:"Skonfiguruj zakres widoczno\u015bci",controlPopup:"W\u0142\u0105cz/wy\u0142\u0105cz okno podr\u0119czne",moveUpAndDown:"Przenie\u015b do g\u00f3ry / Przenie\u015b w d\u00f3\u0142",attributeTable:"Wy\u015bwietl w tabeli atrybut\u00f3w",
+url:"Opis / Poka\u017c szczeg\u00f3\u0142y elementu / Pobierz",showHideLabels:"Poka\u017c / ukryj etykiety",expandAllLayers:"Rozwi\u0144 wszystkie warstwy",expandAllLayersByDefault:"Domy\u015blnie rozwi\u0144 wszystkie warstwy",layerSelectorTitle:"Wybierz warstwy, kt\u00f3re zostan\u0105 wymienione na li\u015bcie",showTitle:"Poka\u017c tytu\u0142",showBasemap:"Poka\u017c map\u0119 bazow\u0105",_localized:{}}});

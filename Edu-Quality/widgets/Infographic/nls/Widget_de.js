@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/Infographic/nls/strings":{_widgetLabel:"Infografik",noData:"Keine Daten",thousandAbbreviation:"k",millionAbbreviation:"M",billionAbbreviation:"G",legend:"Legende",dataLabels:"Datenbeschriftungen",horizontalAxis:"Horizontale Achse",verticalAxis:"Vertikale Achse",showPeriodsWithoutRecords:"Zeitr\u00e4ume ohne Datens\u00e4tze anzeigen",parsingperiodTip:"Konnte nicht berechnet werden. Zu viele Zeitintervalle aufgrund des kurzen Analysezeitraums.",manyCategoryTip:"Diagramm konnte nicht angezeigt werden. Zu viele Kategorien.",
+dataSource:"Datenquelle",fieldString:"Feld",dsErrorTipSuf:"ist nicht verf\u00fcgbar.",invalidRangeTip:"Ung\u00fcltiger Bereich.",_localized:{}}});

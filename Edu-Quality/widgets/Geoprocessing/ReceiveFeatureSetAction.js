@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define(["dojo/_base/declare","dojo/Deferred","jimu/BaseFeatureAction","jimu/WidgetManager","jimu/utils"],function(d,e,f,g,h){return d(f,{map:null,iconClass:"icon-set-as-input",constructor:function(){this.label+=this.appConfig.getConfigElementById(this.widgetId).label},isFeatureSupported:function(c){var a=this.appConfig.getConfigElementById(this.widgetId).config;return a&&a.inputParams&&0!==a.inputParams.length?0<a.inputParams.filter(function(b){return"GPFeatureRecordSetLayer"===b.dataType&&b.defaultValue&&
+h.getTypeByGeometryType(b.defaultValue.geometryType)===c.geometryType}).length:!1},onExecute:function(c,a){var b=new e;g.getInstance().triggerWidgetOpen(this.widgetId).then(function(k){k.useSelectionAsInput(c,a);b.resolve()});return b.promise}})});

@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/CoordinateConversion/setting/nls/strings":{scaleLabel:"Zoom-skala",locationSymbol:"Stedsymbol",locationSymbolHintText:"Tip: Symbol for aktuel koordinatposition",symbolPickerPreviewText:"Forh\u00e5ndsvisning:",warning:"V\u00e6lg Vis-indstillingen f\u00f8rst.",setDefaultFormatTitlePane:"Redig\u00e9r standardformat",showHeaderLabel:"Vis",indexHeaderLabel:"Indeks",notationHeaderLabel:"Notation",defaultFormatHeaderLabel:"Standardformat",editFormatHeaderLabel:"Redig\u00e9r format",errorMessage:"Symbolv\u00e6lgeren indeholder fejl, ret f\u00f8r den tages i brug.",
+posNegPrefixLabel:'Tilf\u00f8j "+/-" pr\u00e6fikset til positive og negative tal',inputNotation:"Input-notation",_localized:{}}});

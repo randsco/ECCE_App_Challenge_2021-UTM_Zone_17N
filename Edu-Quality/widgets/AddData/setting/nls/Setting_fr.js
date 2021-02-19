@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/AddData/setting/nls/strings":{numPerPage:"Nombre d'\u00e9l\u00e9ments par page",scopeOptions:{defaultScope:"Port\u00e9e de la recherche par d\u00e9faut",labelPlaceholder:"Etiquette facultative",MyContent:"Autoriser mon contenu",MyOrganization:"Autoriser mon organisation",ArcGISOnline:"Autoriser ArcGIS Online",Curated:"Autoriser les groupes",CuratedFilter:"Fichier de contenu organis\u00e9",livingAtlasExample:"Exemple de l'atlas dynamique\u00a0:"},addFromUrl:{caption:"Autoriser URL"},
+addFromFile:{caption:"Autoriser fichier",maxRecordCount:"Nombre maximal d\u2019enregistrements par fichier"},_default:"Par d\u00e9faut",makeDefault:"D\u00e9finir par d\u00e9faut",_localized:{}}});

@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/ObliqueViewer/setting/nls/strings":{layerSelect:"Pilih Layer",elevationFieldSelect:"Kolom Elevasi",azimuthFieldSelect:"Kolom Azimut",searchRadiusSelect:"Cari Radius",showThumbnailText:"Perlihatkan Thumbnails dalam Daftar Raster",rasterInfoFieldsSelect:"Pilih Kolom Info Daftar",fieldLimitText:"Maksimal 3 kolom dapat dipilih.",autoSyncText:"Sinkronkan Peta Utama",errorSectionMessage:"Tidak ada layer service citra muncul di peta yang dipilih. Harap pilih peta dengan layer service citra yang berisi citra menyerong (oblique).",
+distanceToolText:"Aktifkan alat jarak dan area",outOfRangeMessage:"Harap masukkan nilai antara 0 dan 100",decimalPlace:"tempat desimal",decimalPlaces:"tempat desimal",separator:"Gunakan Pemisah 1000",showTime:"Tampilkan waktu",_localized:{}}});

@@ -1,0 +1,51 @@
+[{
+    "ID": 1,
+    "Threat": "Small LPG Tank",
+    "LPG Mass": 20,
+    "Capacity_Unit": "LBS",
+    "Fireball_Dia": 40,
+    "Safe_Dist": 160,
+    "Icon_URL": "name.png",
+    "Unit": "Feet"
+  },
+  {
+    "ID": 2,
+    "Threat": "Large LPG Tank",
+    "LPG Mass": 100,
+    "Capacity_Unit": "LBS",
+    "Fireball_Dia": 69,
+    "Safe_Dist": 276,
+    "Icon_URL": "name.png",
+    "Unit": "Feet"
+  },
+  {
+    "ID": 3,
+    "Threat": "Commercial/Residential LPG Tank",
+    "LPG Mass": 2000,
+    "Capacity_Unit": "LBS",
+    "Fireball_Dia": 184,
+    "Safe_Dist": 736,
+    "Icon_URL": "name.png",
+    "Unit": "Feet"
+  },
+  {
+    "ID": 4,
+    "Threat": "Small LPG Truck",
+    "LPG Mass": 8000,
+    "Capacity_Unit": "LBS",
+    "Fireball_Dia": 292,
+    "Safe_Dist": 1168,
+    "Icon_URL": "name.png",
+    "Unit": "Feet"
+  },
+  {
+    "ID": 5,
+    "Threat": "Semi-Tanker LPG",
+    "LPG Mass": 40000,
+    "Capacity_Unit": "LBS",
+    "Fireball_Dia": 499,
+    "Safe_Dist": 1996,
+    "Icon_URL": "name.png",
+    "Unit": "Feet"
+  }
+]

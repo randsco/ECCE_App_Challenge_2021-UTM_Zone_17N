@@ -1,0 +1,6 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/DistrictLookup/nls/strings":{_widgetLabel:"Ter\u00fcleti keres\u00e9s",searchHeaderText:"C\u00edm keres\u00e9se vagy megad\u00e1sa a t\u00e9rk\u00e9pen",mouseOverTooltip:"Hely be\u00e1ll\u00edt\u00e1sa",informationTabTitle:"Inform\u00e1ci\u00f3",directionTabTitle:"\u00datvonal",invalidPortalUrlMsg:"\u00c9rv\u00e9nytelen URL a port\u00e1lhoz",invalidPolygonLayerMsg:"A polygonr\u00e9teg nincs megfelel\u0151en konfigur\u00e1lva",invalidRelatedPointLayerMsg:"A kapcsolt pontr\u00e9teg nincs megfelel\u0151en konfigur\u00e1lva",
+noPrecinctFoundMsg:"Ehhez a c\u00edmhez vagy helyhez nem tal\u00e1lhat\u00f3 polygon",noPollingPlaceFoundMsg:"Nem tal\u00e1lhat\u00f3 a polygonhoz t\u00e1rs\u00edtott pont",attachmentHeader:"Csatolm\u00e1nyok",failedToGenerateRouteMsg:"Nem siker\u00fclt az \u00fatvonal l\u00e9trehoz\u00e1sa.",allPopupsDisabledMsg:"A felugr\u00f3 ablakok nincsenek konfigur\u00e1lva, az eredm\u00e9nyek nem jelen\u00edthet\u0151k meg.",worldGeocoderName:"C\u00edm",searchLocationTitle:"Keresett hely",informationContentLabel:"Inform\u00e1ci\u00f3tartalom",
+_localized:{}}});

@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define(["dojo/_base/declare","dojo/_base/lang","dojo/on","./settingComponents","./SettingObject"],function(c,d,e,f,g){return c(g,{_inputControl:null,constructor:function(a,b,h,k){a=f.dropdownCtl(b,h,k);this._mainDiv=a.div;this._inputControl=a.ctl;this.own(e(this._inputControl,"change",d.hitch(this,this._onChange)))},setValue:function(a){this._inputControl&&this._inputControl.set("value",a)},getValue:function(){return this._inputControl?this._inputControl.get("value"):null},setConfig:function(){this._inputControl&&
+this._config&&this.setValue(this._config)},getConfig:function(a,b){this._inputControl&&(this._config=this.getValue())},_onChange:function(a){this._config=a}})});

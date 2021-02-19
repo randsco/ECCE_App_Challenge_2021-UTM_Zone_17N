@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/Summary/setting/nls/strings":{selectLayer:"Vybra\u0165 vrstvu zhrnutia",filterField:"St\u013apec filtrovania vrstvy zhrnutia",count:"COUNT",sum:"SUM",min:"MIN",max:"MAX",avg:"AVG",addField:"Prida\u0165 pole zhrnutia",label:"Ozna\u010denie",type:"Typ",field:"Pole",actions:"Akcie",displayCluster:"Zobrazi\u0165 ako zhluky zhrnutia",showFeatureCount:"Zobrazi\u0165 po\u010det prvkov",featureCountLabel:"Ozna\u010denie po\u010dtu prvkov",missingLayerInWebMap:"Pros\u00edm pridajte vrstvy zhrnutia do webovej mapy.",
+refreshInterval:"Interval obnovovania (min\u00faty)",_localized:{}}});

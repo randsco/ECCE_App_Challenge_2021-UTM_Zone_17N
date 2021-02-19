@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/LayerList/setting/nls/strings":{showLegend:"Legenda weergeven",controlPopupMenuTitle:"Kies welke acties worden weergegeven in het laagcontextmenu",zoomto:"Zoomen naar",transparency:"Transparant",setVisibilityRange:"Zichtbaarheidsbereik instellen",controlPopup:"Pop-up inschakelen / uitschakelen",moveUpAndDown:"Omhoog / omlaag",attributeTable:"Bekijken in Attribuuttabel",url:"Beschrijving / Itemdetails weergeven / Downloaden",showHideLabels:"Labels tonen/verbergen",expandAllLayers:"Alle lagen uitvouwen",
+expandAllLayersByDefault:"Standaard alle lagen uitvouwen",layerSelectorTitle:"Kies welke lagen worden weergegeven op de lijst",showTitle:"Titel weergeven",showBasemap:"Basiskaart weergeven",_localized:{}}});

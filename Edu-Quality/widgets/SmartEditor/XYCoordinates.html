@@ -1,0 +1,40 @@
+<div class="esriCTPopupContainer" data-dojo-attach-point="coordinatesPopup">
+    <div class="esriCTFieldDropdownContainer">
+        <div class="esriCTSelectTitle" title="${nls.coordinatesSelectTitle}">${nls.coordinatesSelectTitle}</div>
+        <div class="esriCTFieldInput" style="width: 100%;">
+            <select aria-label="${nls.coordinatesSelectTitle}" class="esriCTControlWidth" data-dojo-attach-point="coordinatesDropDown" data-dojo-type="dijit/form/Select">
+                <option value="Map Spatial Reference">${nls.mapSpecialReferenceDropdownOption}</option>
+                <option value="Latitude/Longitude">${nls.latLongDropdownOption}</option>
+                <option value="MGRS">${nls.mgrsDropdownOption}</option>
+            </select>
+        </div>
+    </div>
+    <div data-dojo-attach-point="xyOptions">
+    <div class="esriCTControlWidth">
+        <div class="esriCTSelectTitle" data-dojo-attach-point="xAttributeTextBoxLabel">${nls.xAttributeTextBoxLabel}</div>
+        <div>
+            <div aria-label="${nls.xAttributeTextBoxLabel}" class="esriCTControlWidth" data-dojo-attach-point="xAttributeTextBox"  constraints="{places:'0,10', round:-1}" data-dojo-type="dijit/form/NumberTextBox"
+                data-dojo-props="intermediateChanges:true" trim="true">
+            </div>
+        </div>
+    </div>
+    <div style="padding-bottom: 5px;">
+        <div for="yAttributeTextBox" class="esriCTSelectTitle" data-dojo-attach-point="yAttributeTextBoxLabel">${nls.yAttributeTextBoxLabel}</div>
+        <div class="esriCTControlWidth">
+            <div aria-label="${nls.yAttributeTextBoxLabel}" class="esriCTControlWidth" data-dojo-attach-point="yAttributeTextBox" constraints="{places:'0,10', round:-1}" data-dojo-type="dijit/form/NumberTextBox"
+                data-dojo-props="intermediateChanges:true" trim="true">
+            </div>
+        </div>
+    </div>
+    </div>
+    <div data-dojo-attach-point="mgrsOptions" class="esriCTHidden">
+        <div class="esriCTControlWidth">
+            <div class="esriCTSelectTitle">${nls.mgrsTextBoxLabel}</div>
+            <div>
+                <div aria-label="${nls.mgrsTextBoxLabel}" class="esriCTControlWidth" data-dojo-attach-point="mgrsTextBox"
+                    data-dojo-type="dijit/form/ValidationTextBox" data-dojo-props="intermediateChanges:false" trim="true">
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>

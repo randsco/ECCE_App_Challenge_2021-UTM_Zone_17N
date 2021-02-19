@@ -1,0 +1,6 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/PublicNotification/nls/strings":{_widgetLabel:"Notificaci\u00f3n p\u00fablica",groupingLabels:{searchHeaderText:"Seleccionar o buscar una entidad en el mapa",addresseeSource:"Capa destinataria",formatHeaderText:"Formato"},numAddresseesFound:"Se han encontrado ${count} destinatarias. \u00bfDesea continuar?",tooltips:{drawByPoint:"Haga clic en una ubicaci\u00f3n del mapa",drawByExtent:"Dibuje un recuadro alrededor del \u00e1rea de inter\u00e9s",invalidBufferDistance:"Introduzca un valor superior o igual a cero",
+printSuggestion:'Imprima con el ajuste "Tama\u00f1o real" de Adobe\u00ae Reader\u00ae',nothingConfigured:"No se ha configurado ninguna capa con elementos emergentes de plantillas de direcciones"},formats:{descriptionCSV:"Valores separados por comas",hintCSV:"Archivo de valores separados por comas",descriptionPDF:"Etiqueta en PDF ${heightLabelIn} x ${widthLabelIn} pulgadas; ${labelsPerPage} por p\u00e1gina",hintPDF:"p.\u00a0ej., Etiqueta Avery(r) ${averyPartNumber}"},reviewButtonLabel:"Revisi\u00f3n",
+reviewResults:{reviewResultsLabel:"Revisar resultados"},_localized:{}}});

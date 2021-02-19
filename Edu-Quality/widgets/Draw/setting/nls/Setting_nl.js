@@ -1,0 +1,6 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/Draw/setting/nls/strings":{addLocation:"Locatie-eenheid toevoegen",addDistance:"Lengte-eenheid toevoegen",addArea:"Oppervlakte-eenheid toevoegen",label:"Label",abbr:"Afkorting",conversion:"Conversie",actions:"Acties",areaUnits:"Oppervlakte-eenheden",distanceUnits:"Lengte-eenheden",kilometers:"Kilometer",miles:"Mijl",meters:"Meter",feet:"Voet",yards:"Yard",nauticalmiles:"Zeemijl",squareKilometers:"Vierkante kilometer",squareMiles:"Vierkante mijl",acres:"Acres",hectares:"Hectare",squareMeters:"Vierkante meter",
+squareFeet:"Vierkante voet",squareYards:"Vierkante yard",location:"Locaties",distance:"Afstanden",area:"Gebieden",kilometersAbbreviation:"km",milesAbbreviation:"mi",metersAbbreviation:"m",feetAbbreviation:"ft",yardsAbbreviation:"yd",nauticalmilesAbbreviation:"nm",squareKilometersAbbreviation:"sq km",squareMilesAbbreviation:"sq mi",acresAbbreviation:"ac",hectaresAbbreviation:"ha",squareMetersAbbreviation:"sq m",squareFeetAbbreviation:"sq ft",squareYardsAbbreviation:"yd\u00b2",defineUnits:"Bepaal de maateenheden.",
+operationalLayer:"Voeg de tekening toe als een operationele laag van de kaart.",_localized:{}}});

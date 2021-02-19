@@ -1,0 +1,9 @@
+//>>built
+/*
+ Chen, Yi-Cyuan 2015-2017
+ @license MIT
+*/
+(function(){var l="object"===typeof window?window:{};!l.JS_CRC_NO_NODE_JS&&"object"===typeof process&&process.versions&&process.versions.node&&(l=global);var u=!l.JS_CRC_NO_COMMON_JS&&"object"===typeof module&&module.exports,v="function"===typeof define&&define.amd,w=!l.JS_CRC_NO_ARRAY_BUFFER&&"undefined"!==typeof ArrayBuffer,f="0123456789abcdef".split(""),k=[{name:"crc32",polynom:3988292384,initValue:-1,bytes:4},{name:"crc16",polynom:40961,initValue:0,bytes:2},{name:"crc24",polynom:720895,initValue:1,
+bytes:3}],c,m,q;for(c=0;c<k.length;++c){var e=k[c];e.method=function(n){return function(a){var d=a,b="string"!==typeof d;b&&w&&d instanceof ArrayBuffer&&(d=new Uint8Array(d));a=n.initValue;var g,t=d.length,h=n.table;if(b)for(g=0;g<t;++g)a=h[(a^d[g])&255]^a>>>8;else for(g=0;g<t;++g)b=d.charCodeAt(g),128>b?a=h[(a^b)&255]^a>>>8:(2048>b?a=h[(a^(192|b>>6))&255]^a>>>8:(55296>b||57344<=b?a=h[(a^(224|b>>12))&255]^a>>>8:(b=65536+((b&1023)<<10|d.charCodeAt(++g)&1023),a=h[(a^(240|b>>18))&255]^a>>>8,a=h[(a^(128|
+b>>12&63))&255]^a>>>8),a=h[(a^(128|b>>6&63))&255]^a>>>8),a=h[(a^(128|b&63))&255]^a>>>8);a^=n.initValue;d="";3<n.bytes?d+=f[a>>28&15]+f[a>>24&15]+f[a>>20&15]+f[a>>16&15]:2<n.bytes&&(d+=f[a>>20&15]+f[a>>16&15]);return d+=f[a>>12&15]+f[a>>8&15]+f[a>>4&15]+f[a&15]}}(e);e.table=[];for(m=0;256>m;++m){var p=m;for(q=0;8>q;++q)p=p&1?e.polynom^p>>>1:p>>>1;e.table[m]=p>>>0}}var r={};for(c=0;c<k.length;++c)e=k[c],r[e.name]=e.method;if(u)module.exports=r;else{for(c=0;c<k.length;++c)e=k[c],l[e.name]=e.method;v&&
+define(function(){return r})}})();

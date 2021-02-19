@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/Scalebar/setting/nls/strings":{unit:"\u0648\u062d\u062f\u0629",style:"\u0646\u0645\u0637",dual:"\u062b\u0646\u0627\u0626\u064a",english:"\u0644\u063a\u0629 \u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629",metric:"\u0645\u062a\u0631\u064a",ruler:"\u0645\u0633\u0637\u0631\u0629",line:"\u062e\u0637",number:"\u0627\u0644\u0631\u0642\u0645",spinnerLabel:"\u062a\u0642\u0631\u064a\u0628 \u0631\u0642\u0645 \u0627\u0644\u0645\u0642\u064a\u0627\u0633 \u0625\u0644\u0649: ",decimalPlace:"\u0627\u0644\u0623\u0645\u0627\u0643\u0646 \u0627\u0644\u0639\u0634\u0631\u064a\u0629",
+separator:"\u0625\u0638\u0647\u0627\u0631 \u0623\u0644\u0641 \u0641\u0627\u0635\u0644",_localized:{}}});

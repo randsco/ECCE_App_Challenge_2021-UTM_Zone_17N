@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/LayerList/setting/nls/strings":{showLegend:"Afficher la l\u00e9gende",controlPopupMenuTitle:"Choisir les actions \u00e0 afficher dans le menu contextuel de la couche",zoomto:"Zoom",transparency:"Transparence",setVisibilityRange:"D\u00e9finir la plage de visibilit\u00e9",controlPopup:"Activer/D\u00e9sactiver la fen\u00eatre contextuelle",moveUpAndDown:"Remonter/Descendre",attributeTable:"Afficher dans la table attributaire",url:"Description/Afficher les d\u00e9tails des \u00e9l\u00e9ments/T\u00e9l\u00e9charger",
+showHideLabels:"Afficher/masquer les \u00e9tiquettes",expandAllLayers:"D\u00e9velopper toutes les couches",expandAllLayersByDefault:"D\u00e9velopper toutes les couches par d\u00e9faut",layerSelectorTitle:"Choisir les couches \u00e0 afficher dans la liste",showTitle:"Afficher le titre",showBasemap:"Afficher le fond de carte",_localized:{}}});

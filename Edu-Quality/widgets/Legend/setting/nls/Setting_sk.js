@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/Legend/setting/nls/strings":{left:"Zarovna\u0165 do\u013eava",right:"Zarovna\u0165 vpravo",arrangement:"Usporiadanie",autoUpdate:"Automatick\u00e1 aktualiz\u00e1cia",respectCurrentMapScale:"Re\u0161pektova\u0165 aktu\u00e1lnu mierku mapy",layerSelectorTitle:"Vybra\u0165, pre ktor\u00e9 vrstvy sa zobraz\u00ed legenda: ",showLegendsForLayers:"Zobrazi\u0165 legendu pre vrstvy:",showBasemapLegends:"Zobrazi\u0165 legendy z\u00e1kladn\u00fdch m\u00e1p",honorTheWebMapSetting:"Dodr\u017eiava\u0165 nastavenie webovej mapy",
+reset:"Obnovi\u0165",resetTip:"Obnovenie p\u00f4vodn\u00e9ho nastavenia webovej mapy",_localized:{}}});

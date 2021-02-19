@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/LayerList/setting/nls/strings":{showLegend:"Poka\u017ei legendo",controlPopupMenuTitle:"Izberi, katera dejanja bodo prikazana v priro\u010dnem meniju sloja",zoomto:"Pribli\u017eaj na",transparency:"Prosojnost",setVisibilityRange:"Nastavi razpon vidljivosti",controlPopup:"Omogo\u010di/onemogo\u010di pojavno okno",moveUpAndDown:"Premakni gor/premakni dol",attributeTable:"Poglej v atributni tabeli",url:"Opis/Poka\u017ei podrobnosti elementa/Prenos",showHideLabels:"Prika\u017ei/skrij oznake",
+expandAllLayers:"Raz\u0161iri vse sloje",expandAllLayersByDefault:"Privzeto raz\u0161iri vse sloje",layerSelectorTitle:"Izberite, kateri sloji bodo prikazani na seznamu",showTitle:"Prika\u017ei ime",showBasemap:"Prika\u017ei temeljno karto",_localized:{}}});

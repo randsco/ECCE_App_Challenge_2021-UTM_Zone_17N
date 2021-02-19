@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="8px" viewBox="0 0 12 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>chevron-up_hover</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Query" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons" transform="translate(-298.000000, -164.000000)" fill="#000000">
+            <g id="chevron-up_hover" transform="translate(304.000000, 167.500000) rotate(-90.000000) translate(-304.000000, -167.500000) translate(300.500000, 161.500000)">
+                <polygon id="Shape" points="1 0 -0.4 1.4 4.2 6 -0.4 10.6 1 12 7 6"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/LayerList/setting/nls/strings":{showLegend:"Prika\u017ei legendu",controlPopupMenuTitle:"Izaberite koje \u0107e se radnje prikazivati u izborniku konteksta sloja",zoomto:"Pove\u0107aj na",transparency:"Prozirnost",setVisibilityRange:"Postavi raspon vidljivosti",controlPopup:"Omogu\u0107i/onemogu\u0107i sko\u010dni prozor",moveUpAndDown:"Premjesti gore / Premjesti dolje",attributeTable:"Prika\u017ei u atributnoj tablici",url:"Opis / Prika\u017ei pojedinosti o stavci / Preuzimanje",
+showHideLabels:"Prika\u017ei/sakrij oznake",expandAllLayers:"Pro\u0161iri sve slojeve",expandAllLayersByDefault:"Pro\u0161iri sve slojeve prema zadanim postavkama",layerSelectorTitle:"Izaberite koji \u0107e se slojevi prikazati na popisu",showTitle:"Prika\u017ei naslov",showBasemap:"Prika\u017ei kartografsku podlogu",_localized:{}}});

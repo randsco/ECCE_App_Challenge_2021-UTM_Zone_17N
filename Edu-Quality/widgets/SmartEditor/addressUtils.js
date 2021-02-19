@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define(["dojo/_base/declare","dojo/_base/lang","dojo/Deferred","esri/tasks/locator","dijit/_WidgetBase"],function(d,c,e,f,g){return d([g],{_locatorInstance:null,postCreate:function(){this._initReverseGeocoder()},_initReverseGeocoder:function(){this.config.geocoderSettings&&this.config.geocoderSettings.url&&(this._locatorInstance=new f(this.config.geocoderSettings.url))},locateAddress:function(h){var a=new e;this._locatorInstance?this._locatorInstance.locationToAddress(h,100,c.hitch(this,function(b){b&&
+b.address&&(b=b.address);a&&a.resolve(b)}),c.hitch(this,function(){a.resolve({})})):a.resolve({});return a.promise}})});

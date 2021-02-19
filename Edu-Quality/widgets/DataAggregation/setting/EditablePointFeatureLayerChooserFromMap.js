@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define(["dojo/_base/declare","dojo/_base/lang","dojo/Deferred","jimu/dijit/LayerChooserFromMap","jimu/dijit/QueryableLayerChooserFromMap"],function(e,b,f,g,h){return e([h],{skipLayerIds:[],postMixInProperties:function(){this.inherited(arguments);this.filter=b.hitch(this,g.andCombineFilters([this.filter,b.hitch(this,this._customFilter)]))},_customFilter:function(d){var c=new f;d.isTable?c.resolve(!1):d.getLayerObject().then(b.hitch(this,function(a){c.resolve("Feature Layer"===a.type&&a.url&&a.isEditable&&
+a.isEditable()&&"esriGeometryPoint"===a.geometryType&&0>this.skipLayerIds.indexOf(a.id))}),b.hitch(this,function(a){console.error(a);c.resolve(!1)}));return c}})});

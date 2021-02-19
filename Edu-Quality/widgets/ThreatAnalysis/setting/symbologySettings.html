@@ -1,0 +1,76 @@
+<div>
+  <div>
+    <fieldset class="esriCTFieldSet">
+      <legend class="esriCTFieldSetLegend">${nls.chemicalThreatLegendLabel}</legend>
+      <!-- Mandatory Evacuation Distance DropDown -->
+      <div class="SettingsRow">
+        <div class="LabelSettingsRightButton SettingsButtonIcon Pointer" title="${nls.mandatoryButtonLabel}"
+          data-dojo-attach-point="mandatorySettingsButton"></div>
+        <div class="InputLabelSettings Ellipsis SubTitle" title="${nls.mandatoryLabel}">${nls.mandatoryLabel}</div>
+      </div>
+      <!-- Mandatory Evacuation Distance Color Pickers -->
+      <div class="container controlGroupHidden" data-dojo-attach-point="mandatoryContainer">
+        <div class="Ellipsis" title="${nls.outline}">${nls.outline}</div>
+        <div class="colorPicker Line" id="mandatoryOutlineColor" data-dojo-attach-point="mandatoryOutlineColorPicker">
+        </div>
+        <div class="Ellipsis" title="${nls.fill}">${nls.fill}</div>
+        <div class="colorPicker Fill" id="mandatoryFillColor" data-dojo-attach-point="mandatoryFillColorPicker"></div>
+      </div>
+
+      <!-- Safe Evacuation Distance DropDown -->
+      <div class="SettingsRow">
+        <div class="LabelSettingsRightButton SettingsButtonIcon Pointer" title="${nls.safeButtonLabel}"
+          data-dojo-attach-point="safeSettingsButton"></div>
+        <div class="InputLabelSettings Ellipsis SubTitle" title="${nls.safeLabel}">${nls.safeLabel}</div>
+      </div>
+
+      <!-- Safe Evacuation Distance -->
+      <div class="container controlGroupHidden" data-dojo-attach-point="safeContainer">
+        <div class="Ellipsis" title="${nls.outline}">${nls.outline}</div>
+        <div class="colorPicker Line" id="safeOutlineColor" data-dojo-attach-point="safeOutlineColorPicker"></div>
+        <div class="Ellipsis" title="${nls.fill}">${nls.fill}</div>
+        <div class="colorPicker Fill" id="safeFillColor" data-dojo-attach-point="safeFillColorPicker"></div>
+      </div>
+    </fieldset>
+  </div>
+  <div>
+    <fieldset class="esriCTFieldSet">
+      <legend class="esriCTFieldSetLegend">${nls.lpgThreatLegendLabel}</legend>
+      <!-- FireBall Diameter DropDown -->
+      <div class="SettingsRow">
+        <div class="LabelSettingsRightButton SettingsButtonIcon Pointer" title="${nls.fireballButtonLabel}"
+          data-dojo-attach-point="fireballDiaSettingsButton"></div>
+        <div class="InputLabelSettings Ellipsis SubTitle" title="${nls.fireBallDiameterLable}">
+          ${nls.fireBallDiameterLable}</div>
+      </div>
+
+      <!-- FireBall Diameter Color Pickers -->
+      <div class="container controlGroupHidden" data-dojo-attach-point="fireBallContainer">
+        <div class="Ellipsis" title="${nls.outline}">${nls.outline}</div>
+        <div class="colorPicker Line" id="fireballDiaOutlineColor"
+          data-dojo-attach-point="fireballDiaOutlineColorPicker"></div>
+        <div class="Ellipsis" title="${nls.fill}">${nls.fill}</div>
+        <div class="colorPicker Fill" id="fireballDiaFillColor" data-dojo-attach-point="fireballDiaFillColorPicker">
+        </div>
+      </div>
+
+      <!-- Safe Distance DropDown -->
+      <div class="SettingsRow">
+        <div class="LabelSettingsRightButton SettingsButtonIcon Pointer" title="${nls.safeDistanceButtonLabel}"
+          data-dojo-attach-point="safeDistanceSettingsButton"></div>
+        <div class="InputLabelSettings Ellipsis SubTitle" title="${nls.lpgSafeDistanceLable}">
+          ${nls.lpgSafeDistanceLable}</div>
+      </div>
+
+      <!-- Safe Distance Color Pickers-->
+      <div class="container controlGroupHidden" data-dojo-attach-point="safeDistanceContainer">
+        <div class="Ellipsis" title="${nls.outline}">${nls.outline}</div>
+        <div class="colorPicker Line" id="safeDistanceOutlineColor"
+          data-dojo-attach-point="safeDistanceOutlineColorPicker"></div>
+        <div class="Ellipsis" title="${nls.fill}">${nls.fill}</div>
+        <div class="colorPicker Fill" id="safeDistanceFillColor" data-dojo-attach-point="safeDistanceFillColorPicker">
+        </div>
+      </div>
+    </fieldset>
+  </div>
+</div>

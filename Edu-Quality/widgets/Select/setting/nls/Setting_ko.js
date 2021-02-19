@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/Select/setting/nls/strings":{setSelectionColor:"\uc120\ud0dd \uc0c9\uc0c1 \uc124\uc815",selectionMode:"\ub300\ud654\ud615 \uc120\ud0dd \ubaa8\ub4dc",partiallyWithin:"\ub0b4\ubd80\uc5d0 \ubd80\ubd84\uc801\uc73c\ub85c",whollyWithin:"\ubc94\uc704 \ub0b4 \uc804\uccb4\uc801\uc73c\ub85c",allowExport:"\uc120\ud0dd\ud55c \ud53c\ucc98 \ub0b4\ubcf4\ub0b4\uae30 \ud5c8\uc6a9",layerToSelect:"\uc120\ud0dd \uac00\ub2a5\ud55c \ub808\uc774\uc5b4 \uc120\ud0dd",includeRuntimeLayers:"\ub7f0\ud0c0\uc784\uc5d0 \uc0dd\uc131\ub41c \ub808\uc774\uc5b4 \uc120\ud0dd \ud5c8\uc6a9",
+enableByDefault:"\uae30\ubcf8 \uc124\uc815\uc5d0 \ub530\ub77c \uc120\ud0dd \ubc84\ud2bc \ud65c\uc131\ud654",_localized:{}}});

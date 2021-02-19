@@ -1,0 +1,84 @@
+<div class="pad-left-5 no-select">
+  <table class="page-table" cellpading="0">
+    <tbody>
+
+      <tr>
+        <td colspan="3" class="panel-title-td">
+          <div class="panel-title-text" tabindex="0" role="region"
+            aria-label="${nls.startPage.locationAndField} ${nls.startPage.locationAndFieldHint}">
+            ${nls.startPage.locationAndField}
+          </div>
+        </td>
+      </tr>
+      <tr class="bottom-border-bold task-instruction-row">
+        <td colspan="3" class="panel-title-hint-td">
+          <div class="instruction" data-dojo-attach-point="locationAndFieldHint">
+            ${nls.startPage.locationAndFieldHint}
+          </div>
+        </td>
+      </tr>
+
+      <tr class="task-instruction-row">
+        <td colspan="3" class="field-control-td">
+          <div class="panel-title-text">${nls.startPage.targetLayerLabel}</div>
+        </td>
+      </tr>
+
+      <tr class="bottom-border-bold task-instruction-row">
+        <td colspan="3" class="panel-title-hint-td">
+          <div class="esriCTTargetLayerParent">
+            <div class="esriCTTargetLayerSelector" aria-label="${nls.startPage.targetLayerLabel}" style="width: 100%;"
+              data-dojo-attach-point="targetLayerSelector" data-dojo-type="jimu/dijit/formSelect"></div>
+          </div>
+        </td>
+      </tr>
+
+      <tr class="task-row" data-dojo-attach-event="onClick:_locationMappingClick , onkeydown:_locationMappingClick"
+        tabindex="0" role="button" aria-label="${nls.mapping.locationMapping} ${nls.mapping.locationMappingHint}">
+        <td class="field-control-td">
+          <div class="task-text">${nls.mapping.locationMapping}</div>
+        </td>
+        <td class="width-15">
+          <div class="jimu-icon jimu-icon-error incomplete-mark" data-dojo-attach-point="locationMappingComplete" title="${nls.startPage.mappingErrorMsg}">
+          </div>
+        </td>
+        <td class="width-15">
+          <div class="next-arrow float-right next-arrow-img">
+          </div>
+        </td>
+      </tr>
+      <tr class="bottom-border task-instruction-row">
+        <td colspan="3" class="instruction-padding">
+          <div class="instruction">${nls.mapping.locationMappingHint}</div>
+        </td>
+      </tr>
+
+      <tr class="task-row" data-dojo-attach-point="fieldMappingRow" data-dojo-attach-event="onClick:_schemaMappingClick , onkeydown:_schemaMappingClick"
+        tabindex="0" role="button" aria-label="${nls.mapping.schemaMapping} ${nls.mapping.schemaMappingHint}">
+        <td class="field-control-td">
+          <div class="task-text">${nls.mapping.schemaMapping}</div>
+        </td>
+        <td class="width-15">
+          <div class="jimu-icon jimu-icon-error incomplete-mark" data-dojo-attach-point="fieldMappingComplete" title="${nls.startPage.mappingErrorMsg}">
+          </div>
+        </td>
+        <td class="width-15">
+          <div class="next-arrow float-right next-arrow-img"></div>
+        </td>
+      </tr>
+      <tr class="bottom-border pad-top-10 task-instruction-row">
+        <td colspan="3" class="instruction-padding">
+          <div class="instruction">${nls.mapping.schemaMappingHint}</div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="pad-top-10">
+    <div class="jimu-btn float-right display-none" data-dojo-attach-point="addToMapButton"
+      data-dojo-attach-event="onClick:_addToMapClick , onkeydown:_addToMapClick" tabindex="0" aria-label="${nls.buttons.addToMap}" role="button">
+      ${nls.buttons.addToMap}</div>
+    <div class="float-right bg-loading-img bg-loading pad-top-10 display-none" data-dojo-attach-point="progressNode">
+    </div>
+  </div>
+</div>

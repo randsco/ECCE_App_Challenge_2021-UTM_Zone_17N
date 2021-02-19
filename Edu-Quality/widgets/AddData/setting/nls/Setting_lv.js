@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/AddData/setting/nls/strings":{numPerPage:"Vien\u012bbu skaits katr\u0101 lap\u0101",scopeOptions:{defaultScope:"Noklus\u0113juma mekl\u0113\u0161anas tv\u0113rums",labelPlaceholder:"Kartes teksts p\u0113c izv\u0113les",MyContent:"At\u013caut Mans saturs",MyOrganization:"At\u013caut Mana organiz\u0101cija",ArcGISOnline:"At\u013caut\u00a0ArcGIS Online",Curated:"At\u013caut p\u0101rraudz\u012btu",CuratedFilter:"P\u0101rraudz\u012bts filtrs",livingAtlasExample:"Living Atlas piem\u0113rs:"},
+addFromUrl:{caption:"At\u013caut URL"},addFromFile:{caption:"At\u013caut failu",maxRecordCount:"Maksim\u0101lais ierakstu skaits fail\u0101"},_default:"Noklus\u0113jums",makeDefault:"Padar\u012bt par noklus\u0113jumu",_localized:{}}});

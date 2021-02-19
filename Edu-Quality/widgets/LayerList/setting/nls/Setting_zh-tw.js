@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/LayerList/setting/nls/strings":{showLegend:"\u986f\u793a\u5716\u4f8b",controlPopupMenuTitle:"\u9078\u64c7\u8981\u5728\u5716\u5c64\u5167\u5bb9\u529f\u80fd\u8868\u4e2d\u986f\u793a\u7684\u52d5\u4f5c",zoomto:"\u7e2e\u653e\u81f3",transparency:"\u900f\u660e\u5ea6",setVisibilityRange:"\u8a2d\u5b9a\u53ef\u898b\u7bc4\u570d",controlPopup:"\u555f\u7528/\u505c\u7528\u5feb\u986f\u8996\u7a97",moveUpAndDown:"\u4e0a\u79fb/\u4e0b\u79fb",attributeTable:"\u5c6c\u6027\u8868\u4e2d\u7684\u8996\u5716",
+url:"\u63cf\u8ff0/\u986f\u793a\u9805\u76ee\u8a73\u7d30\u8cc7\u8a0a/\u4e0b\u8f09",showHideLabels:"\u986f\u793a/\u96b1\u85cf\u6a19\u7c64",expandAllLayers:"\u5c55\u958b\u6240\u6709\u5716\u5c64",expandAllLayersByDefault:"\u9810\u8a2d\u6703\u5c55\u958b\u6240\u6709\u5716\u5c64",layerSelectorTitle:"\u9078\u64c7\u8981\u5728\u6e05\u55ae\u4e0a\u986f\u793a\u7684\u5716\u5c64",showTitle:"\u986f\u793a\u6a19\u984c",showBasemap:"\u986f\u793a\u5e95\u5716",_localized:{}}});

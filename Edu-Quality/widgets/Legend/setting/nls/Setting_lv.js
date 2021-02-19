@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/Legend/setting/nls/strings":{left:"Izl\u012bdzin\u0101t pa kreisi",right:"Izl\u012bdzin\u0101t pa labi",arrangement:"Izvietojums",autoUpdate:"Autom\u0101tiska atjaunin\u0101\u0161ana",respectCurrentMapScale:"Saglab\u0101t pa\u0161reiz\u0113jo kartes m\u0113rogu",layerSelectorTitle:"Izv\u0113lieties, kuros sl\u0101\u0146os r\u0101d\u012bt apz\u012bm\u0113jumus: ",showLegendsForLayers:"R\u0101d\u012bt apz\u012bm\u0113jumus sl\u0101\u0146iem:",showBasemapLegends:"Par\u0101d\u012bt pamatkartes apz\u012bm\u0113jumus",
+honorTheWebMapSetting:"Iev\u0113rot t\u012bmek\u013ca kartes iestat\u012bjumu",reset:"Atiestat\u012bt",resetTip:"Atiestat\u012bt t\u012bmek\u013ca kartes s\u0101kotn\u0113jo iestat\u012bjumu.",_localized:{}}});

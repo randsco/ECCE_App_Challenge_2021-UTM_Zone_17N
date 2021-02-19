@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/DistrictLookup/nls/strings":{_widgetLabel:"Poizvedba po okoli\u0161u",searchHeaderText:"I\u0161\u010di naslov ali lociraj na karti",mouseOverTooltip:"Nastavi lokacijo",informationTabTitle:"Informacije",directionTabTitle:"Navodila za pot",invalidPortalUrlMsg:"Neveljaven url portala",invalidPolygonLayerMsg:"Poligonski sloj ni pravilno konfiguriran",invalidRelatedPointLayerMsg:"Relacijski to\u010dkovni sloj ni pravilno konfiguriran",noPrecinctFoundMsg:"Za ta naslov ali lokacijo ni mogo\u010de najti poligona",
+noPollingPlaceFoundMsg:"Ni mogo\u010de najti to\u010dke, povezane s poligonom",attachmentHeader:"Priloge",failedToGenerateRouteMsg:"Poti ni mogo\u010de generirati.",allPopupsDisabledMsg:"Pojavna okna niso konfigurirana, rezultatov ni mogo\u010de prikazati.",worldGeocoderName:"Naslov",searchLocationTitle:"Iskane lokacije",informationContentLabel:"Informacije o vsebini",_localized:{}}});

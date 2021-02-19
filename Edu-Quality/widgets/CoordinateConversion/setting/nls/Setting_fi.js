@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/CoordinateConversion/setting/nls/strings":{scaleLabel:"Tarkennustaso",locationSymbol:"Sijainnin symboli",locationSymbolHintText:"Vihje: nykyisen koordinaattisijainnin symboli",symbolPickerPreviewText:"Esikatselu:",warning:"Valitse ensin N\u00e4yt\u00e4-vaihtoehto.",setDefaultFormatTitlePane:"Muokkaa oletusmuotoa",showHeaderLabel:"N\u00e4yt\u00e4",indexHeaderLabel:"Hakemisto",notationHeaderLabel:"Esitystapa",defaultFormatHeaderLabel:"Oletusmuoto",editFormatHeaderLabel:"Muokkaa muotoa",
+errorMessage:"Symbolivalitsin sis\u00e4lt\u00e4\u00e4 virheit\u00e4. Korjaa ennen k\u00e4ytt\u00f6\u00e4.",posNegPrefixLabel:"Lis\u00e4\u00e4 etuliite +/- positiivisiin ja negatiivisiin numeroihin",inputNotation:"L\u00e4ht\u00f6aineiston esitysmuoto",_localized:{}}});

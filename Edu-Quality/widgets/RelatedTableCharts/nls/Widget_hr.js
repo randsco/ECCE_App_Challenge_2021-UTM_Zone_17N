@@ -1,0 +1,4 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/RelatedTableCharts/nls/strings":{_widgetLabel:"Povezani grafikoni tablice",searchHeaderText:"Pretra\u017ei adresu ili prona\u0111i na karti",addressInfowindowTitle:"Pretra\u017eene lokacije",mouseOverTooltip:"Kliknite da biste vidjeli grafikon(e)",errMsgNoResultsFound:"Nema rezultata",errMsgNoFeaturesFound:"Nema geoobjekata",noChatsConfigured:"Nema dostupnih pretkonfiguriranih grafikona",locationButtonAriaLabel:"Odabir lokacije na karti",_localized:{}}});

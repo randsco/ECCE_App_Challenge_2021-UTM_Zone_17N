@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/AddData/setting/nls/strings":{numPerPage:"Elemek sz\u00e1ma oldalank\u00e9nt",scopeOptions:{defaultScope:"Alap\u00e9rtelmezett keres\u00e9si hat\u00f3k\u00f6r",labelPlaceholder:"Opcion\u00e1lis felirat",MyContent:"Saj\u00e1t tartalom enged\u00e9lyez\u00e9se",MyOrganization:"Saj\u00e1t szervezet enged\u00e9lyez\u00e9se",ArcGISOnline:"ArcGIS Online enged\u00e9lyez\u00e9se",Curated:"Adatfelel\u0151si tartalom enged\u00e9lyez\u00e9se",CuratedFilter:"\u00d6sszetett sz\u0171r\u00e9s",livingAtlasExample:"Living atlas p\u00e9lda:"},
+addFromUrl:{caption:"URL enged\u00e9lyez\u00e9se"},addFromFile:{caption:"F\u00e1jl enged\u00e9lyez\u00e9se",maxRecordCount:"Rekordok maxim\u00e1lis sz\u00e1ma f\u00e1jlonk\u00e9nt"},_default:"Alap\u00e9rtelmezett",makeDefault:"Legyen alap\u00e9rtelmezett",_localized:{}}});

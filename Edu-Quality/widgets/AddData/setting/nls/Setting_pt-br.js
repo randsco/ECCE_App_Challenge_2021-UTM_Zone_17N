@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/AddData/setting/nls/strings":{numPerPage:"N\u00famero de itens por p\u00e1gina",scopeOptions:{defaultScope:"Escopo de pesquisa padr\u00e3o",labelPlaceholder:"R\u00f3tulo opcional",MyContent:"Permitir Meu Conte\u00fado",MyOrganization:"Permitir Minha Organiza\u00e7\u00e3o",ArcGISOnline:"Permitir ArcGIS Online",Curated:"Permitir Curado",CuratedFilter:"Filtro curado",livingAtlasExample:"Exemplo de atlas em tempo real:"},addFromUrl:{caption:"Permitir URL"},addFromFile:{caption:"Permitir Arquivo",
+maxRecordCount:"Registros m\u00e1ximos por arquivo"},_default:"Padr\u00e3o",makeDefault:"Tornar padr\u00e3o",_localized:{}}});

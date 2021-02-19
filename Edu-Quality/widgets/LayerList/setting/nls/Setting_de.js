@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/LayerList/setting/nls/strings":{showLegend:"Legende anzeigen",controlPopupMenuTitle:"Legen Sie fest, welche Aktionen im Kontextmen\u00fc f\u00fcr Layer angezeigt werden sollen",zoomto:"Zoomen auf",transparency:"Transparenz",setVisibilityRange:"Sichtbarkeitsbereich festlegen",controlPopup:"Pop-up aktivieren/deaktivieren",moveUpAndDown:"Nach oben/Nach unten",attributeTable:"In Attributtabelle anzeigen",url:"Beschreibung/Elementdetails anzeigen/Herunterladen",showHideLabels:"Beschriftungen ein-/ausblenden",
+expandAllLayers:"Alle Layer erweitern",expandAllLayersByDefault:"Standardm\u00e4\u00dfig alle Layer erweitern",layerSelectorTitle:"Legen Sie fest, welche Layer in der Liste angezeigt werden sollen",showTitle:"Titel anzeigen",showBasemap:"Grundkarte anzeigen",_localized:{}}});

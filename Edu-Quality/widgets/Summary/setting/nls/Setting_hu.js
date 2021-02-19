@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/Summary/setting/nls/strings":{selectLayer:"\u00d6sszefoglal\u00f3 r\u00e9teg kiv\u00e1laszt\u00e1sa",filterField:"\u00d6sszefoglal\u00f3 r\u00e9teg sz\u0171r\u0151mez\u0151je",count:"SZ\u00c1M",sum:"\u00d6SSZ.",min:"MIN.",max:"MAX.",avg:"\u00c1TL.",addField:"\u00d6sszefoglal\u00f3 mez\u0151 hozz\u00e1ad\u00e1sa",label:"Felirat",type:"T\u00edpus",field:"Mez\u0151",actions:"M\u0171veletek",displayCluster:"Megjelen\u00edt\u00e9s \u00f6sszefoglal\u00f3 klaszterekk\u00e9nt",showFeatureCount:"Vektoros elemek sz\u00e1m\u00e1nak megjelen\u00edt\u00e9se",
+featureCountLabel:"Vektoros elemek sz\u00e1m\u00e1nak felirata",missingLayerInWebMap:"Adjon \u00f6sszefoglal\u00f3 r\u00e9tegeket a webes t\u00e9rk\u00e9phez.",refreshInterval:"Friss\u00edt\u00e9si id\u0151k\u00f6z (perc)",_localized:{}}});

@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/Filter/nls/strings":{_widgetLabel:"Filtrare",toggleTip:"Face\u0163i clic pentru a afi\u015fa/ascunde set\u0103ri ale filtrelor",toggleOn:"Ap\u0103sa\u021bi butonul de comutare pentru a porni filtrul curent",toggleOff:"Ap\u0103sa\u021bi butonul de comutare pentru a opri filtrul curent",filterActions:"Filtrare ac\u021biuni",resetAll:"Reseta\u021bi filtrele (cu excep\u021bia cazului \u00een care sunt personalizate)",turnOffAll:"Dezactiva\u021bi filtrele (cu excep\u021bia cazului \u00een care sunt personalizate)",
+resetAllForNoCustom:"Reseta\u021bi filtrele",turnOffAllForNoCustom:"Dezactivare filtre",createCustomFilter:"Crea\u021bi un filtru personalizat",customFilter:"Filtru particularizat",toggleCustomFilter:"Activare/dezactivare filtru",toggleCustomFilters:"Activa\u021bi sau dezactiva\u021bi toate filtrele",_localized:{}}});

@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/ReportFeature/setting/nls/strings":{drsUrl:"URL stre\u017enika recenzenta podatkov",includeReportedBy:"Tehnik recenzent",label:"Sloj",show:"Vklju\u010di",alias:"Vzdevek",warning:"Nepravilen vnos",defaultSessionId:"Privzeta seja",setSource:"Nastavi",getCurrentUser:"Prijavljeno uporabni\u0161ko ime",getDefaultUser:"Vnesite privzeto vrednost",getUser:"Dovoli vnos uporabnika",userName:"Vnesite uporabni\u0161ko ime",noUserName:"Vnesite privzeto uporabni\u0161ko ime.",noLayers:"Na spletni karti ni operativnih slojev.",
+noSessionName:"Izberite sejo",revTechName:"Ime tehnika recenzenta",_localized:{}}});

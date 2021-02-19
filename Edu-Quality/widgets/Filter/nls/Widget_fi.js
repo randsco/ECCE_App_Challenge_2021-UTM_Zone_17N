@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/Filter/nls/strings":{_widgetLabel:"Suodata",toggleTip:"T\u00e4t\u00e4 napsauttamalla voit n\u00e4ytt\u00e4\u00e4 ja piilottaa suodatinasetukset",toggleOn:"Ota nykyinen suodatin k\u00e4ytt\u00f6\u00f6n napsauttamalla vaihtopainiketta",toggleOff:"Poista nykyinen suodatin k\u00e4yt\u00f6st\u00e4 napsauttamalla vaihtopainiketta",filterActions:"Suodatustoimet",resetAll:"Nollaa kaikki l\u00e4ht\u00f6arvot",turnOffAll:"Poista kaikki suodattimet k\u00e4yt\u00f6st\u00e4",resetAllForNoCustom:"Nollaa suodattimet",
+turnOffAllForNoCustom:"Poista suodattimet k\u00e4yt\u00f6st\u00e4",createCustomFilter:"Luo mukautettu suodatin",customFilter:"Mukautettu suodatin",toggleCustomFilter:"Ota suodatus k\u00e4ytt\u00f6\u00f6n tai poista se k\u00e4yt\u00f6st\u00e4",toggleCustomFilters:"Ota kaikki suodattimet k\u00e4ytt\u00f6\u00f6n tai poista ne k\u00e4yt\u00f6st\u00e4",_localized:{}}});

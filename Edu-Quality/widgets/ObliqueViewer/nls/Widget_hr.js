@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/ObliqueViewer/nls/strings":{_widgetLabel:"Nakrivljeni preglednik",locateButtonLabel:"Odaberite to\u010dku na glavnoj karti za prikaz nakrivljenih slika.",clearButtonLabel:"Izbri\u0161i sve grafike",zoomButtonLabel:"Pove\u0107aj na obuhvat nakrivljenih slika",syncButtonLabel:"Sinkroniziraj kartu nadira",rasterListLabel:"Prika\u017ei dostupne nakrivljene slike",measureWidgetLabel:"Opcije mjerenja",intialScaleLabel:"Odaberi po\u010detno mjerilo za nakrivljen snimke",smallBuildingLabel:"Urbano podru\u010dje: mala zgrada",
+buildingLabel:"Urbano podru\u010dje: zgrada",azimuthChangeNotification:"Nema podataka u odabranom smjeru.",noImageNotification:"U ovom poligonu nema slika. Odaberite drugu lokaciju na glavnoj karti.",_localized:{}}});

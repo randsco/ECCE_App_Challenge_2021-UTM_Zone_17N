@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/ObliqueViewer/setting/nls/strings":{layerSelect:"Seleziona layer",elevationFieldSelect:"Campo Elevazione",azimuthFieldSelect:"Campo Azimut",searchRadiusSelect:"Raggio di ricerca",showThumbnailText:"Mostra anteprime nell'elenco Raster",rasterInfoFieldsSelect:"Seleziona campi Informazioni elenco",fieldLimitText:"\u00c8 possibile selezionare un massimo di 3 campi.",autoSyncText:"Sincronizza mappa principale",errorSectionMessage:"Nessun image service layer \u00e8 presente nella mappa selezionata. Selezionare una mappa con un image service layer contenente immagini oblique.",
+distanceToolText:"Abilita strumenti per distanza e area",outOfRangeMessage:"Immettere un valore compreso tra 0 e 100",decimalPlace:"posizione decimale",decimalPlaces:"posizioni decimali",separator:"Usa separatore migliaia",showTime:"Mostra ora",_localized:{}}});

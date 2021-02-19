@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/CoordinateConversion/setting/nls/strings":{scaleLabel:"Escala de zoom",locationSymbol:"S\u00edmbol d'ubicaci\u00f3",locationSymbolHintText:"Suggeriment: s\u00edmbol de la ubicaci\u00f3 de coordenades actual",symbolPickerPreviewText:"Visualitzaci\u00f3 pr\u00e8via:",warning:"Selecciona primer l'opci\u00f3 Mostra.",setDefaultFormatTitlePane:"Edita el format per defecte",showHeaderLabel:"Mostra",indexHeaderLabel:"\u00cdndex",notationHeaderLabel:"Notaci\u00f3",defaultFormatHeaderLabel:"Format per defecte",
+editFormatHeaderLabel:"Edita el format",errorMessage:"El selector de s\u00edmbols cont\u00e9 errors. Corregiu-los abans d'aplicar els canvis.",posNegPrefixLabel:'Afegeix el prefix "+/-" als nombres positius i negatius',inputNotation:"Notaci\u00f3 d'entrada",_localized:{}}});

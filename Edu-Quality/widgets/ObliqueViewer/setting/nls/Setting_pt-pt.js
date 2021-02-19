@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/ObliqueViewer/setting/nls/strings":{layerSelect:"Escolher a Camada",elevationFieldSelect:"Campo de Eleva\u00e7\u00e3o",azimuthFieldSelect:"Campo de Azimute",searchRadiusSelect:"Raio de Pesquisa",showThumbnailText:"Exibir Imagens Miniatura  na Lista de Rasters",rasterInfoFieldsSelect:"Selecionar Listar Campos de Informa\u00e7\u00f5es",fieldLimitText:"Podem ser selecionados 3 campos no m\u00e1ximo.",autoSyncText:"Sincronizar Mapa Principal",errorSectionMessage:"N\u00e3o se encontram presentes quaisquer camadas de servi\u00e7o de imagem no mapa selecionado. Por favor, selecione um mapa com uma camada de servi\u00e7o de imagens que contenha imagens obl\u00edquas.",
+distanceToolText:"Ativar ferramentas de dist\u00e2ncia e \u00e1rea",outOfRangeMessage:"Por favor, introduza um valor entre 0 e 100",decimalPlace:"casa decimal",decimalPlaces:"casas decimais",separator:"Utilizar Separador 1000",showTime:"Exibir tempo",_localized:{}}});

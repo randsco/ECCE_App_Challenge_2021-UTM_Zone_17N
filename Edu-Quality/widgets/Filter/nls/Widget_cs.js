@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/Filter/nls/strings":{_widgetLabel:"Filtr",toggleTip:"Kliknut\u00edm zobraz\u00edte nebo skryjete nastaven\u00ed filtru",toggleOn:"Pokud chcete zapnout sou\u010dasn\u00fd filtr, stiskn\u011bte p\u0159ep\u00ednac\u00ed tla\u010d\u00edtko",toggleOff:"Pokud chcete vypnout sou\u010dasn\u00fd filtr, stiskn\u011bte p\u0159ep\u00ednac\u00ed tla\u010d\u00edtko",filterActions:"Akce filtru",resetAll:"Resetovat filtry (krom\u011b vlastn\u00edch)",turnOffAll:"Vypnout filtry (krom\u011b vlastn\u00edch)",
+resetAllForNoCustom:"Resetovat filtry",turnOffAllForNoCustom:"Vypnout filtry",createCustomFilter:"Vytvo\u0159it vlastn\u00ed filtr",customFilter:"Vlastn\u00ed filtr",toggleCustomFilter:"Zapnout nebo vypnout filtr",toggleCustomFilters:"Zapnout nebo vypnout v\u0161echny filtry",_localized:{}}});

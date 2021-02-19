@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define(["dojo/Deferred","dojo/when"],function(f,l){var g,c={},h=function(a){var b=new f;if(c.locked)return setTimeout(function(){h(a)},50),b;if(c[a])return c.locked=!0,b.resolve(c[a]),b;c.locked=!0;g([a],function(){c[a]=window.jQuery;b.resolve(c[a])});return b},k=function(a,b,d){g([a[b]],function(){b===a.length-1?d.resolve():(b++,k(a,b,d))})},m=function(a,b){a=new f;b[0]?k(b,0,a):a.resolve();return a},n=function(a,b){var d=new f;h(a).then(function(e){m(a,b).then(function(){c.locked=!1;d.resolve(e)})});
+return d};return{load:function(a,b,d){a=a.split(",");var e=[];g=b;0===a.length?d(null):(b=a[0],e=a.slice(1),l(n(b,e),d))}}});

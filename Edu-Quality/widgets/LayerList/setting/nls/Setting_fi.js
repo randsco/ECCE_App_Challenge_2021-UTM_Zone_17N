@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/LayerList/setting/nls/strings":{showLegend:"N\u00e4yt\u00e4 selite",controlPopupMenuTitle:"Valitse, mitk\u00e4 toiminnot n\u00e4ytet\u00e4\u00e4n karttatason kontekstivalikossa",zoomto:"Tarkenna kohteeseen",transparency:"Transparency",setVisibilityRange:"M\u00e4\u00e4rit\u00e4 n\u00e4kyvyysalue",controlPopup:"Ota ponnahdusikkunat k\u00e4ytt\u00f6\u00f6n tai poista ne k\u00e4yt\u00f6st\u00e4",moveUpAndDown:"Siirr\u00e4 yl\u00f6s / Siirr\u00e4 alas",attributeTable:"N\u00e4yt\u00e4 ominaisuustaulukossa",
+url:"Kuvaus / N\u00e4yt\u00e4 kohteen tiedot / Lataa",showHideLabels:"N\u00e4yt\u00e4/piilota tunnustekstit",expandAllLayers:"Laajenna kaikki karttatasot",expandAllLayersByDefault:"Laajenna kaikki karttatasot oletusarvoisesti",layerSelectorTitle:"Valitse, mitk\u00e4 karttatasot n\u00e4ytet\u00e4\u00e4n luettelossa",showTitle:"N\u00e4yt\u00e4 otsikko",showBasemap:"N\u00e4yt\u00e4 taustakartta",_localized:{}}});

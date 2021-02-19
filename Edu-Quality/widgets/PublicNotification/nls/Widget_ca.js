@@ -1,0 +1,6 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/PublicNotification/nls/strings":{_widgetLabel:"Notificaci\u00f3 p\u00fablica",groupingLabels:{searchHeaderText:"Seleccioneu o cerqueu una entitat al mapa",addresseeSource:"Capa de destinatari",formatHeaderText:"Format"},numAddresseesFound:"S'han trobat ${count} adreces; voleu continuar?",tooltips:{drawByPoint:"Feu clic en una ubicaci\u00f3 al mapa",drawByExtent:"Dibuixa un quadre al voltant de l'\u00e0rea d'inter\u00e8s",invalidBufferDistance:"Introdu\u00efu un valor major o igual que zero",
+printSuggestion:"Imprimeix mitjan\u00e7ant l'opci\u00f3 \"Mida real\" de l'Adobe\u00ae Reader\u00ae",nothingConfigured:"No s'ha configurat cap capa amb finestres emergents de plantilles d'adreces"},formats:{descriptionCSV:"Valors separats per comes",hintCSV:"Fitxer de valors separats per comes",descriptionPDF:"Etiqueta PDF ${heightLabelIn}\u00a0\u00d7\u00a0${widthLabelIn} polzades; ${labelsPerPage} per p\u00e0gina",hintPDF:"per exemple, etiqueta d'Avery(r) ${averyPartNumber}"},reviewButtonLabel:"Revisi\u00f3",
+reviewResults:{reviewResultsLabel:"Revisa els resultats"},_localized:{}}});

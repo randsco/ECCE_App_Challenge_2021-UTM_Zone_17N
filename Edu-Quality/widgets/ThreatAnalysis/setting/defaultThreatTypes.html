@@ -1,0 +1,21 @@
+<div class="esriCTMainContainer">
+  <div class="esriCTDijitContent" style="padding-bottom: 5px;">
+    <div class="esriCTDijitControlLabel">${nls.threatTypeCatagoryLabel}</div>
+    <div class="esriCTDijitControl">
+      <div class="esriCTDijitWrapper">
+        <div class="esriCTDijitWrapper" data-dojo-attach-point="threatCatagorySelect"
+          data-dojo-type="dijit/form/Select">
+          <option value="chemicalThreatCatogory" selected="selected">${nls.chemicalThreatCatagoryLabel}</option>
+          <option value="lpgThreatCatogary">${nls.lpgThreatCatagoryLabel}</option>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="esriCTWrapper">
+    <div class="esriCTLabel" style="padding-top: 5px;">${nls.chooseDefaultThreatLabel}</div>
+    <div class="esriCTThreatTypesContainer" data-dojo-attach-point="defaultChemicalThreatTypeList">
+    </div>
+    <div class="esriCTThreatTypesContainer controlGroupHidden" data-dojo-attach-point="defaultLPGThreatTypeList">
+    </div>
+  </div>
+</div>

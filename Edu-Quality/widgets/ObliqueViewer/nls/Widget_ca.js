@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/ObliqueViewer/nls/strings":{_widgetLabel:"Visualitzador oblic",locateButtonLabel:"Seleccioneu un punt al mapa principal per veure les imatges obliq\u00fces.",clearButtonLabel:"Esborra tots els gr\u00e0fics",zoomButtonLabel:"Aplica el zoom a l'extensi\u00f3 d'imatge obliqua",syncButtonLabel:"Sincronitza el mapa de nadir",rasterListLabel:"Visualitza les imatges obliq\u00fces disponibles",measureWidgetLabel:"Opcions de mesura",intialScaleLabel:"Seleccioneu l'escala inicial per a les imatges obliq\u00fces",
+smallBuildingLabel:"\u00c0rea urbana: edifici petit",buildingLabel:"\u00c0rea urbana: edifici",azimuthChangeNotification:"No hi ha dades en la direcci\u00f3 seleccionada.",noImageNotification:"No s'ha trobat cap imatge en aquesta \u00e0rea. Seleccioneu una altra ubicaci\u00f3 al mapa principal.",_localized:{}}});

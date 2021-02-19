@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/Summary/nls/strings":{_widgetLabel:"\u041a\u043e\u0440\u043e\u0442\u043a\u0430 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u044f",filter:"\u0424\u0456\u043b\u044c\u0442\u0440",all:"\u0412\u0441\u0456",missingLayerInWebMap:"\u0411\u0435\u0437 \u0440\u043e\u0431\u043e\u0447\u0438\u0445 \u0448\u0430\u0440\u0456\u0432 \u0443 \u0432\u0435\u0431-\u043a\u0430\u0440\u0442\u0456.",missingSummaryLayerInConfig:"\u0412\u0456\u0434\u0441\u0443\u0442\u043d\u0456\u0439 \u043f\u0456\u0434\u0441\u0443\u043c\u043a\u043e\u0432\u0438\u0439 \u0448\u0430\u0440.",
+features:"\u041e\u0431\u2019\u0454\u043a\u0442\u0438",_localized:{}}});

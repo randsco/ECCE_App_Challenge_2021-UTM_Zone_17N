@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/ReportFeature/setting/nls/strings":{drsUrl:"URL del servidor del Data Reviewer",includeReportedBy:"T\u00e8cnic del Reviewer",label:"Capa",show:"Inclou",alias:"\u00c0lies",warning:"Entrada incorrecta",defaultSessionId:"Sessi\u00f3 per defecte",setSource:"Defineix",getCurrentUser:"Nom d'usuari amb qu\u00e8 s'ha iniciat la sessi\u00f3",getDefaultUser:"Introdu\u00efu un valor per defecte",getUser:"Permet l'entrada de l'usuari",userName:"Introdu\u00efu el nom d'usuari",noUserName:"Introdu\u00efu el nom d'usuari per defecte.",
+noLayers:"No hi ha cap capa operativa al mapa web.",noSessionName:"Seleccioneu una sessi\u00f3",revTechName:"Nom del t\u00e8cnic del Reviewer",_localized:{}}});

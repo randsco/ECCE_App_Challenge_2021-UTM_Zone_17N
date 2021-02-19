@@ -1,0 +1,50 @@
+<div class="esriCTFullWidth">
+    <!-- Parcel Layer Attribute list Parent-->
+    <div class="esriCTFullWidth" data-dojo-attach-point="parcelLayerRowNode">
+        <!-- Parcel layer attribute list toggle node -->
+        <div class="esriCTParcelLayerParent" data-dojo-attach-point="expandCollapseParentNode">
+            <div class="esriCTParcelLayerContainer esriCTEllipsis" data-dojo-attach-point="attributeListTitle"></div>
+            <div class="esriCTExpandCollapseParceLayer" data-dojo-attach-point="expandCollapseNode" tabindex="0"
+                role="button" aria-label="${nls.planInfo.showAttributeList}" title="${nls.planInfo.showAttributeList}">
+            </div>
+        </div>
+        <!-- Parcel Layer Attribute List Section-->
+        <div class="esriCTParcelAttributeList esriCTHidden" data-dojo-attach-point="attributeListNode">
+            <!-- Attribute Inspector -->
+            <div class="esriCTAttributeInspectorContainer" data-dojo-attach-point="attributeInspectorContainer">
+            </div>
+            <!-- Parcel name input container -->
+            <div class="esriCTFullWidth esriCTPlanSettingRow esriCTHidden" data-dojo-attach-point="parcelNameRow">
+                <div class="esriCTFullWidth" data-dojo-attach-point="parcelName">
+                </div>
+            </div>
+            <!-- DocumentType input container -->
+            <div class="esriCTFullWidth esriCTPlanSettingRow esriCTHidden" data-dojo-attach-point="documentTypeRow">
+                <div class="esriCTFullWidth" data-dojo-attach-point="documentType">
+                </div>
+            </div>
+            <!-- Plan name input container -->
+            <div class="esriCTFullWidth esriCTPlanSettingRow esriCTHidden" data-dojo-attach-point="planNameRow">
+                <div class="esriCTFullWidth" data-dojo-attach-point="planName">
+                </div>
+            </div>
+        </div>
+        <!-- Save/Cancle button container -->
+        <div class="esriCTPlanInfoNode">
+            <div class="esriCTPlanInfoButton jimu-btn jimu-trailing-margin1" title="${nls.common.save}"
+                data-dojo-attach-point="planInfoSaveButton" tabindex="0" role="button" aria-label="${nls.common.save}">
+                ${nls.common.save}
+            </div>
+            <div class="esriCTPlanInfoButton jimu-btn jimu-trailing-margin1 esriCTHidden"
+                title="${nls.common.deleteText}" data-dojo-attach-point="planInfoDeleteButton" tabindex="0"
+                role="button" aria-label="${nls.common.deleteText}">
+                ${nls.common.deleteText}
+            </div>
+            <div class="esriCTPlanInfoButton jimu-btn" title="${nls.common.cancel}"
+                data-dojo-attach-point="planInfoCancelButton" tabindex="0" role="button"
+                aria-label="${nls.common.cancel}">
+                ${nls.common.cancel}
+            </div>
+        </div>
+    </div>
+</div>

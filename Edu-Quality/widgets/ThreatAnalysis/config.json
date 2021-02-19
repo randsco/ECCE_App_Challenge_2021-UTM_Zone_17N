@@ -1,0 +1,62 @@
+{
+  "threatAnalysis": {
+    "symbology": {
+      "mandatoryOutlineColor": {
+        "color": "#d10e40",
+        "transparency": 0,
+        "type": "esriSLSSolid"
+      },
+      "mandatoryFillColor": {
+        "color": "#d10e40",
+        "transparency": 0.88,
+        "type": "esriSFSSolid"
+      },
+      "safeOutlineColor": {
+        "color": "#ffffff",
+        "transparency": 0,
+        "type": "esriSLSNull"
+      },
+      "safeFillColor": {
+        "color": "#ffd700",
+        "transparency": 0.78,
+        "type": "esriSFSSolid"
+      }
+    },
+    "operationalLayer": {
+      "name": ""
+    },
+    "unit": "feet"
+  },
+  "lpgThreatTypes": [
+    {
+      "Threat": "Small LPG Tank",
+      "Fireball_Dia": 40,
+      "Safe_Dist": 160,
+      "Unit": "Feet"
+    },
+    {
+      "Threat": "Large LPG Tank",
+      "Fireball_Dia": 69,
+      "Safe_Dist": 276,
+      "Unit": "feet"
+    },
+    {
+      "Threat": "Commercial/Residential LPG Tank",
+      "Fireball_Dia": 184,
+      "Safe_Dist": 736,
+      "Unit": "Feet"
+    },
+    {
+      "Threat": "Small LPG Truck",
+      "Fireball_Dia": 292,
+      "Safe_Dist": 1168,
+      "Unit": "Feet"
+    },
+    {
+      "Threat": "Semi-Tanker LPG",
+      "Fireball_Dia": 499,
+      "Safe_Dist": 1996,
+      "Unit": "feet"
+  }
+  ]
+}

@@ -1,0 +1,6 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/Stream/nls/strings":{_widgetLabel:"Pr\u00fad",noStreamLayer:"\u017diadne dostupn\u00e9 mo\u017enosti predkonfigurovanej vrstvy s \u00fadajmi v re\u00e1lnom \u010dase.",streamControls:"Ovl\u00e1dacie prvky \u00fadajov v re\u00e1lnom \u010dase",startStreaming:"Spusti\u0165 pripojenie \u00fadajov v re\u00e1lnom \u010dase",stopStreaming:"Zastavi\u0165 pripojenie \u00fadajov v re\u00e1lnom \u010dase",clearObservation:"Vy\u010disti\u0165 predch\u00e1dzaj\u00face pozorovania",streamFilter:"Filter",
+showAllObservations:"Zobrazi\u0165 v\u0161etky pozorovania",showMapAreaObservations:"Obmedzte pozorovania na aktu\u00e1lnu oblas\u0165 mapy",showObservationsByDrawing:"Obmedzi\u0165 pozorovania kreslen\u00edm na mape",useSpatialFilter:"Pou\u017ei\u0165 priestorov\u00fd filter na obmedzenie pozorovan\u00ed",useAttributeFilter:"Pou\u017ei\u0165 atrib\u00fatov\u00fd filter na obmedzenie pozorovan\u00ed",selectStreamLayer:"Zvoli\u0165 vrstvu \u00fadajov v re\u00e1lnom \u010dase",previousObservations:"Nakresli\u0165 predch\u00e1dzaj\u00face pozorovania",
+applyAttrFilter:"Pou\u017ei\u0165",_localized:{}}});

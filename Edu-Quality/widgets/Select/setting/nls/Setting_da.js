@@ -1,0 +1,4 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/Select/setting/nls/strings":{setSelectionColor:"Indstil markeringsfarve",selectionMode:"Interaktiv markeringstilstand",partiallyWithin:"Delvist inden for",whollyWithin:"Helt inden for",allowExport:"Tillad at eksportere de valgte objekter",layerToSelect:"V\u00e6lg, hvilke lag der kan markeres",includeRuntimeLayers:"Tillad at markere de lag, der generes under k\u00f8rsel",enableByDefault:"Aktiv\u00e9r valgv\u00e6rkt\u00f8jet som standard",_localized:{}}});

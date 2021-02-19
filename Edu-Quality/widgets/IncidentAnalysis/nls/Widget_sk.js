@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/IncidentAnalysis/nls/strings":{_widgetLabel:"Anal\u00fdza incidentov",_featureAction_SetAsIncident:"Nastavi\u0165 ako incident",incident:"Incident",weather:"Po\u010dasie",locate_incident:"Zamera\u0165 incident",clear_incidents:"Vymaza\u0165 incidenty",reverse_geocoded_address:"Najbli\u017e\u0161ia adresa",reverse_geocoded_error:"Nie je k dispoz\u00edcii",miles:"M\u00edle",kilometers:"Kilometre",feet:"Stopy",meters:"Metre",yards:"Yardy",nauticalMiles:"N\u00e1morn\u00e9 m\u00edle",
+now:"TERAZ",wind:"VIETOR",SUN:"NEDE\u013dA",MON:"PONDELOK",TUE:"UTOROK",WED:"STREDA",THU:"\u0160TVRTOK",FRI:"PIATOK",SAT:"SOBOTA",defaultTabMsg:"Nezistili sa \u017eiadne incidenty.",useMapExtent:"Pou\u017ei\u0165 aktu\u00e1lny rozsah mapy",noFeaturesFound:"Neboli n\u00e1jden\u00e9 \u017eiadne prvky.",downloadCSV:"STIAHNU\u0164 CSV",sum:"SUM",min:"MIN",max:"MAX",avg:"AVG",count:"COUNT",area:"PLOCHA",length:"D\u0139\u017dKA",_localized:{}}});

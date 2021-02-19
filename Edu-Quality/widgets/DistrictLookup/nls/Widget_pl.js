@@ -1,0 +1,6 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/DistrictLookup/nls/strings":{_widgetLabel:"Przegl\u0105d okr\u0119g\u00f3w",searchHeaderText:"Wyszukaj adres lub zlokalizuj na mapie",mouseOverTooltip:"Ustaw lokalizacj\u0119",informationTabTitle:"Informacje",directionTabTitle:"Wskaz\u00f3wki dojazdu",invalidPortalUrlMsg:"Nieprawid\u0142owy adres URL portalu",invalidPolygonLayerMsg:"Warstwa poligonowa nie zosta\u0142a poprawnie skonfigurowana.",invalidRelatedPointLayerMsg:"Powi\u0105zana warstwa punktowa nie zosta\u0142a poprawnie skonfigurowana.",
+noPrecinctFoundMsg:"Nie znaleziono poligonu dla tego adresu lub lokalizacji",noPollingPlaceFoundMsg:"Nie mo\u017cna znale\u017a\u0107 punktu powi\u0105zanego z poligonem",attachmentHeader:"Za\u0142\u0105czniki",failedToGenerateRouteMsg:"Nie uda\u0142o si\u0119 wygenerowa\u0107 trasy.",allPopupsDisabledMsg:"Nie skonfigurowano okien podr\u0119cznych, nie mo\u017cna wy\u015bwietli\u0107 wynik\u00f3w.",worldGeocoderName:"Adres",searchLocationTitle:"Wyszukiwana lokalizacja",informationContentLabel:"Tre\u015b\u0107 informacji",
+_localized:{}}});

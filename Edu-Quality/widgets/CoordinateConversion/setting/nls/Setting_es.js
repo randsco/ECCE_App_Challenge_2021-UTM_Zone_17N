@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/CoordinateConversion/setting/nls/strings":{scaleLabel:"Aplicar zoom a escala",locationSymbol:"S\u00edmbolo de ubicaci\u00f3n",locationSymbolHintText:"Sugerencia: s\u00edmbolo de la ubicaci\u00f3n de coordenadas actual",symbolPickerPreviewText:"Vista previa:",warning:"Selecciona primero la opci\u00f3n Mostrar.",setDefaultFormatTitlePane:"Editar formato predeterminado",showHeaderLabel:"Mostrar",indexHeaderLabel:"\u00cdndice",notationHeaderLabel:"Notaci\u00f3n",defaultFormatHeaderLabel:"Formato predeterminado",
+editFormatHeaderLabel:"Editar formato",errorMessage:"El selector de s\u00edmbolos contiene errores. Arr\u00e9glelo antes de aplicar.",posNegPrefixLabel:'Agregar prefijo "+/-" a los n\u00fameros positivos y negativos',inputNotation:"Notaci\u00f3n de entrada",_localized:{}}});

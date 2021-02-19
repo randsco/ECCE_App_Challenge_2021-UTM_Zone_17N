@@ -1,0 +1,4 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/Directions/nls/strings":{_widgetLabel:"Naviga\u010dn\u00e9 in\u0161trukcie",_featureAction_DirectionFrom:"Navig\u00e1cia odtia\u013eto",_featureAction_DirectionTo:"Navig\u00e1cia sem",_featureAction_OpenInDirections:"Otvori\u0165 v navig\u00e1cii",_featureAction_OpenRoute:"Otvori\u0165 trasu",_featureAction_EditRoute:"Upravi\u0165 trasu",searchPlaceholder:"N\u00e1js\u0165 adresu alebo miesto",_localized:{}}});

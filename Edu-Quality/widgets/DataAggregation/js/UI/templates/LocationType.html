@@ -1,0 +1,58 @@
+<div class="pad-left-5 no-select">
+  <table class="page-table" cellpading="0">
+    <tbody>
+      <tr>
+        <td colspan="3" class="panel-title-td">
+          <div class="panel-title-text" tabindex="0" role="region"
+            aria-label="${nls.mapping.locationMapping} ${nls.locationMapping.locationMappingPageHint}">
+            ${nls.mapping.locationMapping}</div>
+        </td>
+      </tr>
+      <tr class="bottom-border-bold task-instruction-row">
+        <td colspan="3" class="panel-title-hint-td">
+          <div class="instruction">${nls.locationMapping.locationMappingPageHint}</div>
+        </td>
+      </tr>
+      <tr class="task-row task-instruction-row" > 
+        <td class="field-control-td pad-left-10">
+          <input name="lt" data-dojo-type="dijit/form/RadioButton"
+                 class="jimu-radio-btn"
+                 id="${id}_rdo-address"
+                 type="radio"
+                 data-dojo-attach-point="rdoAddress"
+                 title="${nls.locationMapping.useAddress}" 
+                 tabindex="0" 
+                 aria-label="${nls.locationMapping.useAddress} ${nls.locationMapping.useAddressHint}"
+                 data-dojo-attach-event="onClick:_rdoAddressClick"
+                 role="radio"/>
+          <label class="main-text" for="${id}_rdo-address">${nls.locationMapping.useAddress}</label>
+        </td>
+      </tr>
+      <tr class="bottom-border task-instruction-row">
+        <td class="pad-left-20 pad-bottom-10">
+          <span class="instruction">${nls.locationMapping.useAddressHint}</span>
+        </td>
+      </tr>
+      <tr class="task-instruction-row task-row">
+        <td class="field-control-td pad-left-10">
+          <input name="lt" data-dojo-type="dijit/form/RadioButton"
+                 class="jimu-radio-btn"
+                 id="${id}_rdo-coordinate"
+                 type="radio"
+                 data-dojo-attach-point="rdoCoordinates"
+                 title="${nls.locationMapping.useCoordinates}" 
+                 tabindex="0"
+                 aria-label="${nls.locationMapping.useCoordinates} ${nls.locationMapping.useCoordinatesHint}"
+                 data-dojo-attach-event="onClick:_rdoCoordinateClick"
+                 role="radio"/>
+          <label class="main-text" for="${id}_rdo-coordinate">${nls.locationMapping.useCoordinates}</label>
+        </td>
+      </tr>
+      <tr class="bottom-border task-instruction-row">
+        <td class="pad-left-20 pad-bottom-10">
+          <span class="instruction">${nls.locationMapping.useCoordinatesHint}</span>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>

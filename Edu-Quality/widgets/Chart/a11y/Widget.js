@@ -1,0 +1,6 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define(["dojo/keys","dojo/_base/html","dijit/focus"],function(b,d,c){return{_onChartListKeydown:function(a){a.keyCode===b.ENTER&&this._enterIntoChartTr(a.target||a.srcElement)},_onChartParamsKeydown:function(a){a.keyCode===b.ESCAPE&&(a.stopPropagation(),c.focus(this.paramsBack))},_onBtnParamsBackKeydown:function(a){a.keyCode===b.ENTER&&this._onBtnParamsBackClicked()},_onClearBtnKeydown:function(a){var e="none"!==d.getStyle(this.chartParams,"display"),f="none"!==d.getStyle(this.chartResults,"display");
+a.keyCode===b.ESCAPE&&(a.stopPropagation(),e?c.focus(this.paramsBack):f&&c.focus(this.backOptions));a.keyCode!==b.TAB||a.shiftKey||(e?(a.preventDefault(),c.focus(this.btnApply)):f&&(a.preventDefault(),c.focus(this.resultsContainer)));a.keyCode===b.ENTER&&this._onBtnClearAllClicked()},_onApplyBtnKeydown:function(a){a.keyCode===b.ENTER&&this._onBtnApplyClicked()},_onChartResultsKeydown:function(a){a.keyCode===b.ESCAPE&&(a.stopPropagation(),c.focus(this.backOptions))},_onResultsBackKeydown:function(a){a.keyCode===
+b.ENTER&&this._onBtnResultsBackClicked()}}});

@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/AddData/setting/nls/strings":{numPerPage:"Num\u0103r de elemente pe pagin\u0103",scopeOptions:{defaultScope:"Domeniu de c\u0103utare implicit",labelPlaceholder:"Etichet\u0103 op\u0163ional\u0103",MyContent:"Se permit Resursele mele",MyOrganization:"Se permite Organiza\u0163ia mea",ArcGISOnline:"Se permite ArcGIS Online",Curated:"Permitere gestionate",CuratedFilter:"Filtru gestionat",livingAtlasExample:"Exemplu atlas actualizat:"},addFromUrl:{caption:"Permitere URL"},addFromFile:{caption:"Permitere fi\u015fier",
+maxRecordCount:"Maximum de \u00eenregistr\u0103ri per fi\u015fier"},_default:"Implicit",makeDefault:"Setare ca implicit",_localized:{}}});

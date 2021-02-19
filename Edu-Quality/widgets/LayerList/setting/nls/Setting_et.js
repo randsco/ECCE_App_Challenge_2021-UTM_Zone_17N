@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/LayerList/setting/nls/strings":{showLegend:"Kuva legend",controlPopupMenuTitle:"Valige kihi kontekstimen\u00fc\u00fcs kuvatavad toimingud.",zoomto:"Suumi",transparency:"L\u00e4bipaistvus",setVisibilityRange:"M\u00e4\u00e4ra n\u00e4htavusvahemik",controlPopup:"Luba / keela h\u00fcpikaknad",moveUpAndDown:"Liigu \u00fcles / liigu alla",attributeTable:"Vaata atribuuditabelis",url:"Kirjeldus / kuva sisu\u00fcksuse detailid / allalaadimine",showHideLabels:"Kuva/peida sildid",expandAllLayers:"Laienda k\u00f5ik kihid",
+expandAllLayersByDefault:"Laienda k\u00f5ik kihid vaikimisi",layerSelectorTitle:"Valige loendis kuvatavad kihid",showTitle:"Kuva pealkiri",showBasemap:"Kuva aluskaart",_localized:{}}});

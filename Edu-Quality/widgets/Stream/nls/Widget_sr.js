@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/Stream/nls/strings":{_widgetLabel:"Neprekidan protok podataka",noStreamLayer:"Nema dostupnih unapred konfigurisanih opcija sloja sa neprekidnim protokom podataka.",streamControls:"Kontrole striminga",startStreaming:"Pokreni striming",stopStreaming:"Zaustavi striming",clearObservation:"Obri\u0161i prethodne opservacije",streamFilter:"Filter",showAllObservations:"Poka\u017ei sve opservacije",showMapAreaObservations:"Ograni\u010di opservacije na trenutnu povr\u0161inu mape",showObservationsByDrawing:"Ograni\u010di opservacije crtanjem na mapi",
+useSpatialFilter:"Koristite prostorni filter da biste ograni\u010dili opservacije",useAttributeFilter:"Koristite filter po atributima da biste ograni\u010dili opservacije",selectStreamLayer:"Izaberite sloj sa neprekidnim protokom podataka",previousObservations:"Crtaj prethodne opservacije",applyAttrFilter:"Primeni",_localized:{}}});

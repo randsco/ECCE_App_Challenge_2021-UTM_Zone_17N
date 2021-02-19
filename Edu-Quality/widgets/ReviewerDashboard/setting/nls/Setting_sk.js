@@ -1,0 +1,6 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/ReviewerDashboard/setting/nls/strings":{drsSOEURL:"URL Data Reviewer servera",chartSection:"Po\u010det kusov/panelov v grafe",selectByGeography:"Zahrn\u00fa\u0165 filter pod\u013ea geografie",selectUrl:"Vrstva zo slu\u017eby pre filter pod\u013ea geografie",selectMapUrl:"Slu\u017eba pre filter pod\u013ea geografie",geometryServiceURL:"URL geometrickej slu\u017eby",includeFieldNames:"Zvoli\u0165 st\u013apce",fieldNames:"Men\u00e1 st\u013apcov",lifecyclePhaseFieldName:"LIFECYCLEPHASE",
+setSource:"Nastavi\u0165",defaultFieldName:"z\u00e1va\u017enos\u0165",warning:"Nespr\u00e1vny vstup",includeDefaultFieldName:"Mus\u00ed by\u0165 zvolen\u00e9 predvolen\u00e9 meno st\u013apca",selectFieldWarning:"Mus\u00ed by\u0165 vidite\u013en\u00fd aspo\u0148 jeden st\u013apec",defaultFieldNotVisible:"Predvolen\u00fd st\u013apec mus\u00ed by\u0165 vidite\u013en\u00fd",batchJobCheckGroup:"batchjobcheckgroup",defaultColumn:"Predvolen\u00e9",visibleColumn:"Vidite\u013en\u00fd",fieldNameColumn:"Meno st\u013apca pre dashboard",
+aliasColumn:"Alias",_localized:{}}});

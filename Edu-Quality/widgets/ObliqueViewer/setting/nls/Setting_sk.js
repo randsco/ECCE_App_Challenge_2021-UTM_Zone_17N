@@ -1,0 +1,6 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/ObliqueViewer/setting/nls/strings":{layerSelect:"Vybra\u0165 vrstvu",elevationFieldSelect:"St\u013apec s nadmorskou v\u00fd\u0161kou",azimuthFieldSelect:"St\u013apec s azimutom",searchRadiusSelect:"Polomer oblasti vyh\u013ead\u00e1vania",showThumbnailText:"Zobrazi\u0165 miniat\u00fary v zozname rastrov",rasterInfoFieldsSelect:"Zvoli\u0165 informa\u010dn\u00e9 st\u013apce zoznamu",fieldLimitText:"M\u00f4\u017ete zvoli\u0165 maxim\u00e1lne 3 obr\u00e1zky.",autoSyncText:"Synchronizova\u0165 hlavn\u00fa mapu",
+errorSectionMessage:"V zvolenej mape nie s\u00fa pr\u00edtomn\u00e9 \u017eiadne vrstvy obrazovej slu\u017eby. Pros\u00edm zvo\u013ete mapu s vrstvou obrazovej slu\u017eby obsahuj\u00facou \u0161ikm\u00e9 sn\u00edmky.",distanceToolText:"Povoli\u0165 n\u00e1stroje d\u013a\u017eok a pl\u00f4ch",outOfRangeMessage:"Pros\u00edm zadajte hodnotu medzi 0 a 100",decimalPlace:"desatinn\u00e9 miesto",decimalPlaces:"desatinn\u00e9 miesta",separator:"Pou\u017ei\u0165 odde\u013eova\u010d tis\u00edcov",showTime:"Zobrazi\u0165 \u010das",
+_localized:{}}});

@@ -1,0 +1,4 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/Legend/setting/nls/strings":{left:"Align left",right:"Align right",arrangement:"Arrangement",autoUpdate:"Auto update",respectCurrentMapScale:"Respect current map scale",layerSelectorTitle:"Choose which layers to show legends: ",showLegendsForLayers:"Show legends for layers:",showBasemapLegends:"Show basemap legends",honorTheWebMapSetting:"Honor the web map's setting",reset:"Reset",resetTip:"Reset to the web map's original setting",_localized:{}}});

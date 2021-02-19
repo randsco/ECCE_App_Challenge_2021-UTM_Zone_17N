@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/CoordinateConversion/setting/nls/strings":{scaleLabel:"Yak\u0131nla\u015ft\u0131rma \u00d6l\u00e7e\u011fi",locationSymbol:"Konum sembol\u00fc",locationSymbolHintText:"\u0130pucu: Ge\u00e7erli koordinat konumu sembol\u00fc",symbolPickerPreviewText:"\u00d6nizleme:",warning:"G\u00f6ster se\u00e7ene\u011fini \u00f6nce se\u00e7in.",setDefaultFormatTitlePane:"Varsay\u0131lan Bi\u00e7imi D\u00fczenle",showHeaderLabel:"G\u00f6ster",indexHeaderLabel:"Dizin",notationHeaderLabel:"G\u00f6sterim",
+defaultFormatHeaderLabel:"Varsay\u0131lan Bi\u00e7im",editFormatHeaderLabel:"Bi\u00e7imi D\u00fczenle",errorMessage:"Sembol se\u00e7ici hata i\u00e7eriyor l\u00fctfen uygulamadan \u00f6nce d\u00fczeltin.",posNegPrefixLabel:'Art\u0131 ve eksi say\u0131lar\u0131n \u00f6n\u00fcne "+/-" i\u015fareti ekleyin',inputNotation:"Girdi Notasyonu",_localized:{}}});

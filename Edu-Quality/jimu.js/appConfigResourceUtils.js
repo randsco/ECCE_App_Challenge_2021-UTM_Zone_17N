@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define(["dojo/Deferred","dojo/promise/all","jimu/portalUtils","jimu/utils"],function(f,g,n,h){return{AddResourcesToItemForAppSave:function(p,c,k,l){c=c||[];if(0===c.length){var m=new f;m.resolve(c);return m}c=c.map(function(a){var b=a.resUrl.split("resources/")[1],d=new f;a.b64?(a=h.b64toBlob(a.b64),d.resolve({blob:a,fileName:b.split("/")[1],prefixName:b.split("/")[0]})):(a=a.resUrl,0<a.indexOf("${itemId}")&&(a=a.replace("${itemId}",k)),h.resourcesUrlToBlob(a).then(function(q){d.resolve({blob:q,fileName:b.split("/")[1],
+prefixName:b.split("/")[0]},function(e){console.error(e.message||e);d.reject(e)})}));return d});return g(c).then(function(a){if(a instanceof Array&&0<a.length)return a=a.map(function(b){var d=k;l&&(d=l);return n.addResource(p,d,b.blob,b.fileName,b.prefixName)}.bind(this)),g(a).then(function(b){return b})}.bind(this))}}});

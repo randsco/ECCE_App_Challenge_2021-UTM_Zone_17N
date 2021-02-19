@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/ReportFeature/setting/nls/strings":{drsUrl:"URL adresa servera kontrolora podataka",includeReportedBy:"Tehni\u010dar kontrolor",label:"Sloj",show:"Uklju\u010di",alias:"Pseudonim",warning:"Neta\u010dan unos",defaultSessionId:"Podrazumevana sesija",setSource:"Postavi",getCurrentUser:"Prijavljeno korisni\u010dko ime",getDefaultUser:"Unesite podrazumevanu vrednost",getUser:"Omogu\u0107i unos od strane korisnika",userName:"Unesite korisni\u010dko ime",noUserName:"Unesite podrazumevano korisni\u010dko ime.",
+noLayers:"Nema operativnih slojeva u veb mapi.",noSessionName:"Izaberite sesiju",revTechName:"Ime tehni\u010dara kontrolora",_localized:{}}});

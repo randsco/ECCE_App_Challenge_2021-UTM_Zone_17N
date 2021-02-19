@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define(["jimu/shared/BaseVersionManager"],function(d){function b(a){!1===a.hasOwnProperty("operationalLayer")&&(a.grg.operationalLayer={name:""});return a}function c(){this.versions=[{version:"2.6",upgrader:function(a){return b(a)}},{version:"2.7",upgrader:function(a){return b(a)}},{version:"2.8",upgrader:function(a){return b(a)}},{version:"2.9",upgrader:function(a){return b(a)}},{version:"2.10",upgrader:function(a){return b(a)}},{version:"2.11",upgrader:function(a){return b(a)}},{version:"2.12",
+upgrader:function(a){return b(a)}},{version:"2.13",upgrader:function(a){return b(a)}}]}c.prototype=new d;return c.prototype.constructor=c});

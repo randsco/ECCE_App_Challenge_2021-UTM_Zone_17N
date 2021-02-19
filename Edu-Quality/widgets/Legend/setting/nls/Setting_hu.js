@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/Legend/setting/nls/strings":{left:"Igaz\u00edt\u00e1s balra",right:"Igaz\u00edt\u00e1s jobbra",arrangement:"Elrendez\u00e9s",autoUpdate:"Automatikus friss\u00edt\u00e9s",respectCurrentMapScale:"Aktu\u00e1lis t\u00e9rk\u00e9pm\u00e9retar\u00e1ny betart\u00e1sa",layerSelectorTitle:"V\u00e1lassza ki, mely r\u00e9tegek jelen\u00edtsenek meg jelmagyar\u00e1zatokat: ",showLegendsForLayers:"Jelmagyar\u00e1zatok megjelen\u00edt\u00e9se a r\u00e9tegekhez:",showBasemapLegends:"Alapt\u00e9rk\u00e9p-jelmagyar\u00e1zatok megjelen\u00edt\u00e9se",
+honorTheWebMapSetting:"Webt\u00e9rk\u00e9p be\u00e1ll\u00edt\u00e1sainak haszn\u00e1lata",reset:"Vissza\u00e1ll\u00edt\u00e1s",resetTip:"Webt\u00e9rk\u00e9p eredeti be\u00e1ll\u00edt\u00e1sainak vissza\u00e1ll\u00edt\u00e1sa",_localized:{}}});

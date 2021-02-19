@@ -1,0 +1,6 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define(["dojo/_base/declare","dojo/_base/array","dojo/dom-construct","./LayerInfoForDefault"],function(d,e,f,g){return d(g,{constructor:function(a,b){this.layerObject=a.layerObject},_resetLayerObjectVisiblity:function(){},_initVisible:function(){var a=this.originOperLayer.kml,b=a.layerInfo.originOperLayer.visibleFolders;a.layerInfo.isRootLayer()&&b?-1<b.indexOf(this.subId)?this._visible=!0:this._visible=!1:this._visible=this.originOperLayer.kml.currentFolder.visible},_setTopLayerVisible:function(a){var b=
+this.originOperLayer.kml.currentFolder;this._visible=a;this.originOperLayer.kml.layerInfo.layerObject.setFolderVisibility(b,a)},obtainNewSubLayers:function(){var a=[],b=this.originOperLayer.kml;b.currentFolder&&e.forEach(b.layerInfo._getOperLayerByParentFolderId(b.currentFolder.id,this),function(c){c=this._layerInfoFactory.create(c);a.push(c);c.init()},this);return a},getOpacity:function(){},setOpacity:function(a){},drawLegends:function(a){f.empty(a)},_bindEvent:function(){},_onVisibleLayersChanged:function(){},
+getScaleRange:function(){return this.getRootLayerInfo().getScaleRange()}})});

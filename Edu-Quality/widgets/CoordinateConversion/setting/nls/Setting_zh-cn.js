@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/CoordinateConversion/setting/nls/strings":{scaleLabel:"\u7f29\u653e\u6bd4\u4f8b",locationSymbol:"\u4f4d\u7f6e\u7b26\u53f7",locationSymbolHintText:"\u63d0\u793a\uff1a\u5f53\u524d\u5750\u6807\u4f4d\u7f6e\u7684\u7b26\u53f7",symbolPickerPreviewText:"\u9884\u89c8\uff1a",warning:"\u8bf7\u9996\u5148\u9009\u62e9\u201c\u663e\u793a\u201d\u9009\u9879\u3002",setDefaultFormatTitlePane:"\u7f16\u8f91\u9ed8\u8ba4\u683c\u5f0f",showHeaderLabel:"\u663e\u793a",indexHeaderLabel:"\u7d22\u5f15",notationHeaderLabel:"\u6ce8\u8bb0",
+defaultFormatHeaderLabel:"\u9ed8\u8ba4\u683c\u5f0f",editFormatHeaderLabel:"\u7f16\u8f91\u683c\u5f0f",errorMessage:"\u7b26\u53f7\u9009\u62e9\u5668\u5305\u542b\u9519\u8bef\uff0c\u8bf7\u5728\u5e94\u7528\u524d\u4fee\u6b63\u3002",posNegPrefixLabel:"\u5411\u6b63\u6570\u548c\u8d1f\u6570\u6dfb\u52a0\u201c+/-\u201d\u524d\u7f00",inputNotation:"\u8f93\u5165\u6ce8\u8bb0",_localized:{}}});

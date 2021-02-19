@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/Coordinate/nls/strings":{_widgetLabel:"S\u00faradnica",hintMessage:"Pre z\u00edskanie s\u00faradn\u00edc kliknite na mapu",defaultLabel:"Predvolen\u00e9",realtimeLabel:"Pre z\u00edskanie s\u00faradn\u00edc pohnite my\u0161ou",computing:"Po\u010d\u00edta sa...",latitudeLabel:"Zemepisn\u00e1 \u0161\u00edrka",longitudeLabel:"Zemepisn\u00e1 d\u013a\u017eka",loading:"na\u010d\u00edtava sa...",enableClick:"Kliknite pre aktiv\u00e1ciu mapy a z\u00edskanie s\u00faradn\u00edc",disableClick:"Kliknite pre deaktiv\u00e1ciu mapy a z\u00edskanie s\u00faradn\u00edc",
+Default:"Predvolen\u00e9",Inches:"Palce",Foot:"Stopy",Foot_US:"Stopy_US",Yards:"Yardy",Miles:"M\u00edle",Nautical_Miles:"N\u00e1morn\u00e9 m\u00edle",Millimeters:"Milimetre",Centimeters:"Centimetre",Meter:"Metre",Kilometers:"Kilometre",Decimeters:"Decimetre",Decimal_Degrees:"Stupne",Degree_Minutes_Seconds:"Stupne min\u00faty sekundy",MGRS:"MGRS",USNG:"USNG",_localized:{}}});

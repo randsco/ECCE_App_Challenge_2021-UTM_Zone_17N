@@ -1,0 +1,4 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/Splash/nls/strings":{_widgetLabel:"Okno priv\u00edtania",welcomeMessage:"Vitajte vo webovej aplik\u00e1cii ArcGIS!",licenceAgree:"S\u00fahlas\u00edm s",licenceTerm:"Pravidl\u00e1 webovej aplik\u00e1cie ArcGIS",labelContinue:"Pokra\u010dova\u0165",errorString:"* Mus\u00edte s\u00fahlasi\u0165 s licenciou na pokra\u010dovanie.",notShowAgain:"T\u00fato obrazovku na\u010d\u00edtania znova nezobrazova\u0165.",ok:"OK",cancel:"Zru\u0161i\u0165",_localized:{}}});

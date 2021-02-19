@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/Infographic/nls/strings":{_widgetLabel:"Informa\u010dn\u00ed grafika",noData:"\u017d\u00e1dn\u00e1 data",thousandAbbreviation:"k",millionAbbreviation:"m",billionAbbreviation:"G",legend:"Legenda",dataLabels:"Popisky dat",horizontalAxis:"Vodorovn\u00e1 osa",verticalAxis:"Svisl\u00e1 osa",showPeriodsWithoutRecords:"Zobrazit obdob\u00ed bez z\u00e1znam\u016f",parsingperiodTip:"V\u00fdpo\u010det se nezda\u0159il. P\u0159\u00edli\u0161 mnoho \u010dasov\u00fdch interval\u016f kv\u016fli kr\u00e1tk\u00e9 dob\u011b anal\u00fdzy.",
+manyCategoryTip:"Graf se nepoda\u0159ilo zobrazit. P\u0159\u00edli\u0161 mnoho kategori\u00ed.",dataSource:"Zdroj dat",fieldString:"Pole",dsErrorTipSuf:"nen\u00ed k dispozici.",invalidRangeTip:"Neplatn\u00fd rozsah.",_localized:{}}});

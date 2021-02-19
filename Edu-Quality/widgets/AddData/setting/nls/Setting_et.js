@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/AddData/setting/nls/strings":{numPerPage:"\u00dcksuste arv lehel",scopeOptions:{defaultScope:"Otsingu vaikeulatus",labelPlaceholder:"Valikuline m\u00e4rgis",MyContent:"Luba minu sisu",MyOrganization:"Luba minu organisatsioon",ArcGISOnline:"Luba ArcGIS Online",Curated:"Luba valik Hallatud",CuratedFilter:"Hallatud filter",livingAtlasExample:"Elukoha atlase n\u00e4ide:"},addFromUrl:{caption:"Luba URL"},addFromFile:{caption:"Luba fail",maxRecordCount:"Maksimaalne arv kirjeid faili kohta"},
+_default:"Vaikimisi",makeDefault:"M\u00e4\u00e4ra vaikev\u00e4\u00e4rtuseks",_localized:{}}});

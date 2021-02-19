@@ -1,0 +1,6 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/ObliqueViewer/setting/nls/strings":{layerSelect:"\u9078\u64c7\u5716\u5c64",elevationFieldSelect:"\u9ad8\u7a0b\u6b04\u4f4d",azimuthFieldSelect:"\u65b9\u4f4d\u6b04\u4f4d",searchRadiusSelect:"\u641c\u5c0b\u534a\u5f91",showThumbnailText:"\u986f\u793a\u9ede\u9663\u6e05\u55ae\u4e2d\u7684\u7e2e\u5716",rasterInfoFieldsSelect:"\u9078\u64c7\u6e05\u55ae\u8cc7\u8a0a\u6b04\u4f4d",fieldLimitText:"\u6700\u591a\u53ef\u9078\u64c7 3 \u500b\u6b04\u4f4d\u3002",autoSyncText:"\u540c\u6b65\u4e3b\u8981\u5730\u5716",
+errorSectionMessage:"\u6240\u9078\u5730\u5716\u4e2d\u672a\u51fa\u73fe\u5716\u7247\u670d\u52d9\u5716\u5c64\u3002\u8acb\u9078\u64c7\u5305\u542b\u659c\u89d2\u5f71\u50cf\u7684\u5716\u7247\u670d\u52d9\u5716\u5c64\u6240\u5728\u7684\u5730\u5716\u3002",distanceToolText:"\u555f\u7528\u8ddd\u96e2\u548c\u5340\u57df\u5de5\u5177",outOfRangeMessage:"\u8acb\u8f38\u5165\u4ecb\u65bc 0 \u5230 100 \u7684\u503c",decimalPlace:"\u5c0f\u6578\u4f4d\u6578",decimalPlaces:"\u5c0f\u6578\u4f4d",separator:"\u4f7f\u7528\u5343\u5206\u4f4d\u5206\u9694\u7b26",
+showTime:"\u986f\u793a\u6642\u9593",_localized:{}}});

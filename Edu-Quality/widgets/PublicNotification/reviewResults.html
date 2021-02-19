@@ -1,0 +1,45 @@
+ <div style="width: 100%;" data-dojo-attach-point="reviewResultsNode">
+     <div class="esriCTHeader">
+     <div class="esriCTPageTittle">${nls.reviewResults.reviewResultsLabel}</div>
+     <div class="esriCTPageContent">
+
+        <div class="section">
+            <div>${nls.groupingLabels.addresseeSource}</div>
+            <div class="entryFullWidth">
+              <div style="width: 100%;" aria-label="${nls.groupingLabels.addresseeSource}" data-dojo-attach-point="addresseeTextbox" data-dojo-type="dijit/form/TextBox" disabled=true></div>
+            </div>
+          </div>
+
+          <div class="section" style="padding-bottom:5px;">
+            <div class="esriCTSelectToolWrapper">
+              <div data-dojo-attach-point="selectToolDiv"></div>
+            </div>
+          </div>
+
+          <div class="section">
+            <div>${nls.groupingLabels.formatHeaderText}</div>
+            <div class="entryFullWidth">
+              <select aria-label="${nls.groupingLabels.formatHeaderText}" class="lastFocusNode" data-dojo-attach-point="formatSelect" data-dojo-type="jimu/dijit/formSelect"></select>
+            </div>
+          </div>
+
+        <div class="section">
+            <div id="rrNumAddresseesFound" class="hidden"></div>
+            <!-- aria-label added at runtime -->
+            <div class="esriCTButtonsWrapper">
+                <div class="esriCTButton esriCTMargin10">
+                    <div tabindex="0" role="button" data-dojo-attach-point="clearBtn" class="jimu-btn jimu-float-trailing"
+                    data-dojo-attach-event="onclick:_onClearBtnClicked">
+                    </div>
+                </div>
+                <div class="esriCTButton esriCTMargin2">
+                    <div tabindex="0" role="button" data-dojo-attach-point="reviewResultsDownloadBtn"
+                        class="jimu-btn jimu-float-trailing focusableItem" data-dojo-attach-event="onclick:_onDownloadBtnClicked">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+     </div>
+    </div>
+ </div>

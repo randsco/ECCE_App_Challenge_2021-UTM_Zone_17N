@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define(["dojo/_base/declare","dojo/_base/html","dojo/query","dijit/form/ComboBox"],function(c,a,d,e){return c([e],{postCreate:function(){this.inherited(arguments);var b=null;this.downArrowNode=b=this._buttonNode?this._buttonNode:d(".dijitButtonNode.dijitArrowButton.dijitDownArrowButton",this.domNode)[0]},disableInput:function(){this.focusNode&&(this.focusNode.disabled=!0)},enableInput:function(){this.focusNode&&(this.focusNode.disabled=!1)},showDownArrow:function(){this.downArrowNode&&a.removeClass(this.downArrowNode,
+"hide")},hideDownArrow:function(){this.downArrowNode&&a.addClass(this.downArrowNode,"hide")},setTitle:function(b){a.setAttr(this.domNode,"title",b)}})});

@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/DistrictLookup/nls/strings":{_widgetLabel:"District Lookup",searchHeaderText:"Search for an address or locate on map",mouseOverTooltip:"Set location",informationTabTitle:"Information",directionTabTitle:"Directions",invalidPortalUrlMsg:"Invalid portal url",invalidPolygonLayerMsg:"Polygon layer is not configured properly",invalidRelatedPointLayerMsg:"Related Point layer is not configured properly",noPrecinctFoundMsg:"No polygon found for this address or location",noPollingPlaceFoundMsg:"Could not find the point associated with the polygon",
+attachmentHeader:"Attachments",failedToGenerateRouteMsg:"Failed to generate route.",allPopupsDisabledMsg:"Pop-ups are not configured, results cannot be displayed.",worldGeocoderName:"Address",searchLocationTitle:"Searched Location",informationContentLabel:"Information Content",_localized:{}}});

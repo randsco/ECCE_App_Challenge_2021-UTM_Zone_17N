@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/Infographic/nls/strings":{_widgetLabel:"Infografika",noData:"Nincs adat",thousandAbbreviation:"k",millionAbbreviation:"M",billionAbbreviation:"G",legend:"Jelmagyar\u00e1zat",dataLabels:"Adatfeliratok",horizontalAxis:"V\u00edzszintes tengely",verticalAxis:"F\u00fcgg\u0151leges tengely",showPeriodsWithoutRecords:"Rekordok n\u00e9lk\u00fcli id\u0151szakok megjelen\u00edt\u00e9se",parsingperiodTip:"A sz\u00e1m\u00edt\u00e1s nem siker\u00fclt. A r\u00f6vid elemz\u00e9si id\u0151szak miatt t\u00fal sok az id\u0151intervallum.",
+manyCategoryTip:"A t\u00fal sok kateg\u00f3ria miatt nem siker\u00fclt megjelen\u00edteni a diagramot.",dataSource:"Adatforr\u00e1s",fieldString:"A mez\u0151",dsErrorTipSuf:"nem \u00e9rhet\u0151 el.",invalidRangeTip:"\u00c9rv\u00e9nytelen tartom\u00e1ny.",_localized:{}}});

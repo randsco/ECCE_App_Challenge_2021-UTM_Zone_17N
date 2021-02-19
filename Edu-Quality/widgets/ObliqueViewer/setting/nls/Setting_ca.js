@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/ObliqueViewer/setting/nls/strings":{layerSelect:"Seleccioneu la capa",elevationFieldSelect:"Camp d'elevaci\u00f3",azimuthFieldSelect:"Camp d'azimut",searchRadiusSelect:"Radi de cerca",showThumbnailText:"Mostra les miniatures a la llista de r\u00e0sters",rasterInfoFieldsSelect:"Seleccioneu els camps d'informaci\u00f3 de llista",fieldLimitText:"Es poden seleccionar un m\u00e0xim de 3 camps.",autoSyncText:"Sincronitza el mapa principal",errorSectionMessage:"No hi ha cap capa de servei d'imatges present al mapa seleccionat. Seleccioneu un mapa amb una capa de servei d'imatges que contingui imatges obliq\u00fces.",
+distanceToolText:"Habilita les eines d'\u00e0rea i dist\u00e0ncia",outOfRangeMessage:"Introdu\u00efu un valor d'entre 0 i 100",decimalPlace:"posici\u00f3 decimal",decimalPlaces:"posicions decimals",separator:"Utilitza el separador de milers",showTime:"Mostra el temps",_localized:{}}});

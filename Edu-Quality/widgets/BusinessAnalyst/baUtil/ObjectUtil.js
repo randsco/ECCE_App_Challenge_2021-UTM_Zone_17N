@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define(["require","exports"],function(h,k){function g(c,d){for(var b=0,e=Object.keys(d);b<e.length;b++){var a=e[b];"object"!==typeof c[a]||null===c[a]||"object"!==typeof d[a]||null===d[a]?c[a]=d[a]:Array.isArray(c[a])?Array.isArray(d[a])?c[a].concat(d[a]):c[a]=d[a]:Array.isArray(d[a])?c[a]=d[a]:g(c[a],d[a])}}return{map:function(c,d,b){void 0!==b&&(d=d.bind(b));if("object"!==typeof c)throw Error("Object or array expected");if(Array.isArray(c)){b=[];for(var e=0,a=c.length;e<a;e++)b.push(d(c[e],e));
+return b}b={};e=0;for(a=Object.keys(c);e<a.length;e++){var f=a[e];Object.hasOwnProperty.call(c,f)&&(b[f]=d(c[f],f))}return b},deepAssign:function(c){for(var d=[],b=1;b<arguments.length;b++)d[b-1]=arguments[b];for(b=0;b<d.length;b++)g(c,d[b]);return c}}});

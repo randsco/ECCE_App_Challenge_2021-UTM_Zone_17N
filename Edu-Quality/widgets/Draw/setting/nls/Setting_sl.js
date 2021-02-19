@@ -1,0 +1,6 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/Draw/setting/nls/strings":{addLocation:"Dodaj enoto lokacije",addDistance:"Dodaj enoto dol\u017eine",addArea:"Dodaj enoto povr\u0161ine",label:"Napis",abbr:"Okraj\u0161ava",conversion:"Pretvorba",actions:"Dejanja",areaUnits:"Enote povr\u0161ine",distanceUnits:"Enote dol\u017eine",kilometers:"Kilometri",miles:"Milje",meters:"Metri",feet:"\u010cevlji",yards:"Jardi",nauticalmiles:"Morske milje",squareKilometers:"Kvadratni kilometri",squareMiles:"Kvadratne milje",acres:"Akri",hectares:"Hektarji",
+squareMeters:"Kvadratni metri",squareFeet:"Kvadratni \u010devlji",squareYards:"Kvadratni jardi",location:"Lokacije",distance:"Razdalje",area:"Povr\u0161ine",kilometersAbbreviation:"km",milesAbbreviation:"mi",metersAbbreviation:"m",feetAbbreviation:"ft",yardsAbbreviation:"yd",nauticalmilesAbbreviation:"nm",squareKilometersAbbreviation:"km2",squareMilesAbbreviation:"mi2",acresAbbreviation:"ac",hectaresAbbreviation:"ha",squareMetersAbbreviation:"m2",squareFeetAbbreviation:"ft2",squareYardsAbbreviation:"yd2",
+defineUnits:"Dolo\u010di merske enote.",operationalLayer:"Dodaj risbo kot operativni sloj karte.",_localized:{}}});

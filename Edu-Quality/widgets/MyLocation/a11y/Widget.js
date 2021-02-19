@@ -1,0 +1,4 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define(["dojo/_base/lang","dojo/on","dojo/_base/html","dijit/a11yclick"],function(c,d,a,e){return{a11y_updateLabel:function(b){b&&a.setAttr(this.domNode,"aria-label",b)},a11y_initEvents:function(){this.own(d(this.domNode,e,c.hitch(this,this.onLocationClick)))},a11y_disable:function(){a.setAttr(this.domNode,"aria-disabled","true");a.setAttr(this.domNode,"disabled","disabled")},a11y_enable:function(){a.removeAttr(this.domNode,"aria-disabled");a.removeAttr(this.domNode,"disabled")}}});

@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/CoordinateConversion/setting/nls/strings":{scaleLabel:"Skala Zoom",locationSymbol:"Simbol lokasi",locationSymbolHintText:"Petunjuk: Simbol untuk lokasi koordinat saat ini",symbolPickerPreviewText:"Pratinjau:",warning:"Harap pilih opsi Tampilkan terlebih dahulu.",setDefaultFormatTitlePane:"Edit Format Default",showHeaderLabel:"Tampilkan",indexHeaderLabel:"Indeks",notationHeaderLabel:"Notasi",defaultFormatHeaderLabel:"Format Default",editFormatHeaderLabel:"Format Edit",errorMessage:"Pemilih simbol berisi kesalahan, harap perbaiki sebelum menerapkan.",
+posNegPrefixLabel:'Tambahkan awalan "+/-" ke angka positif dan negatif',inputNotation:"Notasi Input",_localized:{}}});

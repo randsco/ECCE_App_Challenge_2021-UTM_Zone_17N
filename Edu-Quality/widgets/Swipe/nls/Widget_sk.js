@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/Swipe/nls/strings":{_widgetLabel:"Potiahnu\u0165 zvislo",swipeText:"Vrstva potiahnutia",spyglassText:"Vyberte vrstvu, ktor\u00e1 sa objav\u00ed vo zv\u00e4\u010d\u0161ovacom skle",disableTips:"Kliknite na deaktiv\u00e1ciu n\u00e1stroja \u0165ahania (Swipe)",enableTips:"Kliknite na aktiv\u00e1ciu n\u00e1stroja \u0165ahania (Swipe)",defaultLayerHolder:"Kliknite pre v\u00fdber",selectLayers:"Vybra\u0165 vrstvy",miniTips:"Nastavi\u0165 vrstvu potiahnutia (Swipe)",nItemsSelected:"zvolen\u00e9 vrstva(y)",
+showList:"zobrazi\u0165 zoznam vrstiev",hideList:"skry\u0165 zoznam vrstiev",_localized:{}}});

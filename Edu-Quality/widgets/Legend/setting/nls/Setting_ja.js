@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/Legend/setting/nls/strings":{left:"\u5de6\u63c3\u3048",right:"\u53f3\u63c3\u3048",arrangement:"\u914d\u7f6e",autoUpdate:"\u81ea\u52d5\u66f4\u65b0",respectCurrentMapScale:"\u73fe\u5728\u306e\u30de\u30c3\u30d7\u7e2e\u5c3a\u306b\u5f93\u3046",layerSelectorTitle:"\u51e1\u4f8b\u3092\u8868\u793a\u3059\u308b\u30ec\u30a4\u30e4\u30fc\u306e\u9078\u629e: ",showLegendsForLayers:"\u51e1\u4f8b\u306b\u8868\u793a\u3059\u308b\u30ec\u30a4\u30e4\u30fc:",showBasemapLegends:"\u30d9\u30fc\u30b9\u30de\u30c3\u30d7\u306e\u51e1\u4f8b\u306e\u8868\u793a",
+honorTheWebMapSetting:"Web \u30de\u30c3\u30d7\u306e\u8a2d\u5b9a\u3092\u512a\u5148",reset:"\u30ea\u30bb\u30c3\u30c8",resetTip:"Web \u30de\u30c3\u30d7\u306e\u5143\u306e\u8a2d\u5b9a\u306b\u30ea\u30bb\u30c3\u30c8",_localized:{}}});

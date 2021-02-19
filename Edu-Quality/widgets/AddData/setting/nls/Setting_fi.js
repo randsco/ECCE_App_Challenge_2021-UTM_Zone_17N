@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/AddData/setting/nls/strings":{numPerPage:"Kohteiden m\u00e4\u00e4r\u00e4 sivulla",scopeOptions:{defaultScope:"Haun oletuslaajuus",labelPlaceholder:"Valinnainen selite",MyContent:"Salli oma sis\u00e4lt\u00f6",MyOrganization:"Salli oma organisaatio",ArcGISOnline:"Salli ArcGIS Online",Curated:"Salli kootut",CuratedFilter:"Koontisuodatin",livingAtlasExample:"Maailmankartaston esimerkki:"},addFromUrl:{caption:"Salli URL-osoite"},addFromFile:{caption:"Salli tiedosto",maxRecordCount:"Tietueiden enimm\u00e4ism\u00e4\u00e4r\u00e4 tiedostoa kohden"},
+_default:"Oletusarvo",makeDefault:"Aseta oletukseksi",_localized:{}}});

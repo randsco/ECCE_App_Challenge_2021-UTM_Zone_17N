@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/AddData/setting/nls/strings":{numPerPage:"Broj stavaka po stranici",scopeOptions:{defaultScope:"Zadani opseg pretra\u017eivanja",labelPlaceholder:"Neobavezna oznaka",MyContent:"Omogu\u0107i Moj sadr\u017eaj",MyOrganization:"Omogu\u0107i Moju organizaciju",ArcGISOnline:"Omogu\u0107i ArcGIS Online",Curated:"Omogu\u0107i nadzirano",CuratedFilter:"Nadzirani filtar",livingAtlasExample:"Primjer za Living atlas:"},addFromUrl:{caption:"Omogu\u0107i URL"},addFromFile:{caption:"Omogu\u0107i datoteku",
+maxRecordCount:"Maksimalno zapisa po datoteci"},_default:"Zadano",makeDefault:"Postavi zadano",_localized:{}}});

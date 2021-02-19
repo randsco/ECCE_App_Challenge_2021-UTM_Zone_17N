@@ -1,0 +1,37 @@
+<div>
+       <!-- Visible Section DropDown -->
+       <div class="esriCTSettingsRow">
+        <div class="esriCTLabelSettingsRightButton esriCTSettingsButtonIcon esriCTPointer"
+          title="${nls.visibleSectionButtonLabel}" data-dojo-attach-point="visibleSectionSettingsButton"
+          role="button" aria-label="${nls.visibleSectionButtonLabel}" tabindex="0" aria-expanded ="false"></div>
+        <div class="esriCTInputLabelSettings esriCTEllipsis esriCTSubTitle" title="${nls.visibleSectionLabel}">
+          ${nls.visibleSectionLabel}</div>
+      </div>
+
+      <!-- Visible Section Color Pickers -->
+      <div class="container esriCTGroupHidden" data-dojo-attach-point="visibleSectionContainer">
+        <div class="esriCTEllipsis" title="${nls.outline}">${nls.outline}</div>
+        <div class="colorPicker Line" id="visibleSectionOutlineColor"
+          data-dojo-attach-point="visibleAreaOutlineColorPicker"></div>
+        <div class="esriCTEllipsis" title="${nls.fill}">${nls.fill}</div>
+        <div class="colorPicker Fill" id="visibleSectionFillColor"
+          data-dojo-attach-point="visibleAreaFillColorPicker"></div>
+      </div>
+
+      <!-- Non-visible Section DropDown -->
+      <div class="esriCTSettingsRow">
+        <div class="esriCTLabelSettingsRightButton esriCTSettingsButtonIcon esriCTPointer"
+        title="${nls.nonVisibleSectionButtonLabel}" data-dojo-attach-point="nonVisibleSectionSettingsButton"
+        role="button" aria-label="${nls.nonVisibleSectionButtonLabel}" tabindex="0" aria-expanded ="false"></div>
+        <div class="esriCTInputLabelSettings esriCTEllipsis esriCTSubTitle" title="${nls.nonVisibleSectionLabel}">${nls.nonVisibleSectionLabel}
+        </div>
+      </div>
+
+      <!-- Non-visible Section -->
+      <div class="container esriCTGroupHidden" data-dojo-attach-point="nonVisibleSectionContainer">
+        <div class="esriCTEllipsis" title="${nls.outline}">${nls.outline}</div>
+        <div class="colorPicker Line" id="nonVisibleSectionOutlineColor" data-dojo-attach-point="nonVisibleAreaOutlineColorPicker"></div>
+        <div class="esriCTEllipsis" title="${nls.fill}">${nls.fill}</div>
+        <div class="colorPicker Fill" id="nonVisibleSectionFillColor" data-dojo-attach-point="nonVisibleAreaFillColorPicker"></div>
+      </div>   
+</div>

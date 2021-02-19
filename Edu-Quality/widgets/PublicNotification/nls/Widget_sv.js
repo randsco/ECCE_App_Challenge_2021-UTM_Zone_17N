@@ -1,0 +1,6 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/PublicNotification/nls/strings":{_widgetLabel:"Offentligt meddelande",groupingLabels:{searchHeaderText:"V\u00e4lj eller s\u00f6k efter ett geoobjekt i kartan",addresseeSource:"Mottagarlager",formatHeaderText:"Format"},numAddresseesFound:"${count} mottagare hittades. Vill du forts\u00e4tta?",tooltips:{drawByPoint:"Klicka p\u00e5 en plats i kartan",drawByExtent:"Rita en ruta runt det intressanta omr\u00e5det",invalidBufferDistance:"Ange ett v\u00e4rde som \u00e4r st\u00f6rre \u00e4n eller lika med noll",
+printSuggestion:"Skriv ut med inst\u00e4llningen Faktisk storlek i Adobe\u00ae Reader\u00ae",nothingConfigured:"Inga lager med popupf\u00f6nster f\u00f6r adressmallar har konfigurerats"},formats:{descriptionCSV:"Kommaavgr\u00e4nsade v\u00e4rden",hintCSV:"Fil med kommaavgr\u00e4nsade v\u00e4rden",descriptionPDF:"PDF-etikett ${heightLabelIn} x ${widthLabelIn} tum; ${labelsPerPage} per sida",hintPDF:"t.ex. Avery(r) etikett ${averyPartNumber}"},reviewButtonLabel:"Granska",reviewResults:{reviewResultsLabel:"G\u00e5 igenom resultaten"},
+_localized:{}}});

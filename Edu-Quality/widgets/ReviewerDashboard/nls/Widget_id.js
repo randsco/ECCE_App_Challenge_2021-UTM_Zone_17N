@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/ReviewerDashboard/nls/strings":{_widgetLabel:"Dashboard Peninjau",spatialFilterSelection:"Filter hasil berdasarkan geografi",drawSelectionArea:"Gambarkan area pilihan hasil pada peta",currentSelection:"Tampilkan hasil hanya pada jangkauan peta saat ini",censusBlockGroup:"Tampilkan hasil berdasarkan geografi",noSpatialFilter:" Jangan gunakan filter spasial",reviewerSessionFilter:"Filter hasil berdasarkan Sesi Peninjau",selectAttributeFilters:"Pilih informasi untuk ditampilkan",phaseFieldName:"lifecyclephase",
+statusFieldName:"lifecyclestatus",allSessions:"Semua Sesi",dashboardTab:"Dashboard",filtersTab:"Pengaturan",noResults:"Tidak Ada Hasil yang Ditemukan",resultsBy:"Hasil berdasarkan: ",reviewed:"Tinjau",corrected:"Perbaikan",verified:"Verifikasi",OtherCategory:"Lainnya",backButton:"Kembali",_localized:{}}});

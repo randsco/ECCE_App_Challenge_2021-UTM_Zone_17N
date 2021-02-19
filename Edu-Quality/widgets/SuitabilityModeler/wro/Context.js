@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define(["dojo/_base/declare","dojo/_base/lang"],function(c,d){return c([],{allowSaveAs:!0,i18n:null,constructor:function(a){d.mixin(this,a)},checkMixedContent:function(a){"string"===typeof window.location.href&&0===window.location.href.indexOf("https://")&&"string"===typeof a&&0===a.indexOf("http://")&&(a="https:"+a.substring("5"));return a},generateRandomId:function(){var a=null;a="function"===typeof Date.now?Date.now():(new Date).getTime();var b=(""+Math.random()).replace("0.","r");return(a+""+
+b).replace(/-/g,"")},getMap:function(){return null},showError:function(a,b){console.warn("wro/Context.showError",a,b)},showMessage:function(a,b){console.warn("wro/Context.showMessage",a,b)},showMessages:function(a,b,e){console.warn("wro/Context.showMessages",a,b,e)}})});

@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/ReviewerDashboard/nls/strings":{_widgetLabel:"Kontrolna tabla kontrolora",spatialFilterSelection:"Filtriraj rezultate po geografskoj lokaciji",drawSelectionArea:"Nacrtaj povr\u0161inu izbora rezultata na mapi",currentSelection:"Prika\u017ei rezultate samo u trenutnom obuhvatu mape",censusBlockGroup:"Prika\u017ei rezultate po geografskoj lokaciji",noSpatialFilter:" Ne koristi prostorni filter",reviewerSessionFilter:"Filtriraj rezultate po sesiji kontrolora",selectAttributeFilters:"Izaberi informacije za prikaz",
+phaseFieldName:"lifecyclephase",statusFieldName:"lifecyclestatus",allSessions:"Sve sesije",dashboardTab:"Kontrolna tabla",filtersTab:"Postavke",noResults:"Nema prona\u0111enih rezultata",resultsBy:"Rezultati po: ",reviewed:"Pregledaj",corrected:"Ispravka",verified:"Verifikacija",OtherCategory:"Ostalo",backButton:"Nazad",_localized:{}}});

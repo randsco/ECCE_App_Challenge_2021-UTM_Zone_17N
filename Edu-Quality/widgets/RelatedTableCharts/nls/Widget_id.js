@@ -1,0 +1,4 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/RelatedTableCharts/nls/strings":{_widgetLabel:"Grafik Tabel Terkait",searchHeaderText:"Cari alamat atau temukan lokasinya di peta",addressInfowindowTitle:"Lokasi yang Dicari",mouseOverTooltip:"Klik untuk melihat grafik",errMsgNoResultsFound:"Tidak ada hasil yang ditemukan",errMsgNoFeaturesFound:"Tidak ditemukan fitur apa pun",noChatsConfigured:"Tidak tersedia grafik yang telah dikonfigurasi",locationButtonAriaLabel:"Pilih lokasi pada peta",_localized:{}}});

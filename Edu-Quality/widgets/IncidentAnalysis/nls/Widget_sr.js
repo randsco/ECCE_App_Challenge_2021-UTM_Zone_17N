@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/IncidentAnalysis/nls/strings":{_widgetLabel:"Analiza incidenta",_featureAction_SetAsIncident:"Postavi kao incident",incident:"Incident",weather:"Vreme",locate_incident:"Lociraj incident",clear_incidents:"Obri\u0161i incidente",reverse_geocoded_address:"Najbli\u017ea adresa",reverse_geocoded_error:"Nije dostupno",miles:"Milje",kilometers:"Kilometri",feet:"Stope",meters:"Metri",yards:"Jardi",nauticalMiles:"Nauti\u010dke milje",now:"SADA",wind:"VETAR",SUN:"NED",MON:"PON",TUE:"UTO",WED:"SRE",
+THU:"\u010cET",FRI:"PET",SAT:"SUB",defaultTabMsg:"Nema identifikovanih incidenata.",useMapExtent:"Koristi trenutni obuhvat mape",noFeaturesFound:"Nema prona\u0111enih geoobjekata.",downloadCSV:"PREUZMI CSV",sum:"ZBIR",min:"MIN",max:"MAKS",avg:"PROS.",count:"BROJA\u010c",area:"POVR\u0160INA",length:"DU\u017dINA",_localized:{}}});

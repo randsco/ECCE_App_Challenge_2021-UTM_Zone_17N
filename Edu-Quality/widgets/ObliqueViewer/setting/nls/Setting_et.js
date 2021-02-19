@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/ObliqueViewer/setting/nls/strings":{layerSelect:"Vali kiht",elevationFieldSelect:"K\u00f5rguse v\u00e4li",azimuthFieldSelect:"Asimuudi v\u00e4li",searchRadiusSelect:"Otsinguraadius",showThumbnailText:"Kuva pisipildid rasterloendis",rasterInfoFieldsSelect:"Vali loendi infov\u00e4ljad",fieldLimitText:"Valida saab maksimaalselt kolm v\u00e4lja.",autoSyncText:"S\u00fcnkroniseeri p\u00f5hikaart",errorSectionMessage:"Valitud kaardil pole \u00fchtki pilditeenust sisaldavat kihti. Valige kaldpilte sisaldava pilditeenuskihiga kaart.",
+distanceToolText:"Luba vahemaa ja ala t\u00f6\u00f6riistad",outOfRangeMessage:"Sisestage v\u00e4\u00e4rtus vahemikus 0 kuni 100",decimalPlace:"k\u00fcmnendkoht",decimalPlaces:"k\u00fcmnendkohad",separator:"Kasuta tuhande eraldajat",showTime:"Kuva aeg",_localized:{}}});

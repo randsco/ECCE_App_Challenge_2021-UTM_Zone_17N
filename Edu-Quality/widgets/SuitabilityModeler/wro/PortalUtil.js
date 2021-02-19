@@ -1,0 +1,6 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define(["dojo/_base/declare","dojo/_base/lang","esri/request"],function(f,g,e){return f([],{portal:!0,portalUser:null,userContentUrl:null,constructor:function(a){g.mixin(this,a)},getItemUrl:function(a){return this.portal.portalUrl+"/sharing/rest/content/items/"+encodeURIComponent(a)},getSaveItemUrl:function(a,b,c){c=this.getUserContentUrl(c);a?(b&&(c+="/"+encodeURIComponent(b)),c+="/items/"+encodeURIComponent(a)+"/update"):(b&&(c+="/"+encodeURIComponent(b)),c+="/addItem");return c},getUserContentUrl:function(){return this.userContentUrl},
+makeMultiPartFormData:function(a){var b,c=new FormData;for(b in a)if(a.hasOwnProperty(b)){var d=a[b];"snippet"!==b&&"description"!==b&&"text"!==b||null!==d||(d="");c.append(b,d)}return c},saveItem:function(a,b,c,d){a=this.getSaveItemUrl(a,c,d);b.f="json";b=this.makeMultiPartFormData(b);return e({url:a,form:b,handleAs:"json"},{usePost:!0})},readItem:function(a){a=this.getItemUrl(a);return e({url:a,content:{f:"json"},handleAs:"json"},{})},readItemJsonData:function(a){a=this.getItemUrl(a)+"/data";return e({url:a,
+content:{f:"json"},handleAs:"json"},{})}})});

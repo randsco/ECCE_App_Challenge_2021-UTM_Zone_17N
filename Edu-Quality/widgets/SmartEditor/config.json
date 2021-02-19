@@ -1,0 +1,18 @@
+{
+    "editor": {
+        "layerInfos": [ ],
+        "honorWebMapConfiguration": false,
+        "expandMainLayerOnLoad":true,
+        "expandRelatedTableOnLoad":false,
+        "displayPromptOnSave": false,
+        "displayPromptOnDelete": false,
+        "removeOnSave": true,
+        "useFilterEditor": false,
+        "listenToGF": false,
+        "keepTemplateSelected": false,
+        "editGeometryDefault": false,
+        "autoSaveEdits": false,
+        "showValuePicker": false,
+        "featuresSelectionTolerance": 5
+    }
+}

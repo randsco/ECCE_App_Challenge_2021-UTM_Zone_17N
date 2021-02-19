@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/Select/nls/strings":{_widgetLabel:"Vybra\u0165",showActions:"Zobrazi\u0165 akcie na vybranom prvku(och)",toggleSelectability:"Kliknite na prepnutie selektovate\u013enosti",showSelectedFeatures:"Kliknite na zobrazenie vybran\u00fdch prvkov",actionsTitle:"Akcie v\u00fdberu",turnonAll:"Nastavi\u0165 v\u0161etky vrstvy ako selektovate\u013en\u00e9",turnoffAll:"Vypn\u00fa\u0165 mo\u017enos\u0165 selektovania na v\u0161etk\u00fdch vrstv\u00e1ch",toggleSelect:"Prepn\u00fa\u0165 selektovate\u013enos\u0165 pre v\u0161etky vrstvy",
+singleSelect:"Spravi\u0165 t\u00fato vrstvu jedinou selektovate\u013enou vrstvou",enableByDefault:"V\u00fdchodiskovo povoli\u0165 n\u00e1stroj pre selekciu",_localized:{}}});

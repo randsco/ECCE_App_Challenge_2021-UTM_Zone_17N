@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/Infographic/nls/strings":{_widgetLabel:"Infografika",noData:"Bez \u00fadajov",thousandAbbreviation:"k",millionAbbreviation:"M",billionAbbreviation:"G",legend:"Legenda",dataLabels:"Ozna\u010denia \u00fadajov",horizontalAxis:"Vodorovn\u00e1 os",verticalAxis:"Zvisl\u00e1 os",showPeriodsWithoutRecords:"Zobrazi\u0165 rozsahy bez z\u00e1znamov",parsingperiodTip:"V\u00fdpo\u010det sa nepodaril. Pr\u00edli\u0161 ve\u013ea \u010dasov\u00fdch intervalov sp\u00f4soben\u00fdch kr\u00e1tkym obdob\u00edm vyhodnotenia.",
+manyCategoryTip:"Nepodarilo sa zobrazi\u0165 rastrov\u00fd kalkul\u00e1tor. Pr\u00edli\u0161 ve\u013ea kateg\u00f3ri\u00ed.",dataSource:"Zdroj \u00fadajov",fieldString:"Pole",dsErrorTipSuf:"nie je dostupn\u00fd.",invalidRangeTip:"Neplatn\u00fd rozsah.",_localized:{}}});

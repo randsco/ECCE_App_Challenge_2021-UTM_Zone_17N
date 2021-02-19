@@ -1,0 +1,6 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/PublicNotification/nls/strings":{_widgetLabel:"Notifica\u00e7\u00e3o P\u00fablica",groupingLabels:{searchHeaderText:"Selecione ou pesquise um elemento no mapa.",addresseeSource:"Camadas de Destinat\u00e1rio",formatHeaderText:"Formato"},numAddresseesFound:"${count} endere\u00e7os encontrados; pretende continuar?",tooltips:{drawByPoint:"Clique numa localiza\u00e7\u00e3o no mapa.",drawByExtent:"Desenhe uma caixa em volta de uma \u00e1rea de interesse",invalidBufferDistance:"Por favor, introduza um valor superior ou igual a zero",
+printSuggestion:'Imprima com a defini\u00e7\u00e3o "Tamanho real" do Adobe\u00ae Reader\u00ae',nothingConfigured:"N\u00e3o foram configuradas quaisquer camadas com janelas pop-up de modelos de endere\u00e7os"},formats:{descriptionCSV:"Valores separados por v\u00edrgulas",hintCSV:"Ficheiro de valores separados por v\u00edrgulas",descriptionPDF:"R\u00f3tulo PDF ${heightLabelIn} x ${widthLabelIn} polegadas; ${labelsPerPage} por p\u00e1ginas",hintPDF:"Ex. R\u00f3tulo Avery(r) ${averyPartNumber}"},reviewButtonLabel:"Rever",
+reviewResults:{reviewResultsLabel:"Rever Resultados"},_localized:{}}});

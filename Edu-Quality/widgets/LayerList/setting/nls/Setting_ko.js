@@ -1,0 +1,6 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/LayerList/setting/nls/strings":{showLegend:"\ubc94\ub840 \ubcf4\uae30",controlPopupMenuTitle:"\ub808\uc774\uc5b4 \uc0c1\ud669 \uba54\ub274\uc5d0 \ud45c\uc2dc\ud560 \uc791\uc5c5 \uc120\ud0dd",zoomto:"\ud655\ub300/\ucd95\uc18c",transparency:"\ud22c\uba85\ub3c4",setVisibilityRange:"\uac00\uc2dc \ubc94\uc704 \uc124\uc815",controlPopup:"\ud31d\uc5c5 \ud65c\uc131\ud654/\ube44\ud65c\uc131\ud654",moveUpAndDown:"\uc704\ub85c/\uc544\ub798\ub85c \uc774\ub3d9",attributeTable:"\uc18d\uc131 \ud14c\uc774\ube14\uc5d0\uc11c \ubcf4\uae30",
+url:"\uc124\uba85/\ud56d\ubaa9 \uc138\ubd80\uc815\ubcf4 \ubcf4\uae30/\ub2e4\uc6b4\ub85c\ub4dc",showHideLabels:"\ub808\uc774\ube14 \ud45c\uc2dc/\uc228\uae30\uae30",expandAllLayers:"\ubaa8\ub4e0 \ub808\uc774\uc5b4 \ud655\uc7a5",expandAllLayersByDefault:"\uae30\ubcf8 \uc124\uc815\uc5d0 \ub530\ub77c \ubaa8\ub4e0 \ub808\uc774\uc5b4 \ud655\uc7a5",layerSelectorTitle:"\ubaa9\ub85d\uc5d0 \ud45c\uc2dc\ud560 \ub808\uc774\uc5b4\ub97c \uc120\ud0dd",showTitle:"\uc81c\ubaa9 \ud45c\uc2dc",showBasemap:"\ubca0\uc774\uc2a4\ub9f5 \ubcf4\uae30",
+_localized:{}}});

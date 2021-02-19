@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/TimeSlider/nls/strings":{_widgetLabel:"\u010casov\u00fd posuvn\u00edk",enableTips:"Klikn\u00fa\u0165 pre zobrazenie \u010dasov\u00e9ho posuvn\u00edka.",disableTips:"Nie s\u00fa vidite\u013en\u00e9 \u017eiadne vrstvy so zoh\u013eadnen\u00edm \u010dasu.",timeExtent:"${FROMTIME} do ${ENDTIME}",layers:"Vrstvy: ",speedLabel:"R\u00fdchlos\u0165 prehr\u00e1vania",liveData:"\u00dadaje v re\u00e1lnom \u010dase",previous:"predch\u00e1dzaj\u00faci interval",next:"nasleduj\u00faci interval",
+play:"prehra\u0165 z\u00e1znam",pause:"pozastavi\u0165",speed:"r\u00fdchlos\u0165",_localized:{}}});

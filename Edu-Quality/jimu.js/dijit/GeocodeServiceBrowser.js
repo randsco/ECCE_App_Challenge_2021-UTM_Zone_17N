@@ -1,0 +1,4 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define(["dojo/_base/declare","./_BasicServiceBrowser","dojo/_base/lang","dojo/_base/array","jimu/serviceBrowserRuleUtils"],function(c,d,e,f,g){return c([d],{baseClass:"jimu-geocode-service-browser",declaredClass:"jimu.dijit.GeocodeServiceBrowser",url:"",multiple:!1,postMixInProperties:function(){this.inherited(arguments);this.rule=g.getGeocodeServiceBrowserRule()},getSelectedItems:function(){var a=this.inherited(arguments);return a=f.map(a,e.hitch(this,function(b){return{name:b.name,url:b.url}}))}})});

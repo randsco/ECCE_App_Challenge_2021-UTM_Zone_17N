@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/Infographic/nls/strings":{_widgetLabel:"Infografikas",noData:"N\u0117ra duomen\u0173",thousandAbbreviation:"k",millionAbbreviation:"M",billionAbbreviation:"G",legend:"Legenda",dataLabels:"Duomen\u0173 \u017eym\u0117s",horizontalAxis:"Horizontali a\u0161is",verticalAxis:"Vertikali a\u0161is",showPeriodsWithoutRecords:"Rodyti laikotarpius be \u012fra\u0161\u0173",parsingperiodTip:"Nepavyko suskai\u010diuoti. Per daug laiko interval\u0173 d\u0117l trumpo analiz\u0117s laikotarpio.",
+manyCategoryTip:"Nepavyko parodyti diagramos. Per daug kategorij\u0173.",dataSource:"Duomen\u0173 \u0161altinis",fieldString:"Darbui lauke",dsErrorTipSuf:"negalimas.",invalidRangeTip:"Netinkamas intervalas.",_localized:{}}});

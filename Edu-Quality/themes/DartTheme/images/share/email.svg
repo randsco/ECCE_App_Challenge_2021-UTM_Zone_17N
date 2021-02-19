@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>email</title>
+    <desc>Created with Sketch.</desc>
+    <g id="share" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.6">
+        <g id="share_normal" transform="translate(-1201.000000, -582.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="email" transform="translate(1201.000000, 582.000000)">
+                <path d="M18,0 C19.1,0 20,0.9 20,2 L20,2 L20,18 C20,19.1 19.1,20 18,20 L18,20 L2,20 C0.9,20 0,19.1 0,18 L0,18 L0,2 C0,0.9 0.9,0 2,0 L2,0 Z M15.6,5 L4.4,5 C3.63,5 3,5.61875 3,6.375 L3,6.375 L3,14.625 C3,15.38125 3.63,16 4.4,16 L4.4,16 L15.6,16 C16.37,16 17,15.38125 17,14.625 L17,14.625 L17,6.375 C17,5.61875 16.37,5 15.6,5 L15.6,5 Z M15,6 L15,7.42857143 L9.5,11 L4,7.42857143 L4,6 L9.5,9.57142857 L15,6 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

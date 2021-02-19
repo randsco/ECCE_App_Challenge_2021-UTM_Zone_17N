@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/ReviewerDashboard/setting/nls/strings":{drsSOEURL:"URL stre\u017enika recenzenta podatkov",chartSection:"\u0160tevilo izsekov/stolpcev na grafikonu",selectByGeography:"Vklju\u010di filter po prostoru",selectUrl:"Storitveni sloj prostorskega filtra",selectMapUrl:"Storitev prostorskega filtra",geometryServiceURL:"URL geometrijske storitve",includeFieldNames:"Izberite polja",fieldNames:"Imena polj",lifecyclePhaseFieldName:"FAZA \u017dIVLJENJSKEGA CIKLA",setSource:"Nastavi",defaultFieldName:"resnost",
+warning:"Nepravilen vnos",includeDefaultFieldName:"Privzeto ime polja mora biti izbrano",selectFieldWarning:"Vidno mora biti vsaj eno polje",defaultFieldNotVisible:"Privzeto polje mora biti vidno",batchJobCheckGroup:"opravilo mno\u017ei\u010dnega preverjanja po skupinah",defaultColumn:"Privzeto",visibleColumn:"Vidno",fieldNameColumn:"Ime polja nadzorne plo\u0161\u010de",aliasColumn:"Vzdevek",_localized:{}}});

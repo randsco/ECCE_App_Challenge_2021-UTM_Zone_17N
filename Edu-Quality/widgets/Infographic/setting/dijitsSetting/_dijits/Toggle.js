@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define("dojo/_base/declare dojo/_base/lang dojo/on dojo/_base/html dojo/Evented dijit/_WidgetBase dijit/_TemplatedMixin".split(" "),function(b,c,d,a,e,f,g){return b([f,g,e],{baseClass:"infographic-toggle-button",templateString:'\x3cdiv\x3e\x3cdiv data-dojo-attach-point\x3d"toggleBtn" class\x3d"toggle toggle-off"\x3e\x3c/div\x3e\x3c/div\x3e',state:!1,postCreate:function(){this.inherited(arguments);this.own(d(this.toggleBtn,"click",c.hitch(this,function(){this.setState(!this.state);this.emit("change",
+this.state)})))},setState:function(h){(this.state=h)?this._open():this._close()},getState:function(){return!!this.state},_open:function(){a.removeClass(this.toggleBtn,"toggle-off");a.addClass(this.toggleBtn,"toggle-on")},_close:function(){a.removeClass(this.toggleBtn,"toggle-on");a.addClass(this.toggleBtn,"toggle-off")}})});

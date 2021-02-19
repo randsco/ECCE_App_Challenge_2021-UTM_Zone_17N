@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define(["dojo/_base/declare"],function(b){return b(null,{clippedPolygon:null,unclippedPolygon:null,clippedPolyToUTMZone:null,utmZonePoly:null,fullZoneGeometry:null,map:null,xmin:0,ymin:0,x:"",y:"",xmax:0,ymax:0,minMaxType:"",utmZone:0,latitudeZone:"",GZD:"",text:"",constructor:function(a){this.unclippedPolygon=a.unclippedPolygon;this.clippedPolygon=a.clippedPolygon;this.utmZonePoly=a.utmZonePoly;this.fullZoneGeometry=a.fullZoneGeometry;this.clippedPolyToUTMZone=a.clippedPolyToUTMZone;this.map=a.map;
+this.xmin=a.xmin;this.ymin=a.ymin;this.xmax=a.xmax;this.ymax=a.ymax;this.x=a.x;this.y=a.y;this.minMaxType=a.minMaxType;this.utmZone=Math.round(a.utmZone);this.latitudeZone=a.latitudeZone;this.GZD=a.GZD;this.text=a.text}})});

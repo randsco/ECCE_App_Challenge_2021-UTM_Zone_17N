@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/Measurement/setting/nls/strings":{defaultAreaUnit:"Predvolen\u00e1 jednotka plochy",defaultLengthUnit:"Predvolen\u00e1 jednotka d\u013a\u017eky",acres:"Akre",sqMiles:"\u0160tvorcov\u00e9 m\u00edle",sqKilometers:"\u0160tvorcov\u00e9 kilometre",hectares:"Hekt\u00e1re",sqYards:"\u0160tvorcov\u00e9 yardy",sqFeet:"\u0160tvorcov\u00e9 stopy",sqFeetUS:"\u0160tvorcov\u00e9 stopy (US)",sqMeters:"\u0160tvorcov\u00e9 metre",miles:"M\u00edle",kilometers:"Kilometre",feet:"Stopy",feetUS:"Stopy (US)",
+meters:"Metre",yards:"Yardy",nauticalMiles:"N\u00e1morn\u00e9 m\u00edle",showArea:"Plocha",showDistance:"Vzdialenos\u0165",showLocation:"Poloha",showtools:"Zobrazi\u0165 n\u00e1stroje merania:",operationalLayer:"Prida\u0165 grafiku s meraniami ako opera\u010dn\u00fa vrstvu mapy.",allHidedTips:"Mal by by\u0165 vybran\u00fd aspo\u0148 jeden n\u00e1stroj.",_localized:{}}});

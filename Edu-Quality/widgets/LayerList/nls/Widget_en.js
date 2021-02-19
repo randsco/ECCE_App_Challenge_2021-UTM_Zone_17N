@@ -1,0 +1,6 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/LayerList/nls/strings":{_widgetLabel:"Layer List",titleBasemap:"Basemaps",titleLayers:"Operational layers",labelLayer:"Layer name",itemZoomTo:"Zoom to",itemTransparency:"Transparency",itemSetVisibilityRange:"Set visibility range",itemTransparent:"Transparent",itemOpaque:"Opaque",itemMoveUp:"Move up",itemMoveDown:"Move down",itemDesc:"Description",itemDownload:"Download",itemToAttributeTable:"View in Attribute Table",itemShowItemDetails:"Show item details",empty:"empty",removePopup:"Disable pop-up",
+enablePopup:"Enable pop-up",turnAllLayersOff:"Turn all layers off",turnAllLayersOn:"Turn all layers on",expandAllLayers:"Expand all layers",collapseAlllayers:"Collapse all layers",turnAllLabelsOff:"Turn all labels off",turnAllLabelsOn:"Turn all labels on",showLabels:"Show labels",hideLables:"Hide labels",keyword:"Keyword",basemapLayers:"Basemap layers",typeAKeywork:"Type a keyword",layers:"Layers",tipLayerSearch:"Search layers",tipLayerListOperation:"Layer list operations",tipLayerOperation:"Layer menus",
+tipClearText:"Clear text",collapseLayer:"Collapse",expandLayer:"Expand",_localized:{}}});

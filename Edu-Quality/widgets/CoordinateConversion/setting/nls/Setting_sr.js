@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/CoordinateConversion/setting/nls/strings":{scaleLabel:"Skala zumiranja",locationSymbol:"Simbol lokacije",locationSymbolHintText:"Savet: simbol za trenutne koordinate lokacije",symbolPickerPreviewText:"Pregledaj:",warning:"Najpre izaberite \u201ePrika\u017ei opcije\u201c.",setDefaultFormatTitlePane:"Izmeni podrazumevani format",showHeaderLabel:"Prika\u017ei",indexHeaderLabel:"Indeks",notationHeaderLabel:"Oznaka",defaultFormatHeaderLabel:"Podrazumevani format",editFormatHeaderLabel:"Izmeni format",
+errorMessage:"Bira\u010d simbola ima gre\u0161ke, popravite pre primene.",posNegPrefixLabel:'Dodajte prefiks "+/-" pozitivnim i negativnim brojevima',inputNotation:"Obave\u0161tenje za unos",_localized:{}}});

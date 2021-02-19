@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/ObliqueViewer/setting/nls/strings":{layerSelect:"Izaberi sloj",elevationFieldSelect:"Polje elevacije",azimuthFieldSelect:"Polje azimuta",searchRadiusSelect:"Pre\u010dnik pretrage",showThumbnailText:"Prika\u017ei sli\u010dice u rasterskoj listi",rasterInfoFieldsSelect:"Izaberi polja informacija o listama",fieldLimitText:"Mo\u017eete da izaberete najvi\u0161e 3 polja.",autoSyncText:"Sinhronizuj glavnu mapu",errorSectionMessage:"Nema prisutnih slojeva servisa snimaka u izabranoj mapi. Izaberite mapu sa slojem servisa snimaka koji sadr\u017ei kose snimke.",
+distanceToolText:"Omogu\u0107i alatke razdaljine i oblasti",outOfRangeMessage:"Unesite vrednost izme\u0111u 0 i 100",decimalPlace:"decimalno mesto",decimalPlaces:"decimalna mesta",separator:"Koristi separator za 1000",showTime:"Prika\u017ei vreme",_localized:{}}});

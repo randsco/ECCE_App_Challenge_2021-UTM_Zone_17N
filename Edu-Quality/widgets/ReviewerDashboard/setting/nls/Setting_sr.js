@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/ReviewerDashboard/setting/nls/strings":{drsSOEURL:"URL adresa servera kontrolora podataka",chartSection:"Broj ise\u010daka/traka u grafikonu",selectByGeography:"Uklju\u010di filter po geografskoj lokaciji",selectUrl:"Sloj servisa za filtriranje po geografskoj lokaciji",selectMapUrl:"Servis za filtriranje po geografskoj lokaciji",geometryServiceURL:"URL adresa servisa geometrije",includeFieldNames:"Izaberi polja",fieldNames:"Imena polja",lifecyclePhaseFieldName:"LIFECYCLEPHASE",setSource:"Postavi",
+defaultFieldName:"ozbiljnost",warning:"Neta\u010dan unos",includeDefaultFieldName:"Ime podrazumevanog polja mora da bude izabrano",selectFieldWarning:"Bar jedno polje mora da bude vidljivo",defaultFieldNotVisible:"Podrazumevano polje mora da bude vidljivo",batchJobCheckGroup:"batchjobcheckgroup",defaultColumn:"Podrazumevano",visibleColumn:"Vidljivo",fieldNameColumn:"Ime polja kontrolne table",aliasColumn:"Pseudonim",_localized:{}}});

@@ -1,0 +1,6 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+require({cache:{"url:widgets/AddData/search/templates/ResultCount.html":'\x3cdiv class\x3d"search-result-count"\x3e\r\n  \x3cspan class\x3d"search-count" data-dojo-attach-point\x3d"messageNode"\x3e\x3c/span\x3e\r\n\x3c/div\x3e'}});
+define("dojo/_base/declare dojo/number ./SearchComponent dojo/text!./templates/ResultCount.html dojo/i18n!../nls/strings ./util".split(" "),function(e,f,g,h,c,k){return e([g],{i18n:c,templateString:h,typePlural:c.search.resultCount.itemPlural,typeSingular:c.search.resultCount.itemSingular,postCreate:function(){this.inherited(arguments)},processResults:function(b){b=b.total;var d=this.typePlural;1===b&&(d=this.typeSingular);var a=this.i18n.search.resultCount.countPattern;a=a.replace("{count}",f.format(b));
+a=a.replace("{type}",d);k.setNodeText(this.messageNode,a)}})});

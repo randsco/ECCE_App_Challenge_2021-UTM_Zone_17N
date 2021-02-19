@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/CoordinateConversion/setting/nls/strings":{scaleLabel:"M\u0113rogmai\u0146as skala",locationSymbol:"Novietojuma simbols",locationSymbolHintText:"Padoms. Pa\u0161reiz\u0113j\u0101s koordin\u0101tu atra\u0161an\u0101s vietas simbols",symbolPickerPreviewText:"Priek\u0161skat\u012bjums:",warning:"L\u016bdzu, vispirms atlasiet opciju R\u0101d\u012bt.",setDefaultFormatTitlePane:"Redi\u0123\u0113t noklus\u0113juma form\u0101tu",showHeaderLabel:"Par\u0101d\u012bt",indexHeaderLabel:"Indekss",
+notationHeaderLabel:"Not\u0101cija",defaultFormatHeaderLabel:"Noklus\u0113juma form\u0101ts",editFormatHeaderLabel:"Form\u0101ta labo\u0161ana",errorMessage:"Simbolu izv\u0113l\u0113 ir k\u013c\u016bdas. Pirms t\u0101 lieto\u0161anas nov\u0113rsiet k\u013c\u016bdas.",posNegPrefixLabel:'Pievienot prefiksu "+/-" pozit\u012bviem un negat\u012bviem skait\u013ciem',inputNotation:"Ievades not\u0101cija",_localized:{}}});

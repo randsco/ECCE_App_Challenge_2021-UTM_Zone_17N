@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/CoordinateConversion/setting/nls/strings":{scaleLabel:"Mierka pribl\u00ed\u017eenia",locationSymbol:"Umiestnenie symbolu",locationSymbolHintText:"Pomocn\u00edk: Symbol pre aktu\u00e1lne s\u00faradnicov\u00e9 umiestnenie",symbolPickerPreviewText:"N\u00e1h\u013ead:",warning:"Najsk\u00f4r vyberte mo\u017enos\u0165 Zobrazi\u0165.",setDefaultFormatTitlePane:"Upravi\u0165 predvolen\u00fd form\u00e1t",showHeaderLabel:"Zobrazi\u0165",indexHeaderLabel:"Index",notationHeaderLabel:"Z\u00e1pis",
+defaultFormatHeaderLabel:"Predvolen\u00fd form\u00e1t",editFormatHeaderLabel:"Upravi\u0165 form\u00e1t",errorMessage:"V\u00fdber symbolov obsahuje chyby, pros\u00edm, opravte ich pred pou\u017eit\u00edm.",posNegPrefixLabel:'Prida\u0165 "+/-" predponu ku kladn\u00fdm a z\u00e1porn\u00fdm \u010d\u00edslam',inputNotation:"Z\u00e1pis vstupu",_localized:{}}});

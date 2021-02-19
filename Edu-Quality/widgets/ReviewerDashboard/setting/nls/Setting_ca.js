@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/ReviewerDashboard/setting/nls/strings":{drsSOEURL:"URL del servidor del Data Reviewer",chartSection:"Nombre de porcions o barres del gr\u00e0fic",selectByGeography:"Inclou el filtre per geografia",selectUrl:"Capa de servei de filtre per geografia",selectMapUrl:"Servei de filtre per geografia",geometryServiceURL:"URL del servei de geometria",includeFieldNames:"Seleccioneu els camps",fieldNames:"Noms de camp",lifecyclePhaseFieldName:"LIFECYCLEPHASE",setSource:"Defineix",defaultFieldName:"gravetat",
+warning:"Entrada incorrecta",includeDefaultFieldName:"S'ha de seleccionar un nom de camp per defecte",selectFieldWarning:"Almenys un camp ha de ser visible",defaultFieldNotVisible:"El camp per defecte ha de ser visible",batchJobCheckGroup:"batchjobcheckgroup",defaultColumn:"Per defecte",visibleColumn:"Visible",fieldNameColumn:"Nom de camp del quadre de comandaments",aliasColumn:"\u00c0lies",_localized:{}}});

@@ -1,0 +1,24 @@
+{
+  "symbology": {
+    "visibleSectionOutlineColor": {
+      "color": "#000000",
+      "transparency": 1,
+      "type": "esriSLSSolid"
+    },
+    "visibleSectionFillColor": {
+      "color": "#00ff00",
+      "transparency": 0.5,
+      "type": "esriSFSSolid"
+    },
+    "nonVisibleSectionOutlineColor": {
+      "color": "#000000",
+      "transparency": 1,
+      "type": "esriSLSSolid"
+    },
+    "nonVisibleSectionFillColor": {
+      "color": "#ff0000",
+      "transparency": 0.5,
+      "type": "esriSFSSolid"
+    }
+  }
+}

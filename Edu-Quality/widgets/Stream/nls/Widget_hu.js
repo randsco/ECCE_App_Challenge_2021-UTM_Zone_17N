@@ -1,0 +1,6 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/Stream/nls/strings":{_widgetLabel:"Adatfolyam",noStreamLayer:"Nem \u00e9rhet\u0151k el el\u0151re konfigur\u00e1lt adatfolyamr\u00e9teg-be\u00e1ll\u00edt\u00e1sok.",streamControls:"Adatfolyam-vez\u00e9rl\u0151k",startStreaming:"Adatfolyam ind\u00edt\u00e1sa",stopStreaming:"Adatfolyam le\u00e1ll\u00edt\u00e1sa",clearObservation:"Kor\u00e1bbi megfigyel\u00e9sek t\u00f6rl\u00e9se",streamFilter:"Sz\u0171r\u0151",showAllObservations:"\u00d6sszes megfigyel\u00e9s megjelen\u00edt\u00e9se",
+showMapAreaObservations:"Megfigyel\u00e9sek sz\u0171k\u00edt\u00e9se az aktu\u00e1lis t\u00e9rk\u00e9pter\u00fcletre",showObservationsByDrawing:"Megfigyel\u00e9sek sz\u0171k\u00edt\u00e9se a t\u00e9rk\u00e9pre rajzol\u00e1ssal",useSpatialFilter:"T\u00e9rbeli sz\u0171r\u0151 haszn\u00e1lata a megfigyel\u00e9sek sz\u0171k\u00edt\u00e9s\u00e9hez",useAttributeFilter:"Attrib\u00fatumsz\u0171r\u0151 haszn\u00e1lata a megfigyel\u00e9sek sz\u0171k\u00edt\u00e9s\u00e9hez",selectStreamLayer:"Adatfolyamr\u00e9teg kiv\u00e1laszt\u00e1sa",
+previousObservations:"Kor\u00e1bbi megfigyel\u00e9sek berajzol\u00e1sa",applyAttrFilter:"Alkalmaz",_localized:{}}});

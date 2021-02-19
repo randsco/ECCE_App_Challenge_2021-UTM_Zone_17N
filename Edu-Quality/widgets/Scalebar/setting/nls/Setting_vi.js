@@ -1,0 +1,4 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/Scalebar/setting/nls/strings":{unit:"\u0110\u01a1n v\u1ecb",style:"Ki\u1ec3u",dual:"k\u00e9p",english:"ti\u1ebfng anh",metric:"h\u1ec7 m\u00e9t",ruler:"th\u01b0\u1edbc",line:"\u0111\u01b0\u1eddng",number:"s\u1ed1",spinnerLabel:"L\u00e0m tr\u00f2n s\u1ed1 \u0111\u1ebfn: ",decimalPlace:"ch\u1eef s\u1ed1 th\u1eadp ph\u00e2n",separator:"Hi\u1ec3n th\u1ecb d\u1ea5u ph\u00e2n t\u00e1ch h\u00e0ng ngh\u00ecn",_localized:{}}});

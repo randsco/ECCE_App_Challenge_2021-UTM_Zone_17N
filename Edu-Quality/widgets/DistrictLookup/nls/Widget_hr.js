@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/DistrictLookup/nls/strings":{_widgetLabel:"Tra\u017eenje okruga",searchHeaderText:"Pretra\u017ei adresu ili prona\u0111i na karti",mouseOverTooltip:"Postavi lokaciju",informationTabTitle:"Informacije",directionTabTitle:"Upute za vo\u017enju",invalidPortalUrlMsg:"Neva\u017ee\u0107i URL portala",invalidPolygonLayerMsg:"Poligonalni sloj nije ispravno konfiguriran",invalidRelatedPointLayerMsg:"Povezani to\u010dkasti sloj nije ispravno konfiguriran",noPrecinctFoundMsg:"Nema poligona za ovu adresu ili lokaciju",
+noPollingPlaceFoundMsg:"Nije mogu\u0107e prona\u0107i to\u010dku povezanu s poligonom",attachmentHeader:"Privitci",failedToGenerateRouteMsg:"Stvaranje rute nije uspjelo.",allPopupsDisabledMsg:"Sko\u010dni prozori nisu konfigurirani, rezultati se ne mogu prikazati.",worldGeocoderName:"Adresa",searchLocationTitle:"Pretra\u017eene lokacije",informationContentLabel:"Podaci o sadr\u017eaju",_localized:{}}});

@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define(["dojo/_base/declare","dojo/_base/lang","jimu/BaseFeatureAction","jimu/WidgetManager"],function(c,d,e,f){return c(e,{_widgetInstance:null,_config:null,iconClass:"esriCT-feature-action-unskip-icon",iconFormat:"PNG",_getWidgetConfig:function(){this._widgetInstance||(this._widgetInstance=f.getInstance().getWidgetById(this.widgetId));this._widgetInstance&&(this._config=this._widgetInstance.config);return this._config?!0:!1},isFeatureSupported:function(b,a){a=a&&a.id?a.id:a;return this._getWidgetConfig()?
+a&&this._config&&this._config.skipableLayers&&0<=this._config.skipableLayers.indexOf(a)&&(b=this._widgetInstance._checkSkipLocationXY(b.features[0]),b.isFeatureSkipped)?!0:!1:!1},onExecute:function(b,a){a=a||d.getObject("_wabProperties.popupInfo.layerForActionWithEmptyFeatures",!1,this.map.infoWindow);this._widgetInstance.unSkipFromTrace(b.features,a)}})});
