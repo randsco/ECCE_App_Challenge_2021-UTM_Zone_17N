@@ -27,3 +27,12 @@ Ontario Ministry of Education. (n.d.). School information finder: Glossary. http
 Parekh, G., Flessa, J., & Smaller, H. (2016). The Toronto District School Board: A global city school system's structures, processes, and student outcomes. London Review of Education, 14(3), 65-84.
 
 Statistics Canada. (2019, June 18). Census profile, 2016 census - Toronto, city [Census subdivision], Ontario and Canada [Country]. Statistics Canada: Canada's national statistical agency / Statistique Canada : Organisme statistique national du Canada. https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/Page.cfm?Lang=E&Geo1=CSD&Code1=3520005&Geo2=PR&Data=Count&B1=All
+
+Scarlett Rakowska
+Hi, I’m Scarlett and I am in my fourth year of completing an Honours Bachelor of Science at the University of Toronto Mississauga. I am doing a double major in Geographical Information Systems (GIS) and Communication, Culture Information, and Technology (CCIT). In my free time, I love travelling and enjoying the outdoors. My current research examines the green space accessibility for students in Ontario elementary schools using GIS and Remote Sensing.
+
+Ryan Wong
+Hi, my name is Ryan. I enjoy making music, playing the trumpet, and creating useful mobile apps. My passion for teaching and computers has led me to love GIS because of the opportunity to take data, transform it, and present it in the form of elegant thematic maps. I am in my 4th year at University of Toronto Mississauga studying GIS, Communication Technology, and Computer Science.
+
+Nikola Malesevic
+Hello, my name is Nikola Malesevic. I am a fourth-year student at the University of Toronto majoring in Communication, Culture, Information Technology with two minors in geography including GIS. In my free time, I like to spend time outdoors, exploring new places and playing sports. A fun fact about me is that I can speak five languages. 
