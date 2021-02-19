@@ -1,0 +1,32 @@
+/* Set body and html to full height for parallax effect */
+body, html {
+  height: 100%;
+  margin: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Parallax image scrolling effect */
+.parallax1 {
+  /* Image */
+  background-image: url("../images/toronto_background.png");
+  /* Set height of image to the device */
+  height: 100%;
+  /* Parallax effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Parallax image scrolling effect */
+.parallax2 {
+  /* Image */
+  background-image: url("../images/toronto_skyline.jpg");
+  /* Set height of image to the device */
+  height: 100%;
+  /* Parallax effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
