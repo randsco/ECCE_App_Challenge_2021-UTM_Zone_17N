@@ -1,6 +1,29 @@
-ECCE App Challenge 2021
-Team: UTM Zone 17N
-App: Edu-Quality
+# Edu-Quality by UTM Zone 17N
+View key demographic numbers and school locations. Search specific locations and identify nearby schools.
 
-# Edu-Quality
-## by UTM Zone 17N
+## Mission Statement
+UTM Zone 17N aims to help the municipality of Toronto and Toronto residents identify inequalities in schools throughout various Toronto neighbourhoods. Edu-Quality illustrates data in a visual representation through maps and graphs to allow the school board members along with educational ministers to identify populations and evaluate vulnerability in Toronto neighbourhoods in order to reduce inequality in education.
+
+## Motivation
+Motivation goes here.
+
+## Data Sources
+### Census and School Data
+Census Tracts (2016): https://open.canada.ca/data/en/dataset/a846228b-5c71-4c53-b184-45d939d2940c
+Ontario Marginalization Index (2016): https://www.publichealthontario.ca/en/eRepository/userguide-on-marg.pdf
+Toronto Neighbourhood Information (2016): https://open.toronto.ca/dataset/neighbourhood-profiles/
+
+### Spatial Data
+Toronto Neighbourhoods: https://open.toronto.ca/dataset/neighbourhood-profiles/
+Toronto Schools (2018/2019): https://data.ontario.ca/en/dataset/school-information-and-student-demographics
+
+## References
+Matheson FI, van Ingen T. (2016). 2016 Ontario Marginalization Index. Welcome | Public Health Ontario. https://www.publichealthontario.ca/-/media/documents/O/2017/on-marg-userguide.pdf?la=en
+
+Matheson FI, van Ingen T. 2016 Ontario marginalization index. Toronto, ON: St. Michael’s Hospital; 2018. Joint publication with Public Health Ontario.
+
+Ontario Ministry of Education. (n.d.). School information finder: Glossary. https://www.app.edu.gov.on.ca/eng/sift/glossary.asp
+
+Parekh, G., Flessa, J., & Smaller, H. (2016). The Toronto District School Board: A global city school system's structures, processes, and student outcomes. London Review of Education, 14(3), 65-84.
+
+Statistics Canada. (2019, June 18). Census profile, 2016 census - Toronto, city [Census subdivision], Ontario and Canada [Country]. Statistics Canada: Canada's national statistical agency / Statistique Canada : Organisme statistique national du Canada. https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/Page.cfm?Lang=E&Geo1=CSD&Code1=3520005&Geo2=PR&Data=Count&B1=All
