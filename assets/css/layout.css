@@ -3,12 +3,71 @@ body, html {
   height: 100%;
   margin: 0px;
   font-family: Arial, Helvetica, sans-serif;
+  color: #FFFFFF;
+}
+
+p {
+  font-size: 30px;
+  padding-left: 300px;
+  padding-right: 300px;
+  text-align: center;
+}
+
+.normal_font {
+  font-weight: normal;
+}
+
+.title {
+  font-size: 80px;
+}
+
+.subtitle {
+  font-size: 60px;
+}
+
+.logo {
+  float: left;
+  display: block;
+  height: 40px;
+  width: auto;
+  padding: 10px;
+}
+
+.glossary {
+  font-size: 20px;
+  padding-left: 300px;
+  padding-right: 300px;
+}
+
+/* The navigation bar */
+.navbar {
+  overflow: hidden;
+  background-color: #0069c0;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+}
+
+/* Links inside the navbar */
+.navbar a {
+  float: right;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 20px 20px;
+  text-decoration: none;
+}
+
+/* Change background on mouse-over */
+.navbar a:hover {
+  background: #ddd;
+  color: black;
 }
 
 /* Parallax image scrolling effect */
 .parallax1 {
   /* Image */
-  background-image: url("../images/toronto_background.png");
+  background-image: url("../images/toronto_background.jpg");
   /* Set height of image to the device */
   height: 100%;
   /* Parallax effect */
@@ -23,7 +82,7 @@ body, html {
   /* Image */
   background-image: url("../images/toronto_skyline.jpg");
   /* Set height of image to the device */
-  height: 100%;
+  height: 30%;
   /* Parallax effect */
   background-attachment: fixed;
   background-position: center;
